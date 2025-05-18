@@ -25,8 +25,8 @@ API_SECRET = "cSBDXfMkv63CsGHobxz33PEVpt4QzfQ3PJlS"
 redis_host = "localhost"
 redis_port = 6379
 redis_db = 0
-redis_trade_ttl = 86400 * 7  # 7 days
-redis_kline_ttl = 86400 * 30  # 30 days
+redis_trade_ttl = 3600 * 6  # 6h
+redis_kline_ttl = 86400 * 1  # 1 days
 interval = "1"  # 1 minute candles
 
 # Initialize Redis connection with connection pooling
@@ -72,7 +72,7 @@ def get_eligible_assets():
         return []
 
 # Callback for trade data
-def get_trades(trades):
+def get_trades(trades, limit = 1000000):
     """Process and store trade data in Redis"""
     try:
         global last_message_time
@@ -117,7 +117,7 @@ def get_trades(trades):
             
             # Add to time-series list (most recent 1000 trades)
             r.lpush(f"{symbol}:trades", trade_key)
-            r.ltrim(f"{symbol}:trades", 0, 999)
+            r.ltrim(f"{symbol}:trades", 0, limit)
             
             logger.debug(f"Trade: {symbol} {price} {side} {size}")
     except Exception as e:

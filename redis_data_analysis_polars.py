@@ -82,7 +82,7 @@ def get_all_assets():
         logger.error(f"Error getting assets: {e}")
         return []
 
-def get_recent_trades(symbol, limit=1000, time_limit = 30):
+def get_recent_trades(symbol, limit=1000000, time_limit = 30):
     """Get the most recent trades for a symbol from the last 30 minutes"""
     try:
         # Get trade keys
@@ -190,16 +190,18 @@ def calculate_volume_metrics(trades_data):
     # Calculate delta percentages
     total_volume = metrics['total_volume']
     total_dollar = metrics['total_dollar_volume']
+    sell_volume = metrics['sell_volume']
+    total_dollar_sell = metrics['sell_dollar_volume']
     
-    if total_volume > 0:
-        metrics['volume_delta_pct'] = (metrics['volume_delta'] / total_volume) * 100
+    if sell_volume > 0:
+        metrics['volume_delta_pct'] = (metrics['volume_delta'] / sell_volume) * 100
     else:
-        metrics['volume_delta_pct'] = 0
+        metrics['volume_delta_pct'] = 1000
         
-    if total_dollar > 0:
-        metrics['dollar_delta_pct'] = (metrics['dollar_delta'] / total_dollar) * 100
+    if total_dollar_sell > 0:
+        metrics['dollar_delta_pct'] = (metrics['dollar_delta'] / total_dollar_sell) * 100
     else:
-        metrics['dollar_delta_pct'] = 0
+        metrics['dollar_delta_pct'] = 1000
     
     return metrics
 
@@ -280,16 +282,18 @@ def calculate_time_based_metrics(trades_data, interval_seconds):
         # Calculate delta percentages
         total_volume = interval_metrics['total_volume']
         total_dollar = interval_metrics['total_dollar_volume']
+        sell_volume = interval_metrics['sell_volume']
+        total_dollar_sell = interval_metrics['sell_dollar_volume']
         
-        if total_volume > 0:
-            interval_metrics['volume_delta_pct'] = (interval_metrics['volume_delta'] / total_volume) * 100
+        if sell_volume > 0:
+            interval_metrics['volume_delta_pct'] = (interval_metrics['volume_delta'] / sell_volume) * 100
         else:
-            interval_metrics['volume_delta_pct'] = 0
+            interval_metrics['volume_delta_pct'] = 1000
             
-        if total_dollar > 0:
-            interval_metrics['dollar_delta_pct'] = (interval_metrics['dollar_delta'] / total_dollar) * 100
+        if total_dollar_sell > 0:
+            interval_metrics['dollar_delta_pct'] = (interval_metrics['dollar_delta'] / total_dollar_sell) * 100
         else:
-            interval_metrics['dollar_delta_pct'] = 0
+            interval_metrics['dollar_delta_pct'] = 1000
             
         # Add price change percentage
         if open_price > 0:
@@ -301,7 +305,7 @@ def calculate_time_based_metrics(trades_data, interval_seconds):
     
     return results
 
-def analyze_market_direction(trades_by_asset, min_volume=1000):
+def analyze_market_direction(trades_by_asset, min_volume=100):
     """Analyze market direction based on cumulative deltas"""
     if not trades_by_asset:
         return {}
@@ -416,10 +420,10 @@ def get_market_snapshot(interval_seconds=1800):
         total_sell_volume = sum(data['sell_volume'] for data in volume_distribution.values())
         total_delta = total_buy_volume - total_sell_volume
         
-        if total_market_volume > 0:
-            delta_pct = (total_delta / total_market_volume) * 100
+        if total_sell_volume > 0:
+            delta_pct = (total_delta / total_sell_volume) * 100
         else:
-            delta_pct = 0
+            delta_pct = 10000
         
         # Determine overall market sentiment
         if delta_pct > 10:

@@ -1,1098 +1,1202 @@
 {
-  "NCUSDT": {
-    "08:00": {
-      "buy_volume": 6511.72179,
-      "sell_volume": 7054.561860000001,
-      "total_volume": 13566.283650000001,
-      "net_volume": -542.8400700000011
-    }
-  },
-  "NOTUSDT": {
-    "08:00": {
-      "buy_volume": 55970.076109999995,
-      "sell_volume": 27734.17135,
-      "total_volume": 83704.24746,
-      "net_volume": 28235.904759999994
-    }
-  },
-  "AI16ZUSDT": {
-    "08:00": {
-      "buy_volume": 128978.8541,
-      "sell_volume": 95759.1606,
-      "total_volume": 224738.0147,
-      "net_volume": 33219.693499999994
-    }
-  },
-  "BCHUSDT": {
-    "08:00": {
-      "buy_volume": 139948.771,
-      "sell_volume": 150698.085,
-      "total_volume": 290646.856,
-      "net_volume": -10749.313999999984
-    }
-  },
-  "ATOMUSDT": {
-    "08:00": {
-      "buy_volume": 69777.75220000002,
-      "sell_volume": 115390.883,
-      "total_volume": 185168.63520000002,
-      "net_volume": -45613.130799999984
-    }
-  },
-  "COOKIEUSDT": {
-    "08:00": {
-      "buy_volume": 16445.147700000012,
-      "sell_volume": 25212.393700000015,
-      "total_volume": 41657.54140000003,
-      "net_volume": -8767.246000000003
-    }
-  },
-  "GRASSUSDT": {
-    "08:00": {
-      "buy_volume": 72504.03570000001,
-      "sell_volume": 16509.777700000002,
-      "total_volume": 89013.81340000001,
-      "net_volume": 55994.258
-    }
-  },
-  "AXLUSDT": {
-    "08:00": {
-      "buy_volume": 4589.610699999998,
-      "sell_volume": 10147.0947,
-      "total_volume": 14736.705399999999,
-      "net_volume": -5557.484000000001
-    }
-  },
-  "HYPEUSDT": {
-    "08:00": {
-      "buy_volume": 2377573.01804,
-      "sell_volume": 94052.53939999998,
-      "total_volume": 2471625.55744,
-      "net_volume": 2283520.47864
-    }
-  },
-  "KOMAUSDT": {
-    "08:00": {
-      "buy_volume": 8451.45884,
-      "sell_volume": 7535.272010000001,
-      "total_volume": 15986.73085,
-      "net_volume": 916.1868299999987
-    }
-  },
-  "10000ELONUSDT": {
-    "08:00": {
-      "buy_volume": 12432.799399999993,
-      "sell_volume": 4319.7702,
-      "total_volume": 16752.56959999999,
-      "net_volume": 8113.029199999993
-    }
-  },
-  "1000CATUSDT": {
-    "08:00": {
-      "buy_volume": 8885.723386,
-      "sell_volume": 7877.1985270000005,
-      "total_volume": 16762.921913,
-      "net_volume": 1008.5248589999992
-    }
-  },
-  "ARKMUSDT": {
-    "08:00": {
-      "buy_volume": 38093.14909999999,
-      "sell_volume": 32293.9513,
-      "total_volume": 70387.1004,
-      "net_volume": 5799.197799999987
-    }
-  },
-  "DOTUSDT": {
-    "08:00": {
-      "buy_volume": 65581.28010999999,
-      "sell_volume": 65823.44144000001,
-      "total_volume": 131404.72155000002,
-      "net_volume": -242.1613300000172
-    }
-  },
-  "FLOCKUSDT": {
-    "08:00": {
-      "buy_volume": 33528.182329999996,
-      "sell_volume": 13761.931100000002,
-      "total_volume": 47290.11343,
-      "net_volume": 19766.251229999994
-    }
-  },
-  "MEMEUSDT": {
-    "08:00": {
-      "buy_volume": 13175.573820000001,
-      "sell_volume": 8324.41739,
-      "total_volume": 21499.99121,
-      "net_volume": 4851.156430000001
-    }
-  },
-  "PEOPLEUSDT": {
-    "08:00": {
-      "buy_volume": 170852.53492,
-      "sell_volume": 66382.1751,
-      "total_volume": 237234.71002,
-      "net_volume": 104470.35982000001
-    }
-  },
-  "SONICUSDT": {
-    "08:00": {
-      "buy_volume": 90444.99579999999,
-      "sell_volume": 67271.49590000001,
-      "total_volume": 157716.4917,
-      "net_volume": 23173.49989999998
-    }
-  },
   "1000NEIROCTOUSDT": {
-    "08:00": {
-      "buy_volume": 51628.5435,
-      "sell_volume": 93006.30720000001,
-      "total_volume": 144634.8507,
-      "net_volume": -41377.76370000001
-    }
-  },
-  "RENDERUSDT": {
-    "08:00": {
-      "buy_volume": 115835.79359999996,
-      "sell_volume": 63734.458,
-      "total_volume": 179570.25159999996,
-      "net_volume": 52101.33559999996
-    }
-  },
-  "ADAUSDT": {
-    "08:00": {
-      "buy_volume": 163038.843,
-      "sell_volume": 156828.71740000002,
-      "total_volume": 319867.5604,
-      "net_volume": 6210.12559999997
-    }
-  },
-  "ENAUSDT": {
-    "08:00": {
-      "buy_volume": 123159.54769999998,
-      "sell_volume": 184544.62199999997,
-      "total_volume": 307704.16969999997,
-      "net_volume": -61385.07429999999
-    }
-  },
-  "SOLUSDT": {
-    "08:00": {
-      "buy_volume": 516622.32800000004,
-      "sell_volume": 566686.855,
-      "total_volume": 1083309.183,
-      "net_volume": -50064.526999999944
-    }
-  },
-  "EIGENUSDT": {
-    "08:00": {
-      "buy_volume": 70051.2554,
-      "sell_volume": 43304.7333,
-      "total_volume": 113355.98869999999,
-      "net_volume": 26746.522099999995
-    }
-  },
-  "BRETTUSDT": {
-    "08:00": {
-      "buy_volume": 29929.8269,
-      "sell_volume": 77981.1191,
-      "total_volume": 107910.946,
-      "net_volume": -48051.292199999996
-    }
-  },
-  "INJUSDT": {
-    "08:00": {
-      "buy_volume": 71183.68070000003,
-      "sell_volume": 97617.93479999999,
-      "total_volume": 168801.6155,
-      "net_volume": -26434.254099999962
-    }
-  },
-  "MOODENGUSDT": {
-    "08:00": {
-      "buy_volume": 279374.36806,
-      "sell_volume": 84407.66904000002,
-      "total_volume": 363782.0371,
-      "net_volume": 194966.69902
-    }
-  },
-  "MELANIAUSDT": {
-    "08:00": {
-      "buy_volume": 42617.862850000005,
-      "sell_volume": 28985.34586000001,
-      "total_volume": 71603.20871,
-      "net_volume": 13632.516989999996
-    }
-  },
-  "SUSDT": {
-    "08:00": {
-      "buy_volume": 27906.043700000002,
-      "sell_volume": 142335.6274,
-      "total_volume": 170241.6711,
-      "net_volume": -114429.58369999999
-    }
-  },
-  "BNBUSDT": {
-    "08:00": {
-      "buy_volume": 430807.81299999997,
-      "sell_volume": 65086.139,
-      "total_volume": 495893.952,
-      "net_volume": 365721.67399999994
-    }
-  },
-  "B3USDT": {
-    "08:00": {
-      "buy_volume": 25938.722999999998,
-      "sell_volume": 6459.3575999999985,
-      "total_volume": 32398.080599999998,
-      "net_volume": 19479.3654
-    }
-  },
-  "LUMIAUSDT": {
-    "08:00": {
-      "buy_volume": 15044.388909999998,
-      "sell_volume": 3851.4318999999996,
-      "total_volume": 18895.820809999997,
-      "net_volume": 11192.957009999998
-    }
-  },
-  "SHIB1000USDT": {
-    "08:00": {
-      "buy_volume": 154081.36145000003,
-      "sell_volume": 89421.11641999999,
-      "total_volume": 243502.47787,
-      "net_volume": 64660.245030000035
-    }
-  },
-  "RONINUSDT": {
-    "08:00": {
-      "buy_volume": 1567.06898,
-      "sell_volume": 1651.66204,
-      "total_volume": 3218.73102,
-      "net_volume": -84.59305999999992
-    }
-  },
-  "HYPERUSDT": {
-    "08:00": {
-      "buy_volume": 23163.046799999996,
-      "sell_volume": 16156.829699999995,
-      "total_volume": 39319.87649999999,
-      "net_volume": 7006.217100000002
-    }
-  },
-  "LTCUSDT": {
-    "08:00": {
-      "buy_volume": 179363.58000000007,
-      "sell_volume": 996841.1800000002,
-      "total_volume": 1176204.7600000002,
-      "net_volume": -817477.6000000001
-    }
-  },
-  "SIGNUSDT": {
-    "08:00": {
-      "buy_volume": 32918.1404,
-      "sell_volume": 34363.4525,
-      "total_volume": 67281.59289999999,
-      "net_volume": -1445.3121000000028
-    }
-  },
-  "EOSUSDT": {
-    "08:00": {
-      "buy_volume": 60783.51265,
-      "sell_volume": 80759.38197999999,
-      "total_volume": 141542.89463,
-      "net_volume": -19975.869329999994
-    }
-  },
-  "SENDUSDT": {
-    "08:00": {
-      "buy_volume": 2375.5009000000005,
-      "sell_volume": 1605.7027000000003,
-      "total_volume": 3981.2036000000007,
-      "net_volume": 769.7982000000002
-    }
-  },
-  "KAITOUSDT": {
-    "08:00": {
-      "buy_volume": 87200.83670000001,
-      "sell_volume": 78069.8875,
-      "total_volume": 165270.7242,
-      "net_volume": 9130.949200000017
-    }
-  },
-  "NEARUSDT": {
-    "08:00": {
-      "buy_volume": 274120.8031,
-      "sell_volume": 211850.52589999998,
-      "total_volume": 485971.329,
-      "net_volume": 62270.27720000004
-    }
-  },
-  "BERAUSDT": {
-    "08:00": {
-      "buy_volume": 118035.06800000001,
-      "sell_volume": 140189.59,
-      "total_volume": 258224.658,
-      "net_volume": -22154.521999999983
-    }
-  },
-  "NILUSDT": {
-    "08:00": {
-      "buy_volume": 26238.709099999996,
-      "sell_volume": 28829.770699999997,
-      "total_volume": 55068.479799999994,
-      "net_volume": -2591.061600000001
-    }
-  },
-  "IPUSDT": {
-    "08:00": {
-      "buy_volume": 28719.458009999995,
-      "sell_volume": 22711.91421,
-      "total_volume": 51431.37221999999,
-      "net_volume": 6007.543799999996
-    }
-  },
-  "KERNELUSDT": {
-    "08:00": {
-      "buy_volume": 19426.613599999997,
-      "sell_volume": 17206.177,
-      "total_volume": 36632.79059999999,
-      "net_volume": 2220.4365999999973
-    }
-  },
-  "APEUSDT": {
-    "08:00": {
-      "buy_volume": 40642.73412,
-      "sell_volume": 43772.635089999996,
-      "total_volume": 84415.36921,
-      "net_volume": -3129.900969999995
-    }
-  },
-  "AAVEUSDT": {
-    "08:00": {
-      "buy_volume": 224134.43889999998,
-      "sell_volume": 66971.62640000001,
-      "total_volume": 291106.0653,
-      "net_volume": 157162.81249999997
-    }
-  },
-  "POLUSDT": {
-    "08:00": {
-      "buy_volume": 79381.1482,
-      "sell_volume": 49084.70850000003,
-      "total_volume": 128465.85670000003,
-      "net_volume": 30296.439699999966
-    }
-  },
-  "HEIUSDT": {
-    "08:00": {
-      "buy_volume": 5183.480689999998,
-      "sell_volume": 2083.3762500000007,
-      "total_volume": 7266.856939999998,
-      "net_volume": 3100.104439999997
-    }
-  },
-  "ARBUSDT": {
-    "08:00": {
-      "buy_volume": 140434.11763999998,
-      "sell_volume": 168390.48339,
-      "total_volume": 308824.60103,
-      "net_volume": -27956.365750000026
-    }
-  },
-  "ETHUSDT-27MAR26": {
-    "08:00": {
-      "buy_volume": 0.0,
-      "sell_volume": 26.1575,
-      "total_volume": 26.1575,
-      "net_volume": -26.1575
-    }
-  },
-  "SOLVUSDT": {
-    "08:00": {
-      "buy_volume": 24594.53938,
-      "sell_volume": 15163.789169999998,
-      "total_volume": 39758.32855,
-      "net_volume": 9430.75021
-    }
-  },
-  "ETHUSDT": {
-    "08:00": {
-      "buy_volume": 492398.8989,
-      "sell_volume": 1307909.9024,
-      "total_volume": 1800308.8013,
-      "net_volume": -815511.0035000001
-    }
-  },
-  "ACXUSDT": {
-    "08:00": {
-      "buy_volume": 851.6263,
-      "sell_volume": 2216.7498,
-      "total_volume": 3068.3761,
-      "net_volume": -1365.1235000000001
-    }
-  },
-  "POPCATUSDT": {
-    "08:00": {
-      "buy_volume": 148023.99920000005,
-      "sell_volume": 108733.49650000001,
-      "total_volume": 256757.49570000006,
-      "net_volume": 39290.50270000004
-    }
-  },
-  "STXUSDT": {
-    "08:00": {
-      "buy_volume": 46474.32768,
-      "sell_volume": 36922.352320000005,
-      "total_volume": 83396.68000000001,
-      "net_volume": 9551.975359999997
-    }
-  },
-  "ETHUSDT-27JUN25": {
-    "08:00": {
-      "buy_volume": 449.2153,
-      "sell_volume": 0.0,
-      "total_volume": 449.2153,
-      "net_volume": 449.2153
-    }
-  },
-  "LINKUSDT": {
-    "08:00": {
-      "buy_volume": 142766.02330000003,
-      "sell_volume": 114668.49570000001,
-      "total_volume": 257434.51900000003,
-      "net_volume": 28097.527600000016
-    }
-  },
-  "HBARUSDT": {
-    "08:00": {
-      "buy_volume": 169925.22059,
-      "sell_volume": 28872.592659999995,
-      "total_volume": 198797.81325,
-      "net_volume": 141052.62793000002
-    }
-  },
-  "PLUMEUSDT": {
-    "08:00": {
-      "buy_volume": 63053.46032,
-      "sell_volume": 159368.81122,
-      "total_volume": 222422.27154,
-      "net_volume": -96315.3509
-    }
-  },
-  "DEXEUSDT": {
-    "08:00": {
-      "buy_volume": 4926.871199999994,
-      "sell_volume": 3329.7837999999997,
-      "total_volume": 8256.654999999993,
-      "net_volume": 1597.0873999999944
-    }
-  },
-  "BANKUSDT": {
-    "08:00": {
-      "buy_volume": 25929.414299999997,
-      "sell_volume": 63513.98499999999,
-      "total_volume": 89443.39929999999,
-      "net_volume": -37584.5707
-    }
-  },
-  "ARCUSDT": {
-    "08:00": {
-      "buy_volume": 67481.03265,
-      "sell_volume": 39770.30403,
-      "total_volume": 107251.33668,
-      "net_volume": 27710.728619999994
-    }
-  },
-  "ALCHUSDT": {
-    "08:00": {
-      "buy_volume": 34034.91592,
-      "sell_volume": 93775.72836,
-      "total_volume": 127810.64428,
-      "net_volume": -59740.812439999994
-    }
-  },
-  "GRIFFAINUSDT": {
-    "08:00": {
-      "buy_volume": 68808.15157000003,
-      "sell_volume": 20863.92267,
-      "total_volume": 89672.07424000003,
-      "net_volume": 47944.22890000003
+    "22:00": {
+      "buy_volume": 6560997.958000001,
+      "sell_volume": 6297740.805699999,
+      "total_volume": 12858738.763700001,
+      "net_volume": 263257.1523000011
     }
   },
   "HMSTRUSDT": {
-    "08:00": {
-      "buy_volume": 132380.02674,
-      "sell_volume": 31511.794280000002,
-      "total_volume": 163891.82102,
-      "net_volume": 100868.23246
-    }
-  },
-  "EPICUSDT": {
-    "08:00": {
-      "buy_volume": 3853.8596000000016,
-      "sell_volume": 11233.368899999998,
-      "total_volume": 15087.2285,
-      "net_volume": -7379.509299999996
-    }
-  },
-  "HIVEUSDT": {
-    "08:00": {
-      "buy_volume": 41052.8291,
-      "sell_volume": 76006.6717,
-      "total_volume": 117059.50080000001,
-      "net_volume": -34953.8426
-    }
-  },
-  "MEUSDT": {
-    "08:00": {
-      "buy_volume": 17539.743300000002,
-      "sell_volume": 20325.722400000002,
-      "total_volume": 37865.4657,
-      "net_volume": -2785.9791000000005
-    }
-  },
-  "PARTIUSDT": {
-    "08:00": {
-      "buy_volume": 102373.65639999999,
-      "sell_volume": 30868.956599999998,
-      "total_volume": 133242.61299999998,
-      "net_volume": 71504.6998
-    }
-  },
-  "FUSDT": {
-    "08:00": {
-      "buy_volume": 19677.273390000002,
-      "sell_volume": 26688.11834,
-      "total_volume": 46365.39173,
-      "net_volume": -7010.844949999999
-    }
-  },
-  "SUIUSDT": {
-    "08:00": {
-      "buy_volume": 354679.2660000001,
-      "sell_volume": 314139.709,
-      "total_volume": 668818.9750000001,
-      "net_volume": 40539.557000000146
-    }
-  },
-  "ALUUSDT": {
-    "08:00": {
-      "buy_volume": 4889.707590000003,
-      "sell_volume": 4611.631129999997,
-      "total_volume": 9501.33872,
-      "net_volume": 278.0764600000057
-    }
-  },
-  "PHAUSDT": {
-    "08:00": {
-      "buy_volume": 2191.4325900000003,
-      "sell_volume": 3398.72939,
-      "total_volume": 5590.161980000001,
-      "net_volume": -1207.2967999999996
-    }
-  },
-  "KASUSDT": {
-    "08:00": {
-      "buy_volume": 60462.98180000001,
-      "sell_volume": 32051.937899999986,
-      "total_volume": 92514.9197,
-      "net_volume": 28411.043900000022
-    }
-  },
-  "OPUSDT": {
-    "08:00": {
-      "buy_volume": 61149.34319,
-      "sell_volume": 82938.22942999998,
-      "total_volume": 144087.57262,
-      "net_volume": -21788.886239999978
-    }
-  },
-  "PYTHUSDT": {
-    "08:00": {
-      "buy_volume": 83971.3415,
-      "sell_volume": 40454.0788,
-      "total_volume": 124425.4203,
-      "net_volume": 43517.26269999999
-    }
-  },
-  "ORDIUSDT": {
-    "08:00": {
-      "buy_volume": 46380.21734999999,
-      "sell_volume": 48871.33196,
-      "total_volume": 95251.54931,
-      "net_volume": -2491.1146100000115
-    }
-  },
-  "SWARMSUSDT": {
-    "08:00": {
-      "buy_volume": 22830.399120000002,
-      "sell_volume": 29223.65948,
-      "total_volume": 52054.058600000004,
-      "net_volume": -6393.260359999997
-    }
-  },
-  "GALAUSDT": {
-    "08:00": {
-      "buy_volume": 104776.70022999997,
-      "sell_volume": 128298.44017,
-      "total_volume": 233075.14039999997,
-      "net_volume": -23521.73994000003
-    }
-  },
-  "ROSEUSDT": {
-    "08:00": {
-      "buy_volume": 18177.29729,
-      "sell_volume": 8323.91345,
-      "total_volume": 26501.21074,
-      "net_volume": 9853.383839999999
-    }
-  },
-  "AXSUSDT": {
-    "08:00": {
-      "buy_volume": 76184.41930000001,
-      "sell_volume": 90162.05470000001,
-      "total_volume": 166346.47400000002,
-      "net_volume": -13977.6354
-    }
-  },
-  "BTCUSDT-26SEP25": {
-    "08:00": {
-      "buy_volume": 105.5693,
-      "sell_volume": 0.0,
-      "total_volume": 105.5693,
-      "net_volume": 105.5693
-    }
-  },
-  "IMXUSDT": {
-    "08:00": {
-      "buy_volume": 57708.604320000006,
-      "sell_volume": 18819.37715,
-      "total_volume": 76527.98147,
-      "net_volume": 38889.227170000006
-    }
-  },
-  "AVAUSDT": {
-    "08:00": {
-      "buy_volume": 3383.15648,
-      "sell_volume": 1532.5162700000008,
-      "total_volume": 4915.672750000001,
-      "net_volume": 1850.6402099999993
-    }
-  },
-  "MOVEUSDT": {
-    "08:00": {
-      "buy_volume": 158122.15339999995,
-      "sell_volume": 135550.0123,
-      "total_volume": 293672.16569999995,
-      "net_volume": 22572.14109999995
-    }
-  },
-  "ETHUSDT-26DEC25": {
-    "08:00": {
-      "buy_volume": 51.4875,
-      "sell_volume": 25.8152,
-      "total_volume": 77.3027,
-      "net_volume": 25.672299999999996
-    }
-  },
-  "STRKUSDT": {
-    "08:00": {
-      "buy_volume": 127727.91664000001,
-      "sell_volume": 50822.139350000005,
-      "total_volume": 178550.05599000002,
-      "net_volume": 76905.77729
-    }
-  },
-  "BTCUSDT-23MAY25": {
-    "08:00": {
-      "buy_volume": 0.0,
-      "sell_volume": 3097.932,
-      "total_volume": 3097.932,
-      "net_volume": -3097.932
-    }
-  },
-  "INITUSDT": {
-    "08:00": {
-      "buy_volume": 66719.7381,
-      "sell_volume": 37785.4918,
-      "total_volume": 104505.2299,
-      "net_volume": 28934.2463
-    }
-  },
-  "LDOUSDT": {
-    "08:00": {
-      "buy_volume": 42423.64460000001,
-      "sell_volume": 33810.820889999995,
-      "total_volume": 76234.46549,
-      "net_volume": 8612.823710000011
-    }
-  },
-  "JTOUSDT": {
-    "08:00": {
-      "buy_volume": 22173.289499999995,
-      "sell_volume": 25162.1837,
-      "total_volume": 47335.47319999999,
-      "net_volume": -2988.894200000006
-    }
-  },
-  "KAIAUSDT": {
-    "08:00": {
-      "buy_volume": 20411.996800000004,
-      "sell_volume": 4566.700399999997,
-      "total_volume": 24978.697200000002,
-      "net_volume": 15845.296400000007
-    }
-  },
-  "CATIUSDT": {
-    "08:00": {
-      "buy_volume": 25704.345499999992,
-      "sell_volume": 25373.073800000002,
-      "total_volume": 51077.419299999994,
-      "net_volume": 331.27169999999023
-    }
-  },
-  "ONDOUSDT": {
-    "08:00": {
-      "buy_volume": 76830.4675,
-      "sell_volume": 88842.1131,
-      "total_volume": 165672.5806,
-      "net_volume": -12011.645600000003
-    }
-  },
-  "CGPTUSDT": {
-    "08:00": {
-      "buy_volume": 4956.307059999999,
-      "sell_volume": 9804.281089999999,
-      "total_volume": 14760.588149999998,
-      "net_volume": -4847.974029999999
-    }
-  },
-  "MEWUSDT": {
-    "08:00": {
-      "buy_volume": 49102.2786,
-      "sell_volume": 135781.4319,
-      "total_volume": 184883.7105,
-      "net_volume": -86679.1533
+    "22:00": {
+      "buy_volume": 68439.81046999998,
+      "sell_volume": 51392.95412000001,
+      "total_volume": 119832.76458999999,
+      "net_volume": 17046.856349999973
     }
   },
   "CRVUSDT": {
-    "08:00": {
-      "buy_volume": 139726.66397000002,
-      "sell_volume": 155118.73245000004,
-      "total_volume": 294845.39642000006,
-      "net_volume": -15392.068480000016
+    "22:00": {
+      "buy_volume": 575919.34194,
+      "sell_volume": 3592909.9914999995,
+      "total_volume": 4168829.3334399993,
+      "net_volume": -3016990.64956
     }
   },
-  "ETHUSDT-25JUL25": {
-    "08:00": {
-      "buy_volume": 477.2027,
-      "sell_volume": 0.0,
-      "total_volume": 477.2027,
-      "net_volume": 477.2027
-    }
-  },
-  "AVAXUSDT": {
-    "08:00": {
-      "buy_volume": 78298.6246,
-      "sell_volume": 53944.23960000001,
-      "total_volume": 132242.8642,
-      "net_volume": 24354.384999999987
-    }
-  },
-  "DYDXUSDT": {
-    "08:00": {
-      "buy_volume": 41597.487590000004,
-      "sell_volume": 36179.52673,
-      "total_volume": 77777.01432,
-      "net_volume": 5417.9608600000065
-    }
-  },
-  "BOMEUSDT": {
-    "08:00": {
-      "buy_volume": 85094.96620000001,
-      "sell_volume": 46427.195700000004,
-      "total_volume": 131522.1619,
-      "net_volume": 38667.770500000006
-    }
-  },
-  "MLNUSDT": {
-    "08:00": {
-      "buy_volume": 995.2988999999999,
-      "sell_volume": 1419.2541000000003,
-      "total_volume": 2414.5530000000003,
-      "net_volume": -423.95520000000045
-    }
-  },
-  "REDUSDT": {
-    "08:00": {
-      "buy_volume": 9811.606999999998,
-      "sell_volume": 12409.6796,
-      "total_volume": 22221.2866,
-      "net_volume": -2598.0726000000013
-    }
-  },
-  "GMTUSDT": {
-    "08:00": {
-      "buy_volume": 56662.358839999986,
-      "sell_volume": 44310.71825,
-      "total_volume": 100973.07708999998,
-      "net_volume": 12351.640589999988
-    }
-  },
-  "TAOUSDT": {
-    "08:00": {
-      "buy_volume": 25652.9113,
-      "sell_volume": 38818.10113000001,
-      "total_volume": 64471.01243000001,
-      "net_volume": -13165.18983000001
-    }
-  },
-  "OMUSDT": {
-    "08:00": {
-      "buy_volume": 128669.92820000002,
-      "sell_volume": 126784.29199999999,
-      "total_volume": 255454.2202,
-      "net_volume": 1885.6362000000372
-    }
-  },
-  "PENGUUSDT": {
-    "08:00": {
-      "buy_volume": 39157.41228000002,
-      "sell_volume": 31478.090919999995,
-      "total_volume": 70635.5032,
-      "net_volume": 7679.321360000024
-    }
-  },
-  "PNUTUSDT": {
-    "08:00": {
-      "buy_volume": 75148.07890000002,
-      "sell_volume": 48050.341100000005,
-      "total_volume": 123198.42000000003,
-      "net_volume": 27097.737800000017
-    }
-  },
-  "1000FLOKIUSDT": {
-    "08:00": {
-      "buy_volume": 48246.1904,
-      "sell_volume": 43934.655750000005,
-      "total_volume": 92180.84615,
-      "net_volume": 4311.534649999994
-    }
-  },
-  "ENSUSDT": {
-    "08:00": {
-      "buy_volume": 53495.0097,
-      "sell_volume": 19076.513300000002,
-      "total_volume": 72571.523,
-      "net_volume": 34418.4964
-    }
-  },
-  "BABYUSDT": {
-    "08:00": {
-      "buy_volume": 24925.297000000002,
-      "sell_volume": 26677.617400000003,
-      "total_volume": 51602.91440000001,
-      "net_volume": -1752.3204000000005
-    }
-  },
-  "BIOUSDT": {
-    "08:00": {
-      "buy_volume": 19235.853460000002,
-      "sell_volume": 20266.87763,
-      "total_volume": 39502.73109,
-      "net_volume": -1031.024169999997
-    }
-  },
-  "JUPUSDT": {
-    "08:00": {
-      "buy_volume": 36289.184100000006,
-      "sell_volume": 70125.23300000001,
-      "total_volume": 106414.41710000002,
-      "net_volume": -33836.0489
-    }
-  },
-  "JUSDT": {
-    "08:00": {
-      "buy_volume": 1083.71893,
-      "sell_volume": 746.5963700000002,
-      "total_volume": 1830.3153000000002,
-      "net_volume": 337.1225599999998
-    }
-  },
-  "SEIUSDT": {
-    "08:00": {
-      "buy_volume": 125343.1967,
-      "sell_volume": 181108.5072,
-      "total_volume": 306451.70389999996,
-      "net_volume": -55765.31049999999
-    }
-  },
-  "DOGSUSDT": {
-    "08:00": {
-      "buy_volume": 62163.423200000005,
-      "sell_volume": 39624.18452999999,
-      "total_volume": 101787.60772999999,
-      "net_volume": 22539.238670000013
-    }
-  },
-  "SOLAYERUSDT": {
-    "08:00": {
-      "buy_volume": 39182.0368,
-      "sell_volume": 106280.1597,
-      "total_volume": 145462.19650000002,
-      "net_volume": -67098.1229
-    }
-  },
-  "COWUSDT": {
-    "08:00": {
-      "buy_volume": 8020.246700000006,
-      "sell_volume": 12137.517599999997,
-      "total_volume": 20157.764300000003,
-      "net_volume": -4117.270899999991
-    }
-  },
-  "DOGEUSDT": {
-    "08:00": {
-      "buy_volume": 281812.71030000004,
-      "sell_volume": 158642.84660999998,
-      "total_volume": 440455.55691000004,
-      "net_volume": 123169.86369000006
-    }
-  },
-  "ETCUSDT": {
-    "08:00": {
-      "buy_volume": 133400.6118,
-      "sell_volume": 61023.4699,
-      "total_volume": 194424.0817,
-      "net_volume": 72377.14190000002
-    }
-  },
-  "GIGAUSDT": {
-    "08:00": {
-      "buy_volume": 26869.795299999998,
-      "sell_volume": 45166.027899999994,
-      "total_volume": 72035.82319999998,
-      "net_volume": -18296.232599999996
+  "KERNELUSDT": {
+    "22:00": {
+      "buy_volume": 29222.337799999998,
+      "sell_volume": 20631.2583,
+      "total_volume": 49853.596099999995,
+      "net_volume": 8591.079499999996
     }
   },
   "ICPUSDT": {
-    "08:00": {
-      "buy_volume": 56777.572300000014,
-      "sell_volume": 58529.7328,
-      "total_volume": 115307.30510000001,
-      "net_volume": -1752.1604999999836
+    "22:00": {
+      "buy_volume": 56424.543000000005,
+      "sell_volume": 116913.73169999999,
+      "total_volume": 173338.2747,
+      "net_volume": -60489.188699999984
     }
   },
-  "1000BONKUSDT": {
-    "08:00": {
-      "buy_volume": 40117.2641,
-      "sell_volume": 67978.47269999998,
-      "total_volume": 108095.73679999998,
-      "net_volume": -27861.208599999984
+  "KAIAUSDT": {
+    "22:00": {
+      "buy_volume": 9684.008799999994,
+      "sell_volume": 8719.577500000001,
+      "total_volume": 18403.586299999995,
+      "net_volume": 964.4312999999929
     }
   },
-  "ANIMEUSDT": {
-    "08:00": {
-      "buy_volume": 202459.58763999998,
-      "sell_volume": 73583.74867999999,
-      "total_volume": 276043.33632,
-      "net_volume": 128875.83896
+  "AAVEUSDT": {
+    "22:00": {
+      "buy_volume": 2241389.5320999995,
+      "sell_volume": 15567907.736799998,
+      "total_volume": 17809297.2689,
+      "net_volume": -13326518.204699999
+    }
+  },
+  "PEOPLEUSDT": {
+    "22:00": {
+      "buy_volume": 2570811.7647700002,
+      "sell_volume": 2668126.68408,
+      "total_volume": 5238938.44885,
+      "net_volume": -97314.9193099998
+    }
+  },
+  "ARCUSDT": {
+    "22:00": {
+      "buy_volume": 364459.05468,
+      "sell_volume": 591075.3807099999,
+      "total_volume": 955534.43539,
+      "net_volume": -226616.32602999994
+    }
+  },
+  "KOMAUSDT": {
+    "22:00": {
+      "buy_volume": 39175.94812,
+      "sell_volume": 136393.76979,
+      "total_volume": 175569.71791,
+      "net_volume": -97217.82166999999
+    }
+  },
+  "DOGSUSDT": {
+    "22:00": {
+      "buy_volume": 321940.56015000003,
+      "sell_volume": 278289.70517000003,
+      "total_volume": 600230.26532,
+      "net_volume": 43650.854980000004
+    }
+  },
+  "BNBUSDT": {
+    "22:00": {
+      "buy_volume": 737331.8960000002,
+      "sell_volume": 1028209.463,
+      "total_volume": 1765541.3590000002,
+      "net_volume": -290877.5669999998
+    }
+  },
+  "SOLUSDT-06JUN25": {
+    "22:00": {
+      "buy_volume": 19.3688,
+      "sell_volume": 0.0,
+      "total_volume": 19.3688,
+      "net_volume": 19.3688
     }
   },
   "SANDUSDT": {
-    "08:00": {
-      "buy_volume": 184213.0698,
-      "sell_volume": 61294.6401,
-      "total_volume": 245507.7099,
-      "net_volume": 122918.42970000001
+    "22:00": {
+      "buy_volume": 170939.1244,
+      "sell_volume": 1022519.7813,
+      "total_volume": 1193458.9057,
+      "net_volume": -851580.6569000001
     }
   },
-  "GOATUSDT": {
-    "08:00": {
-      "buy_volume": 134063.32682000007,
-      "sell_volume": 36775.13031,
-      "total_volume": 170838.45713000008,
-      "net_volume": 97288.19651000007
+  "DYDXUSDT": {
+    "22:00": {
+      "buy_volume": 176109.61518,
+      "sell_volume": 348216.36757000006,
+      "total_volume": 524325.9827500001,
+      "net_volume": -172106.75239000007
     }
   },
-  "1000PEPEUSDT": {
-    "08:00": {
-      "buy_volume": 658202.3307,
-      "sell_volume": 247036.7715,
-      "total_volume": 905239.1022000001,
-      "net_volume": 411165.5592
+  "ONDOUSDT": {
+    "22:00": {
+      "buy_volume": 1105070.3776000002,
+      "sell_volume": 1872524.7985999999,
+      "total_volume": 2977595.1762,
+      "net_volume": -767454.4209999996
+    }
+  },
+  "SOLUSDT-30MAY25": {
+    "22:00": {
+      "buy_volume": 341.47880000000004,
+      "sell_volume": 0.0,
+      "total_volume": 341.47880000000004,
+      "net_volume": 341.47880000000004
+    }
+  },
+  "SOLVUSDT": {
+    "22:00": {
+      "buy_volume": 323150.85631,
+      "sell_volume": 656343.55398,
+      "total_volume": 979494.41029,
+      "net_volume": -333192.69766999997
+    }
+  },
+  "SHIB1000USDT": {
+    "22:00": {
+      "buy_volume": 719444.5837699999,
+      "sell_volume": 1241610.42977,
+      "total_volume": 1961055.01354,
+      "net_volume": -522165.84600000014
+    }
+  },
+  "GIGAUSDT": {
+    "22:00": {
+      "buy_volume": 72019.69769999999,
+      "sell_volume": 81262.7511,
+      "total_volume": 153282.44879999998,
+      "net_volume": -9243.053400000004
+    }
+  },
+  "COOKIEUSDT": {
+    "22:00": {
+      "buy_volume": 88139.626,
+      "sell_volume": 71523.7766,
+      "total_volume": 159663.4026,
+      "net_volume": 16615.849400000006
+    }
+  },
+  "GRIFFAINUSDT": {
+    "22:00": {
+      "buy_volume": 913279.3571499999,
+      "sell_volume": 966316.8428299999,
+      "total_volume": 1879596.1999799998,
+      "net_volume": -53037.485679999925
+    }
+  },
+  "ETHUSDT-26DEC25": {
+    "22:00": {
+      "buy_volume": 5536.511699999999,
+      "sell_volume": 26.6021,
+      "total_volume": 5563.113799999999,
+      "net_volume": 5509.909599999999
+    }
+  },
+  "ETCUSDT": {
+    "22:00": {
+      "buy_volume": 837804.8607000001,
+      "sell_volume": 229741.1325,
+      "total_volume": 1067545.9932000001,
+      "net_volume": 608063.7282
+    }
+  },
+  "1000CATUSDT": {
+    "22:00": {
+      "buy_volume": 316317.31932700006,
+      "sell_volume": 71157.143419,
+      "total_volume": 387474.46274600003,
+      "net_volume": 245160.17590800006
+    }
+  },
+  "HYPEUSDT": {
+    "22:00": {
+      "buy_volume": 3270175.9360900004,
+      "sell_volume": 3006189.01265,
+      "total_volume": 6276364.94874,
+      "net_volume": 263986.9234400005
+    }
+  },
+  "MOVEUSDT": {
+    "22:00": {
+      "buy_volume": 82604.31829999998,
+      "sell_volume": 74004.0214,
+      "total_volume": 156608.33969999998,
+      "net_volume": 8600.296899999987
     }
   },
   "JASMYUSDT": {
-    "08:00": {
-      "buy_volume": 19725.554664,
-      "sell_volume": 11388.93012,
-      "total_volume": 31114.484784,
-      "net_volume": 8336.624543999998
+    "22:00": {
+      "buy_volume": 879720.743199,
+      "sell_volume": 441540.910263,
+      "total_volume": 1321261.653462,
+      "net_volume": 438179.832936
     }
   },
-  "1000TOSHIUSDT": {
-    "08:00": {
-      "buy_volume": 41545.3446,
-      "sell_volume": 25524.959499999997,
-      "total_volume": 67070.3041,
-      "net_volume": 16020.3851
+  "1000BONKUSDT": {
+    "22:00": {
+      "buy_volume": 976576.9971000002,
+      "sell_volume": 2147089.2523000003,
+      "total_volume": 3123666.2494000006,
+      "net_volume": -1170512.2552
     }
   },
-  "APTUSDT": {
-    "08:00": {
-      "buy_volume": 30489.332250000003,
-      "sell_volume": 105995.3162,
-      "total_volume": 136484.64845,
-      "net_volume": -75505.98395
+  "POLUSDT": {
+    "22:00": {
+      "buy_volume": 164613.62730000002,
+      "sell_volume": 177664.8362,
+      "total_volume": 342278.4635,
+      "net_volume": -13051.208899999969
     }
   },
-  "BTCUSDT": {
-    "08:00": {
-      "buy_volume": 1046448.5877000003,
-      "sell_volume": 2616186.4486000002,
-      "total_volume": 3662635.0363000007,
-      "net_volume": -1569737.8609
+  "INITUSDT": {
+    "22:00": {
+      "buy_volume": 1543973.7873,
+      "sell_volume": 1520779.4743000001,
+      "total_volume": 3064753.2616,
+      "net_volume": 23194.31299999985
     }
   },
-  "FARTCOINUSDT": {
-    "08:00": {
-      "buy_volume": 201887.79330000002,
-      "sell_volume": 139216.50260000004,
-      "total_volume": 341104.2959,
-      "net_volume": 62671.29069999998
+  "LINKUSDT": {
+    "22:00": {
+      "buy_volume": 2087219.8389,
+      "sell_volume": 6076875.913000001,
+      "total_volume": 8164095.7519000005,
+      "net_volume": -3989656.074100001
+    }
+  },
+  "SEIUSDT": {
+    "22:00": {
+      "buy_volume": 473157.4496,
+      "sell_volume": 629544.3622,
+      "total_volume": 1102701.8118,
+      "net_volume": -156386.91259999998
+    }
+  },
+  "ALCHUSDT": {
+    "22:00": {
+      "buy_volume": 398903.07939999993,
+      "sell_volume": 599649.54494,
+      "total_volume": 998552.62434,
+      "net_volume": -200746.46554000012
+    }
+  },
+  "AVAXUSDT": {
+    "22:00": {
+      "buy_volume": 1570440.0971999997,
+      "sell_volume": 2915834.3249999997,
+      "total_volume": 4486274.4222,
+      "net_volume": -1345394.2278
+    }
+  },
+  "KAITOUSDT": {
+    "22:00": {
+      "buy_volume": 1308767.9864999999,
+      "sell_volume": 1169536.2574,
+      "total_volume": 2478304.2439,
+      "net_volume": 139231.72909999988
+    }
+  },
+  "BIOUSDT": {
+    "22:00": {
+      "buy_volume": 42807.033540000004,
+      "sell_volume": 60093.011459999994,
+      "total_volume": 102900.045,
+      "net_volume": -17285.97791999999
     }
   },
   "AIXBTUSDT": {
-    "08:00": {
-      "buy_volume": 44303.799600000006,
-      "sell_volume": 21804.4308,
-      "total_volume": 66108.2304,
-      "net_volume": 22499.368800000007
+    "22:00": {
+      "buy_volume": 213148.05299999999,
+      "sell_volume": 275604.624,
+      "total_volume": 488752.677,
+      "net_volume": -62456.571000000025
     }
   },
-  "SPXUSDT": {
-    "08:00": {
-      "buy_volume": 17696.7577,
-      "sell_volume": 21869.301199999998,
-      "total_volume": 39566.058899999996,
-      "net_volume": -4172.5435
+  "B3USDT": {
+    "22:00": {
+      "buy_volume": 182429.32949999996,
+      "sell_volume": 101946.14049999998,
+      "total_volume": 284375.47,
+      "net_volume": 80483.18899999998
     }
   },
-  "ALGOUSDT": {
-    "08:00": {
-      "buy_volume": 41126.50929000001,
-      "sell_volume": 28495.68910000001,
-      "total_volume": 69622.19839000002,
-      "net_volume": 12630.820189999999
+  "SWARMSUSDT": {
+    "22:00": {
+      "buy_volume": 267745.70636999997,
+      "sell_volume": 169710.98242,
+      "total_volume": 437456.6887899999,
+      "net_volume": 98034.72394999999
+    }
+  },
+  "HIVEUSDT": {
+    "22:00": {
+      "buy_volume": 25082.0691,
+      "sell_volume": 71698.39760000003,
+      "total_volume": 96780.46670000002,
+      "net_volume": -46616.328500000025
+    }
+  },
+  "SOLUSDT": {
+    "22:00": {
+      "buy_volume": 31773648.993000004,
+      "sell_volume": 50993140.06700001,
+      "total_volume": 82766789.06000002,
+      "net_volume": -19219491.074000005
+    }
+  },
+  "SUSDT": {
+    "22:00": {
+      "buy_volume": 165401.7196,
+      "sell_volume": 358900.51200000005,
+      "total_volume": 524302.2316,
+      "net_volume": -193498.79240000003
+    }
+  },
+  "APTUSDT": {
+    "22:00": {
+      "buy_volume": 314748.8828,
+      "sell_volume": 524593.04068,
+      "total_volume": 839341.92348,
+      "net_volume": -209844.15787999996
+    }
+  },
+  "BERAUSDT": {
+    "22:00": {
+      "buy_volume": 135221.235,
+      "sell_volume": 175201.908,
+      "total_volume": 310423.143,
+      "net_volume": -39980.67300000001
+    }
+  },
+  "SIGNUSDT": {
+    "22:00": {
+      "buy_volume": 73542.5815,
+      "sell_volume": 38540.113300000005,
+      "total_volume": 112082.6948,
+      "net_volume": 35002.468199999996
+    }
+  },
+  "MEMEUSDT": {
+    "22:00": {
+      "buy_volume": 115400.19264,
+      "sell_volume": 176959.39562,
+      "total_volume": 292359.58826,
+      "net_volume": -61559.20298
+    }
+  },
+  "HYPERUSDT": {
+    "22:00": {
+      "buy_volume": 31838.4982,
+      "sell_volume": 25811.295299999998,
+      "total_volume": 57649.7935,
+      "net_volume": 6027.202900000004
+    }
+  },
+  "MELANIAUSDT": {
+    "22:00": {
+      "buy_volume": 172862.71329,
+      "sell_volume": 133618.40331,
+      "total_volume": 306481.1166,
+      "net_volume": 39244.30998000002
+    }
+  },
+  "ETHUSDT-27JUN25": {
+    "22:00": {
+      "buy_volume": 24879.37129999999,
+      "sell_volume": 3905.2113999999997,
+      "total_volume": 28784.58269999999,
+      "net_volume": 20974.15989999999
+    }
+  },
+  "AXLUSDT": {
+    "22:00": {
+      "buy_volume": 21278.500300000003,
+      "sell_volume": 41811.33220000001,
+      "total_volume": 63089.83250000002,
+      "net_volume": -20532.83190000001
+    }
+  },
+  "IMXUSDT": {
+    "22:00": {
+      "buy_volume": 49266.54915999999,
+      "sell_volume": 107018.96151000001,
+      "total_volume": 156285.51067,
+      "net_volume": -57752.41235000002
+    }
+  },
+  "DOGEUSDT": {
+    "22:00": {
+      "buy_volume": 43041986.63657001,
+      "sell_volume": 39053774.2713,
+      "total_volume": 82095760.90787001,
+      "net_volume": 3988212.3652700037
+    }
+  },
+  "PYTHUSDT": {
+    "22:00": {
+      "buy_volume": 100450.5576,
+      "sell_volume": 166444.6404,
+      "total_volume": 266895.198,
+      "net_volume": -65994.0828
+    }
+  },
+  "ETHUSDT-25JUL25": {
+    "22:00": {
+      "buy_volume": 5460.7311,
+      "sell_volume": 0.0,
+      "total_volume": 5460.7311,
+      "net_volume": 5460.7311
+    }
+  },
+  "SOLUSDT-27JUN25": {
+    "22:00": {
+      "buy_volume": 14.2349,
+      "sell_volume": 90.5652,
+      "total_volume": 104.8001,
+      "net_volume": -76.33030000000001
+    }
+  },
+  "EPICUSDT": {
+    "22:00": {
+      "buy_volume": 12545.875800000005,
+      "sell_volume": 27773.484200000003,
+      "total_volume": 40319.36000000001,
+      "net_volume": -15227.608399999997
+    }
+  },
+  "EIGENUSDT": {
+    "22:00": {
+      "buy_volume": 687272.9263,
+      "sell_volume": 605681.3801,
+      "total_volume": 1292954.3064000001,
+      "net_volume": 81591.5462000001
+    }
+  },
+  "ORDIUSDT": {
+    "22:00": {
+      "buy_volume": 2081684.9998700002,
+      "sell_volume": 1570787.26685,
+      "total_volume": 3652472.26672,
+      "net_volume": 510897.73302000016
+    }
+  },
+  "ENSUSDT": {
+    "22:00": {
+      "buy_volume": 153254.76789999998,
+      "sell_volume": 199807.81000000003,
+      "total_volume": 353062.57790000003,
+      "net_volume": -46553.04210000005
+    }
+  },
+  "NOTUSDT": {
+    "22:00": {
+      "buy_volume": 4652945.463330001,
+      "sell_volume": 2233481.4775599996,
+      "total_volume": 6886426.94089,
+      "net_volume": 2419463.985770001
+    }
+  },
+  "BTCUSDT-26SEP25": {
+    "22:00": {
+      "buy_volume": 31640.0663,
+      "sell_volume": 108.1713,
+      "total_volume": 31748.2376,
+      "net_volume": 31531.894999999997
+    }
+  },
+  "BOMEUSDT": {
+    "22:00": {
+      "buy_volume": 371090.5716,
+      "sell_volume": 421306.1377999999,
+      "total_volume": 792396.7093999999,
+      "net_volume": -50215.566199999885
+    }
+  },
+  "AVAUSDT": {
+    "22:00": {
+      "buy_volume": 4778.1405700000005,
+      "sell_volume": 16054.57263,
+      "total_volume": 20832.713200000002,
+      "net_volume": -11276.43206
+    }
+  },
+  "RONINUSDT": {
+    "22:00": {
+      "buy_volume": 5012.378540000002,
+      "sell_volume": 7512.586479999996,
+      "total_volume": 12524.96502,
+      "net_volume": -2500.207939999994
+    }
+  },
+  "BRETTUSDT": {
+    "22:00": {
+      "buy_volume": 748411.1595000001,
+      "sell_volume": 1770937.121,
+      "total_volume": 2519348.2805000003,
+      "net_volume": -1022525.9615
+    }
+  },
+  "ARBUSDT": {
+    "22:00": {
+      "buy_volume": 1052935.6665100001,
+      "sell_volume": 3290937.62651,
+      "total_volume": 4343873.29302,
+      "net_volume": -2238001.96
+    }
+  },
+  "GALAUSDT": {
+    "22:00": {
+      "buy_volume": 1460476.2001499997,
+      "sell_volume": 914915.4350800001,
+      "total_volume": 2375391.6352299997,
+      "net_volume": 545560.7650699996
+    }
+  },
+  "FARTCOINUSDT": {
+    "22:00": {
+      "buy_volume": 8006137.091999999,
+      "sell_volume": 8904381.537299998,
+      "total_volume": 16910518.6293,
+      "net_volume": -898244.4452999989
+    }
+  },
+  "GMTUSDT": {
+    "22:00": {
+      "buy_volume": 115184.71411,
+      "sell_volume": 172310.84227000002,
+      "total_volume": 287495.55638,
+      "net_volume": -57126.12816000002
+    }
+  },
+  "OMUSDT": {
+    "22:00": {
+      "buy_volume": 232385.16460000002,
+      "sell_volume": 283637.3257,
+      "total_volume": 516022.4903,
+      "net_volume": -51252.16109999997
+    }
+  },
+  "1000FLOKIUSDT": {
+    "22:00": {
+      "buy_volume": 748412.87671,
+      "sell_volume": 1864554.0734799998,
+      "total_volume": 2612966.95019,
+      "net_volume": -1116141.1967699998
+    }
+  },
+  "REDUSDT": {
+    "22:00": {
+      "buy_volume": 32471.574200000003,
+      "sell_volume": 32068.8853,
+      "total_volume": 64540.459500000004,
+      "net_volume": 402.688900000001
+    }
+  },
+  "1000TOSHIUSDT": {
+    "22:00": {
+      "buy_volume": 194097.1466,
+      "sell_volume": 341741.8368,
+      "total_volume": 535838.9834,
+      "net_volume": -147644.69019999998
+    }
+  },
+  "BTCUSDT-27JUN25": {
+    "22:00": {
+      "buy_volume": 3820.7803000000004,
+      "sell_volume": 637.5393,
+      "total_volume": 4458.319600000001,
+      "net_volume": 3183.2410000000004
+    }
+  },
+  "ETHUSDT-30MAY25": {
+    "22:00": {
+      "buy_volume": 44544.754400000005,
+      "sell_volume": 14625.0465,
+      "total_volume": 59169.8009,
+      "net_volume": 29919.707900000005
+    }
+  },
+  "ACXUSDT": {
+    "22:00": {
+      "buy_volume": 1525.3958999999998,
+      "sell_volume": 695.3397,
+      "total_volume": 2220.7356,
+      "net_volume": 830.0561999999998
+    }
+  },
+  "HEIUSDT": {
+    "22:00": {
+      "buy_volume": 5414.292179999994,
+      "sell_volume": 1721.5488799999994,
+      "total_volume": 7135.841059999993,
+      "net_volume": 3692.7432999999946
+    }
+  },
+  "MLNUSDT": {
+    "22:00": {
+      "buy_volume": 2645.2614000000003,
+      "sell_volume": 812.1988999999999,
+      "total_volume": 3457.4603,
+      "net_volume": 1833.0625000000005
+    }
+  },
+  "BTCUSDT-26DEC25": {
+    "22:00": {
+      "buy_volume": 2206.696,
+      "sell_volume": 54140.05589999999,
+      "total_volume": 56346.75189999999,
+      "net_volume": -51933.359899999996
+    }
+  },
+  "PARTIUSDT": {
+    "22:00": {
+      "buy_volume": 106462.3928,
+      "sell_volume": 144178.73500000002,
+      "total_volume": 250641.12780000002,
+      "net_volume": -37716.342200000014
+    }
+  },
+  "PLUMEUSDT": {
+    "22:00": {
+      "buy_volume": 79253.91601,
+      "sell_volume": 54145.14603,
+      "total_volume": 133399.06204,
+      "net_volume": 25108.769979999997
+    }
+  },
+  "NEARUSDT": {
+    "22:00": {
+      "buy_volume": 893581.5591,
+      "sell_volume": 1883964.2200999998,
+      "total_volume": 2777545.7791999998,
+      "net_volume": -990382.6609999998
+    }
+  },
+  "ATOMUSDT": {
+    "22:00": {
+      "buy_volume": 750010.3986,
+      "sell_volume": 1014931.0205,
+      "total_volume": 1764941.4191,
+      "net_volume": -264920.6219
+    }
+  },
+  "EOSUSDT": {
+    "22:00": {
+      "buy_volume": 439193.64040000003,
+      "sell_volume": 789164.3564100001,
+      "total_volume": 1228357.9968100002,
+      "net_volume": -349970.7160100001
+    }
+  },
+  "BTCUSDT-27MAR26": {
+    "22:00": {
+      "buy_volume": 0.0,
+      "sell_volume": 448.6388,
+      "total_volume": 448.6388,
+      "net_volume": -448.6388
+    }
+  },
+  "BANKUSDT": {
+    "22:00": {
+      "buy_volume": 10733.358600000001,
+      "sell_volume": 11261.704300000001,
+      "total_volume": 21995.062900000004,
+      "net_volume": -528.3456999999999
+    }
+  },
+  "AXSUSDT": {
+    "22:00": {
+      "buy_volume": 122267.1518,
+      "sell_volume": 221047.6464,
+      "total_volume": 343314.7982,
+      "net_volume": -98780.49459999999
+    }
+  },
+  "ETHUSDT-06JUN25": {
+    "22:00": {
+      "buy_volume": 46492.69140000001,
+      "sell_volume": 18678.4285,
+      "total_volume": 65171.11990000001,
+      "net_volume": 27814.26290000001
+    }
+  },
+  "APEUSDT": {
+    "22:00": {
+      "buy_volume": 82705.83995,
+      "sell_volume": 160051.4905,
+      "total_volume": 242757.33045,
+      "net_volume": -77345.65055000002
+    }
+  },
+  "GRASSUSDT": {
+    "22:00": {
+      "buy_volume": 299105.4391,
+      "sell_volume": 496293.04709999997,
+      "total_volume": 795398.4861999999,
+      "net_volume": -197187.60799999995
+    }
+  },
+  "KASUSDT": {
+    "22:00": {
+      "buy_volume": 28847088.039499998,
+      "sell_volume": 1345926.6389000001,
+      "total_volume": 30193014.6784,
+      "net_volume": 27501161.400599997
+    }
+  },
+  "JUSDT": {
+    "22:00": {
+      "buy_volume": 82937.93853,
+      "sell_volume": 134627.94389000002,
+      "total_volume": 217565.88242000004,
+      "net_volume": -51690.005360000025
+    }
+  },
+  "ARKMUSDT": {
+    "22:00": {
+      "buy_volume": 141593.2667,
+      "sell_volume": 102011.5907,
+      "total_volume": 243604.8574,
+      "net_volume": 39581.67600000001
+    }
+  },
+  "JUPUSDT": {
+    "22:00": {
+      "buy_volume": 425069.81869999995,
+      "sell_volume": 552369.4306000001,
+      "total_volume": 977439.2493,
+      "net_volume": -127299.61190000013
+    }
+  },
+  "10000ELONUSDT": {
+    "22:00": {
+      "buy_volume": 16826.814000000002,
+      "sell_volume": 5419.489799999999,
+      "total_volume": 22246.3038,
+      "net_volume": 11407.324200000003
+    }
+  },
+  "MEUSDT": {
+    "22:00": {
+      "buy_volume": 29552.540399999998,
+      "sell_volume": 39637.085,
+      "total_volume": 69189.62539999999,
+      "net_volume": -10084.544600000001
+    }
+  },
+  "BTCUSDT": {
+    "22:00": {
+      "buy_volume": 148994460.09190002,
+      "sell_volume": 3832477074.6976,
+      "total_volume": 3981471534.7894998,
+      "net_volume": -3683482614.6057
+    }
+  },
+  "MOODENGUSDT": {
+    "22:00": {
+      "buy_volume": 19077275.20793,
+      "sell_volume": 30009007.032,
+      "total_volume": 49086282.239930004,
+      "net_volume": -10931731.824070003
     }
   },
   "BLURUSDT": {
-    "08:00": {
-      "buy_volume": 9940.253100000004,
-      "sell_volume": 13449.014499999994,
-      "total_volume": 23389.2676,
-      "net_volume": -3508.7613999999903
+    "22:00": {
+      "buy_volume": 14256.298699999996,
+      "sell_volume": 34105.042,
+      "total_volume": 48361.3407,
+      "net_volume": -19848.743300000006
+    }
+  },
+  "TAOUSDT": {
+    "22:00": {
+      "buy_volume": 1327667.1442900002,
+      "sell_volume": 1340708.1846,
+      "total_volume": 2668375.3288900005,
+      "net_volume": -13041.040309999837
+    }
+  },
+  "ANIMEUSDT": {
+    "22:00": {
+      "buy_volume": 317908.48664,
+      "sell_volume": 338327.26551,
+      "total_volume": 656235.7521500001,
+      "net_volume": -20418.77886999998
+    }
+  },
+  "AI16ZUSDT": {
+    "22:00": {
+      "buy_volume": 942092.4916000001,
+      "sell_volume": 1238718.928,
+      "total_volume": 2180811.4196,
+      "net_volume": -296626.4364
+    }
+  },
+  "FUSDT": {
+    "22:00": {
+      "buy_volume": 19490.688539999996,
+      "sell_volume": 17656.140369999997,
+      "total_volume": 37146.82891,
+      "net_volume": 1834.5481699999982
+    }
+  },
+  "ALUUSDT": {
+    "22:00": {
+      "buy_volume": 3894.86594,
+      "sell_volume": 7206.25984,
+      "total_volume": 11101.12578,
+      "net_volume": -3311.3938999999996
+    }
+  },
+  "ETHUSDT-27MAR26": {
+    "22:00": {
+      "buy_volume": 0.0,
+      "sell_volume": 108.7672,
+      "total_volume": 108.7672,
+      "net_volume": -108.7672
+    }
+  },
+  "LUMIAUSDT": {
+    "22:00": {
+      "buy_volume": 15778.10586,
+      "sell_volume": 16832.50105,
+      "total_volume": 32610.60691,
+      "net_volume": -1054.3951899999993
+    }
+  },
+  "ADAUSDT": {
+    "22:00": {
+      "buy_volume": 5022055.667099999,
+      "sell_volume": 6458417.9692,
+      "total_volume": 11480473.6363,
+      "net_volume": -1436362.302100001
+    }
+  },
+  "1000PEPEUSDT": {
+    "22:00": {
+      "buy_volume": 19030412.795,
+      "sell_volume": 21109643.2738,
+      "total_volume": 40140056.0688,
+      "net_volume": -2079230.4787999988
+    }
+  },
+  "STRKUSDT": {
+    "22:00": {
+      "buy_volume": 404109.24081000005,
+      "sell_volume": 277945.38796,
+      "total_volume": 682054.6287700001,
+      "net_volume": 126163.85285000002
+    }
+  },
+  "OPUSDT": {
+    "22:00": {
+      "buy_volume": 757371.5006699999,
+      "sell_volume": 1174017.09864,
+      "total_volume": 1931388.59931,
+      "net_volume": -416645.5979700001
+    }
+  },
+  "PENGUUSDT": {
+    "22:00": {
+      "buy_volume": 505002.97942000005,
+      "sell_volume": 654107.6020699999,
+      "total_volume": 1159110.58149,
+      "net_volume": -149104.62264999986
+    }
+  },
+  "PNUTUSDT": {
+    "22:00": {
+      "buy_volume": 2388240.1944,
+      "sell_volume": 2319531.9569999995,
+      "total_volume": 4707772.1514,
+      "net_volume": 68708.23740000045
+    }
+  },
+  "LTCUSDT": {
+    "22:00": {
+      "buy_volume": 3062901.472,
+      "sell_volume": 6796956.419000001,
+      "total_volume": 9859857.891,
+      "net_volume": -3734054.9470000006
+    }
+  },
+  "NCUSDT": {
+    "22:00": {
+      "buy_volume": 5473.7870299999995,
+      "sell_volume": 4238.405260000002,
+      "total_volume": 9712.192290000003,
+      "net_volume": 1235.3817699999972
+    }
+  },
+  "COWUSDT": {
+    "22:00": {
+      "buy_volume": 9889.1944,
+      "sell_volume": 12018.069300000005,
+      "total_volume": 21907.263700000003,
+      "net_volume": -2128.8749000000043
+    }
+  },
+  "LDOUSDT": {
+    "22:00": {
+      "buy_volume": 388648.70343999995,
+      "sell_volume": 419911.11226,
+      "total_volume": 808559.8156999999,
+      "net_volume": -31262.40882000007
+    }
+  },
+  "SONICUSDT": {
+    "22:00": {
+      "buy_volume": 46382.5858,
+      "sell_volume": 139641.07319999998,
+      "total_volume": 186023.65899999999,
+      "net_volume": -93258.48739999998
+    }
+  },
+  "PHAUSDT": {
+    "22:00": {
+      "buy_volume": 16363.76988,
+      "sell_volume": 26563.34974,
+      "total_volume": 42927.11962,
+      "net_volume": -10199.579860000002
+    }
+  },
+  "BTCUSDT-25JUL25": {
+    "22:00": {
+      "buy_volume": 5347.295,
+      "sell_volume": 8024.3775,
+      "total_volume": 13371.6725,
+      "net_volume": -2677.0824999999995
+    }
+  },
+  "ENAUSDT": {
+    "22:00": {
+      "buy_volume": 3301448.2616,
+      "sell_volume": 4932235.758400001,
+      "total_volume": 8233684.0200000005,
+      "net_volume": -1630787.4968000008
+    }
+  },
+  "IPUSDT": {
+    "22:00": {
+      "buy_volume": 164254.40740000003,
+      "sell_volume": 141872.55623000002,
+      "total_volume": 306126.96363,
+      "net_volume": 22381.85117000001
+    }
+  },
+  "ETHUSDT-26SEP25": {
+    "22:00": {
+      "buy_volume": 1864.5187999999998,
+      "sell_volume": 0.0,
+      "total_volume": 1864.5187999999998,
+      "net_volume": 1864.5187999999998
+    }
+  },
+  "MEWUSDT": {
+    "22:00": {
+      "buy_volume": 165894.4221,
+      "sell_volume": 92682.5425,
+      "total_volume": 258576.9646,
+      "net_volume": 73211.8796
+    }
+  },
+  "FLOCKUSDT": {
+    "22:00": {
+      "buy_volume": 16771.013170000013,
+      "sell_volume": 17927.680249999998,
+      "total_volume": 34698.69342000001,
+      "net_volume": -1156.6670799999847
+    }
+  },
+  "BTCUSDT-23MAY25": {
+    "22:00": {
+      "buy_volume": 110059.78890000003,
+      "sell_volume": 1372.2051999999999,
+      "total_volume": 111431.99410000003,
+      "net_volume": 108687.58370000003
+    }
+  },
+  "STXUSDT": {
+    "22:00": {
+      "buy_volume": 105167.15569,
+      "sell_volume": 147791.62705999997,
+      "total_volume": 252958.78274999995,
+      "net_volume": -42624.47136999997
+    }
+  },
+  "SOLAYERUSDT": {
+    "22:00": {
+      "buy_volume": 680720.4155,
+      "sell_volume": 1957413.7275999996,
+      "total_volume": 2638134.1430999995,
+      "net_volume": -1276693.3120999997
+    }
+  },
+  "INJUSDT": {
+    "22:00": {
+      "buy_volume": 907147.6873,
+      "sell_volume": 1451715.119,
+      "total_volume": 2358862.8063,
+      "net_volume": -544567.4317
+    }
+  },
+  "SPXUSDT": {
+    "22:00": {
+      "buy_volume": 158869.41859999998,
+      "sell_volume": 253020.5295,
+      "total_volume": 411889.9481,
+      "net_volume": -94151.11090000003
+    }
+  },
+  "ETHUSDT": {
+    "22:00": {
+      "buy_volume": 117162893.4084,
+      "sell_volume": 180561007.39639997,
+      "total_volume": 297723900.8048,
+      "net_volume": -63398113.987999976
+    }
+  },
+  "BTCUSDT-06JUN25": {
+    "22:00": {
+      "buy_volume": 0.0,
+      "sell_volume": 5291.2625,
+      "total_volume": 5291.2625,
+      "net_volume": -5291.2625
+    }
+  },
+  "HBARUSDT": {
+    "22:00": {
+      "buy_volume": 482151.07962000003,
+      "sell_volume": 684804.3579100001,
+      "total_volume": 1166955.4375300002,
+      "net_volume": -202653.2782900001
+    }
+  },
+  "RENDERUSDT": {
+    "22:00": {
+      "buy_volume": 191993.9528,
+      "sell_volume": 245657.87449999998,
+      "total_volume": 437651.8273,
+      "net_volume": -53663.92169999998
+    }
+  },
+  "GOATUSDT": {
+    "22:00": {
+      "buy_volume": 1626868.06633,
+      "sell_volume": 2152107.8269,
+      "total_volume": 3778975.8932300005,
+      "net_volume": -525239.7605700002
+    }
+  },
+  "SENDUSDT": {
+    "22:00": {
+      "buy_volume": 9980.7583,
+      "sell_volume": 10233.980699999996,
+      "total_volume": 20214.738999999994,
+      "net_volume": -253.22239999999692
+    }
+  },
+  "CGPTUSDT": {
+    "22:00": {
+      "buy_volume": 12061.958479999998,
+      "sell_volume": 8862.843020000002,
+      "total_volume": 20924.8015,
+      "net_volume": 3199.1154599999954
+    }
+  },
+  "NILUSDT": {
+    "22:00": {
+      "buy_volume": 152999.361,
+      "sell_volume": 778900.4479,
+      "total_volume": 931899.8089000001,
+      "net_volume": -625901.0869
+    }
+  },
+  "BCHUSDT": {
+    "22:00": {
+      "buy_volume": 357085.555,
+      "sell_volume": 717682.331,
+      "total_volume": 1074767.886,
+      "net_volume": -360596.776
+    }
+  },
+  "SOLUSDT-23MAY25": {
+    "22:00": {
+      "buy_volume": 0.0,
+      "sell_volume": 10.549800000000001,
+      "total_volume": 10.549800000000001,
+      "net_volume": -10.549800000000001
+    }
+  },
+  "JTOUSDT": {
+    "22:00": {
+      "buy_volume": 31858.935100000002,
+      "sell_volume": 520929.7302,
+      "total_volume": 552788.6653,
+      "net_volume": -489070.7951
+    }
+  },
+  "ROSEUSDT": {
+    "22:00": {
+      "buy_volume": 17466.05685,
+      "sell_volume": 17623.088059999995,
+      "total_volume": 35089.144909999995,
+      "net_volume": -157.03120999999373
+    }
+  },
+  "POPCATUSDT": {
+    "22:00": {
+      "buy_volume": 2853167.416,
+      "sell_volume": 2518867.077,
+      "total_volume": 5372034.493000001,
+      "net_volume": 334300.33900000015
+    }
+  },
+  "ALGOUSDT": {
+    "22:00": {
+      "buy_volume": 94227.9786,
+      "sell_volume": 170121.31840999998,
+      "total_volume": 264349.29701,
+      "net_volume": -75893.33980999998
+    }
+  },
+  "DEXEUSDT": {
+    "22:00": {
+      "buy_volume": 7870.861500000001,
+      "sell_volume": 9290.0424,
+      "total_volume": 17160.9039,
+      "net_volume": -1419.1808999999994
+    }
+  },
+  "ETHUSDT-23MAY25": {
+    "22:00": {
+      "buy_volume": 67138.1104,
+      "sell_volume": 51.308,
+      "total_volume": 67189.41840000001,
+      "net_volume": 67086.8024
+    }
+  },
+  "SUIUSDT": {
+    "22:00": {
+      "buy_volume": 13645970.661999999,
+      "sell_volume": 11316355.523999998,
+      "total_volume": 24962326.185999997,
+      "net_volume": 2329615.1380000003
+    }
+  },
+  "DOTUSDT": {
+    "22:00": {
+      "buy_volume": 708348.9802900001,
+      "sell_volume": 1174377.9523900002,
+      "total_volume": 1882726.9326800003,
+      "net_volume": -466028.97210000013
+    }
+  },
+  "BABYUSDT": {
+    "22:00": {
+      "buy_volume": 88121.2641,
+      "sell_volume": 97159.7562,
+      "total_volume": 185281.0203,
+      "net_volume": -9038.492100000003
+    }
+  },
+  "CATIUSDT": {
+    "22:00": {
+      "buy_volume": 71307.6642,
+      "sell_volume": 60236.364,
+      "total_volume": 131544.0282,
+      "net_volume": 11071.300199999998
     }
   }
 }

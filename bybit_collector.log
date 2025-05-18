@@ -1729,3 +1729,702 @@
 2025-05-18 05:06:50,642 - INFO - Websocket connected
 2025-05-18 05:06:50,642 - INFO - WebSocket Unified V5 (Auth) connected
 2025-05-18 05:06:50,652 - ERROR - ping/pong timed out - goodbye
+2025-05-18 10:08:04,531 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 10:08:04,955 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 10:08:06,031 - INFO - Websocket connected
+2025-05-18 10:08:06,031 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 10:08:06,031 - ERROR - ping/pong timed out - goodbye
+2025-05-18 10:31:16,519 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 10:31:16,768 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 10:31:17,202 - INFO - Websocket connected
+2025-05-18 10:31:17,202 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 10:31:17,210 - ERROR - ping/pong timed out - goodbye
+2025-05-18 12:37:58,147 - INFO - Redis connection established
+2025-05-18 12:37:58,148 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 12:37:58,963 - INFO - Websocket connected
+2025-05-18 12:37:58,963 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 12:37:58,964 - INFO - Starting Bybit data collector
+2025-05-18 12:37:59,143 - INFO - Found 151 eligible assets
+2025-05-18 12:37:59,143 - INFO - Setting up data streams for 151 assets
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for 10000ELONUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for 1000BONKUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for 1000CATUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for 1000FLOKIUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for 1000NEIROCTOUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for 1000PEPEUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for 1000TOSHIUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for AAVEUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for ACXUSDT
+2025-05-18 12:37:59,143 - INFO - Subscribed to trade stream for ADAUSDT
+2025-05-18 12:37:59,150 - INFO - Subscribed to trade stream for AI16ZUSDT
+2025-05-18 12:37:59,150 - INFO - Subscribed to trade stream for AIXBTUSDT
+2025-05-18 12:37:59,151 - INFO - Subscribed to trade stream for ALCHUSDT
+2025-05-18 12:37:59,151 - INFO - Subscribed to trade stream for ALGOUSDT
+2025-05-18 12:37:59,151 - INFO - Subscribed to trade stream for ALUUSDT
+2025-05-18 12:37:59,152 - INFO - Subscribed to trade stream for ANIMEUSDT
+2025-05-18 12:37:59,152 - INFO - Subscribed to trade stream for APEUSDT
+2025-05-18 12:37:59,153 - INFO - Subscribed to trade stream for APTUSDT
+2025-05-18 12:37:59,153 - INFO - Subscribed to trade stream for ARBUSDT
+2025-05-18 12:37:59,154 - INFO - Subscribed to trade stream for ARCUSDT
+2025-05-18 12:37:59,154 - INFO - Subscribed to trade stream for ARKMUSDT
+2025-05-18 12:37:59,154 - INFO - Subscribed to trade stream for ATOMUSDT
+2025-05-18 12:37:59,155 - INFO - Subscribed to trade stream for AVAUSDT
+2025-05-18 12:37:59,155 - INFO - Subscribed to trade stream for AVAXUSDT
+2025-05-18 12:37:59,155 - INFO - Subscribed to trade stream for AXLUSDT
+2025-05-18 12:37:59,156 - INFO - Subscribed to trade stream for AXSUSDT
+2025-05-18 12:37:59,156 - INFO - Subscribed to trade stream for B3USDT
+2025-05-18 12:37:59,157 - INFO - Subscribed to trade stream for BABYUSDT
+2025-05-18 12:37:59,157 - INFO - Subscribed to trade stream for BANKUSDT
+2025-05-18 12:37:59,157 - INFO - Subscribed to trade stream for BCHUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BERAUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BIOUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BLURUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BNBUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BOMEUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BRETTUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BTCUSDT
+2025-05-18 12:37:59,158 - INFO - Subscribed to trade stream for BTCUSDT-06JUN25
+2025-05-18 12:37:59,162 - INFO - Subscribed to trade stream for BTCUSDT-23MAY25
+2025-05-18 12:37:59,162 - INFO - Subscribed to trade stream for BTCUSDT-25JUL25
+2025-05-18 12:37:59,162 - INFO - Subscribed to trade stream for BTCUSDT-26DEC25
+2025-05-18 12:37:59,163 - INFO - Subscribed to trade stream for BTCUSDT-26SEP25
+2025-05-18 12:37:59,163 - INFO - Subscribed to trade stream for BTCUSDT-27JUN25
+2025-05-18 12:37:59,164 - INFO - Subscribed to trade stream for BTCUSDT-27MAR26
+2025-05-18 12:37:59,164 - INFO - Subscribed to trade stream for BTCUSDT-30MAY25
+2025-05-18 12:37:59,165 - INFO - Subscribed to trade stream for CATIUSDT
+2025-05-18 12:37:59,165 - INFO - Subscribed to trade stream for CGPTUSDT
+2025-05-18 12:37:59,166 - INFO - Subscribed to trade stream for COOKIEUSDT
+2025-05-18 12:37:59,166 - INFO - Subscribed to trade stream for COWUSDT
+2025-05-18 12:37:59,166 - INFO - Subscribed to trade stream for CRVUSDT
+2025-05-18 12:37:59,167 - INFO - Subscribed to trade stream for DEXEUSDT
+2025-05-18 12:37:59,167 - INFO - Subscribed to trade stream for DOGEUSDT
+2025-05-18 12:37:59,168 - INFO - Subscribed to trade stream for DOGSUSDT
+2025-05-18 12:37:59,168 - INFO - Subscribed to trade stream for DOTUSDT
+2025-05-18 12:37:59,168 - INFO - Subscribed to trade stream for DYDXUSDT
+2025-05-18 12:37:59,169 - INFO - Subscribed to trade stream for EIGENUSDT
+2025-05-18 12:37:59,169 - INFO - Subscribed to trade stream for ENAUSDT
+2025-05-18 12:37:59,170 - INFO - Subscribed to trade stream for ENSUSDT
+2025-05-18 12:37:59,170 - INFO - Subscribed to trade stream for EOSUSDT
+2025-05-18 12:37:59,170 - INFO - Subscribed to trade stream for EPICUSDT
+2025-05-18 12:37:59,171 - INFO - Subscribed to trade stream for ETCUSDT
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-06JUN25
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-23MAY25
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-25JUL25
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-26DEC25
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-26SEP25
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-27JUN25
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-27MAR26
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for ETHUSDT-30MAY25
+2025-05-18 12:37:59,172 - INFO - Subscribed to trade stream for FARTCOINUSDT
+2025-05-18 12:37:59,176 - INFO - Subscribed to trade stream for FLOCKUSDT
+2025-05-18 12:37:59,176 - INFO - Subscribed to trade stream for FUSDT
+2025-05-18 12:37:59,177 - INFO - Subscribed to trade stream for GALAUSDT
+2025-05-18 12:37:59,177 - INFO - Subscribed to trade stream for GIGAUSDT
+2025-05-18 12:37:59,177 - INFO - Subscribed to trade stream for GMTUSDT
+2025-05-18 12:37:59,178 - INFO - Subscribed to trade stream for GOATUSDT
+2025-05-18 12:37:59,179 - INFO - Subscribed to trade stream for GRASSUSDT
+2025-05-18 12:37:59,179 - INFO - Subscribed to trade stream for GRIFFAINUSDT
+2025-05-18 12:37:59,179 - INFO - Subscribed to trade stream for HBARUSDT
+2025-05-18 12:37:59,179 - INFO - Subscribed to trade stream for HEIUSDT
+2025-05-18 12:37:59,181 - INFO - Subscribed to trade stream for HIVEUSDT
+2025-05-18 12:37:59,182 - INFO - Subscribed to trade stream for HMSTRUSDT
+2025-05-18 12:37:59,183 - INFO - Subscribed to trade stream for HYPERUSDT
+2025-05-18 12:37:59,183 - INFO - Subscribed to trade stream for HYPEUSDT
+2025-05-18 12:37:59,184 - INFO - Subscribed to trade stream for ICPUSDT
+2025-05-18 12:37:59,185 - INFO - Subscribed to trade stream for IMXUSDT
+2025-05-18 12:37:59,185 - INFO - Subscribed to trade stream for INITUSDT
+2025-05-18 12:37:59,186 - INFO - Subscribed to trade stream for INJUSDT
+2025-05-18 12:37:59,187 - INFO - Subscribed to trade stream for IPUSDT
+2025-05-18 12:37:59,187 - INFO - Subscribed to trade stream for JASMYUSDT
+2025-05-18 12:37:59,187 - INFO - Subscribed to trade stream for JTOUSDT
+2025-05-18 12:37:59,188 - INFO - Subscribed to trade stream for JUPUSDT
+2025-05-18 12:37:59,189 - INFO - Subscribed to trade stream for JUSDT
+2025-05-18 12:37:59,189 - INFO - Subscribed to trade stream for KAIAUSDT
+2025-05-18 12:37:59,189 - INFO - Subscribed to trade stream for KAITOUSDT
+2025-05-18 12:37:59,191 - INFO - Subscribed to trade stream for KASUSDT
+2025-05-18 12:37:59,191 - INFO - Subscribed to trade stream for KERNELUSDT
+2025-05-18 12:37:59,192 - INFO - Subscribed to trade stream for KOMAUSDT
+2025-05-18 12:37:59,192 - INFO - Subscribed to trade stream for LDOUSDT
+2025-05-18 12:37:59,192 - INFO - Subscribed to trade stream for LINKUSDT
+2025-05-18 12:37:59,193 - INFO - Subscribed to trade stream for LTCUSDT
+2025-05-18 12:37:59,193 - INFO - Subscribed to trade stream for LUMIAUSDT
+2025-05-18 12:37:59,193 - INFO - Subscribed to trade stream for MELANIAUSDT
+2025-05-18 12:37:59,194 - INFO - Subscribed to trade stream for MEMEUSDT
+2025-05-18 12:37:59,194 - INFO - Subscribed to trade stream for MEUSDT
+2025-05-18 12:37:59,195 - INFO - Subscribed to trade stream for MEWUSDT
+2025-05-18 12:37:59,195 - INFO - Subscribed to trade stream for MLNUSDT
+2025-05-18 12:37:59,195 - INFO - Subscribed to trade stream for MOODENGUSDT
+2025-05-18 12:37:59,196 - INFO - Subscribed to trade stream for MOVEUSDT
+2025-05-18 12:37:59,196 - INFO - Subscribed to trade stream for NCUSDT
+2025-05-18 12:37:59,196 - INFO - Subscribed to trade stream for NEARUSDT
+2025-05-18 12:37:59,196 - INFO - Subscribed to trade stream for NILUSDT
+2025-05-18 12:37:59,197 - INFO - Subscribed to trade stream for NOTUSDT
+2025-05-18 12:37:59,198 - INFO - Subscribed to trade stream for OMUSDT
+2025-05-18 12:37:59,198 - INFO - Subscribed to trade stream for ONDOUSDT
+2025-05-18 12:37:59,198 - INFO - Subscribed to trade stream for OPUSDT
+2025-05-18 12:37:59,199 - INFO - Subscribed to trade stream for ORDIUSDT
+2025-05-18 12:37:59,200 - INFO - Subscribed to trade stream for PARTIUSDT
+2025-05-18 12:37:59,201 - INFO - Subscribed to trade stream for PENGUUSDT
+2025-05-18 12:37:59,201 - INFO - Subscribed to trade stream for PEOPLEUSDT
+2025-05-18 12:37:59,202 - INFO - Subscribed to trade stream for PHAUSDT
+2025-05-18 12:37:59,204 - INFO - Subscribed to trade stream for PLUMEUSDT
+2025-05-18 12:37:59,205 - INFO - Subscribed to trade stream for PNUTUSDT
+2025-05-18 12:37:59,205 - INFO - Subscribed to trade stream for POLUSDT
+2025-05-18 12:37:59,205 - INFO - Subscribed to trade stream for POPCATUSDT
+2025-05-18 12:37:59,208 - INFO - Subscribed to trade stream for PYTHUSDT
+2025-05-18 12:37:59,209 - INFO - Subscribed to trade stream for REDUSDT
+2025-05-18 12:37:59,209 - INFO - Subscribed to trade stream for RENDERUSDT
+2025-05-18 12:37:59,210 - INFO - Subscribed to trade stream for RONINUSDT
+2025-05-18 12:37:59,210 - INFO - Subscribed to trade stream for ROSEUSDT
+2025-05-18 12:37:59,211 - INFO - Subscribed to trade stream for SANDUSDT
+2025-05-18 12:37:59,211 - INFO - Subscribed to trade stream for SEIUSDT
+2025-05-18 12:37:59,212 - INFO - Subscribed to trade stream for SENDUSDT
+2025-05-18 12:37:59,212 - INFO - Subscribed to trade stream for SHIB1000USDT
+2025-05-18 12:37:59,212 - INFO - Subscribed to trade stream for SIGNUSDT
+2025-05-18 12:37:59,212 - INFO - Subscribed to trade stream for SOLAYERUSDT
+2025-05-18 12:37:59,214 - INFO - Subscribed to trade stream for SOLUSDT
+2025-05-18 12:37:59,215 - INFO - Subscribed to trade stream for SOLUSDT-06JUN25
+2025-05-18 12:37:59,215 - INFO - Subscribed to trade stream for SOLUSDT-23MAY25
+2025-05-18 12:37:59,216 - INFO - Subscribed to trade stream for SOLUSDT-27JUN25
+2025-05-18 12:37:59,216 - INFO - Subscribed to trade stream for SOLUSDT-30MAY25
+2025-05-18 12:37:59,216 - INFO - Subscribed to trade stream for SOLVUSDT
+2025-05-18 12:37:59,216 - INFO - Subscribed to trade stream for SONICUSDT
+2025-05-18 12:37:59,216 - INFO - Subscribed to trade stream for SPXUSDT
+2025-05-18 12:37:59,219 - INFO - Subscribed to trade stream for STRKUSDT
+2025-05-18 12:37:59,219 - INFO - Subscribed to trade stream for STXUSDT
+2025-05-18 12:37:59,220 - INFO - Subscribed to trade stream for SUIUSDT
+2025-05-18 12:37:59,220 - INFO - Subscribed to trade stream for SUSDT
+2025-05-18 12:37:59,220 - INFO - Subscribed to trade stream for SWARMSUSDT
+2025-05-18 12:37:59,221 - INFO - Subscribed to trade stream for TAOUSDT
+2025-05-18 12:37:59,221 - INFO - Subscribed to 1m kline streams for all assets
+2025-05-18 12:37:59,223 - INFO - Data collector running, press Ctrl+C to exit
+2025-05-18 20:58:43,687 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 20:58:43,888 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 20:58:44,491 - INFO - Websocket connected
+2025-05-18 20:58:44,491 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 20:58:44,499 - ERROR - ping/pong timed out - goodbye
+2025-05-18 20:59:34,494 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 20:59:34,704 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 20:59:35,199 - INFO - Websocket connected
+2025-05-18 20:59:35,199 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 20:59:35,207 - ERROR - ping/pong timed out - goodbye
+2025-05-18 21:00:25,206 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 21:00:25,398 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 21:00:25,688 - INFO - Websocket connected
+2025-05-18 21:00:25,688 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 21:00:25,697 - ERROR - ping/pong timed out - goodbye
+2025-05-18 21:38:36,466 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 21:38:36,632 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 21:38:37,286 - INFO - Websocket connected
+2025-05-18 21:38:37,286 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 21:38:37,297 - ERROR - ping/pong timed out - goodbye
+2025-05-18 21:54:48,501 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 21:54:48,814 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 21:54:49,487 - INFO - Websocket connected
+2025-05-18 21:54:49,487 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 21:54:49,506 - ERROR - ping/pong timed out - goodbye
+2025-05-18 22:13:19,988 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 22:13:20,076 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 22:13:20,832 - INFO - Websocket connected
+2025-05-18 22:13:20,832 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 22:13:20,837 - ERROR - ping/pong timed out - goodbye
+2025-05-18 22:38:40,315 - INFO - Shutting down...
+2025-05-18 22:38:44,242 - INFO - Redis connection established
+2025-05-18 22:38:44,242 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 22:38:45,342 - INFO - Websocket connected
+2025-05-18 22:38:45,342 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 22:38:45,342 - INFO - Starting Bybit data collector
+2025-05-18 22:38:45,532 - INFO - Found 151 eligible assets
+2025-05-18 22:38:45,532 - INFO - Setting up data streams for 151 assets
+2025-05-18 22:38:45,532 - INFO - Subscribed to trade stream for 10000ELONUSDT
+2025-05-18 22:38:45,537 - INFO - Subscribed to trade stream for 1000BONKUSDT
+2025-05-18 22:38:45,537 - INFO - Subscribed to trade stream for 1000CATUSDT
+2025-05-18 22:38:45,537 - INFO - Subscribed to trade stream for 1000FLOKIUSDT
+2025-05-18 22:38:45,537 - INFO - Subscribed to trade stream for 1000NEIROCTOUSDT
+2025-05-18 22:38:45,537 - INFO - Subscribed to trade stream for 1000PEPEUSDT
+2025-05-18 22:38:45,537 - INFO - Subscribed to trade stream for 1000TOSHIUSDT
+2025-05-18 22:38:45,537 - INFO - Subscribed to trade stream for AAVEUSDT
+2025-05-18 22:38:45,541 - INFO - Subscribed to trade stream for ACXUSDT
+2025-05-18 22:38:45,541 - INFO - Subscribed to trade stream for ADAUSDT
+2025-05-18 22:38:45,542 - INFO - Subscribed to trade stream for AI16ZUSDT
+2025-05-18 22:38:45,543 - INFO - Subscribed to trade stream for AIXBTUSDT
+2025-05-18 22:38:45,543 - INFO - Subscribed to trade stream for ALCHUSDT
+2025-05-18 22:38:45,544 - INFO - Subscribed to trade stream for ALGOUSDT
+2025-05-18 22:38:45,544 - INFO - Subscribed to trade stream for ALUUSDT
+2025-05-18 22:38:45,545 - INFO - Subscribed to trade stream for ANIMEUSDT
+2025-05-18 22:38:45,545 - INFO - Subscribed to trade stream for APEUSDT
+2025-05-18 22:38:45,545 - INFO - Subscribed to trade stream for APTUSDT
+2025-05-18 22:38:45,545 - INFO - Subscribed to trade stream for ARBUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for ARCUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for ARKMUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for ATOMUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for AVAUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for AVAXUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for AXLUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for AXSUSDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for B3USDT
+2025-05-18 22:38:45,547 - INFO - Subscribed to trade stream for BABYUSDT
+2025-05-18 22:38:45,551 - INFO - Subscribed to trade stream for BANKUSDT
+2025-05-18 22:38:45,551 - INFO - Subscribed to trade stream for BCHUSDT
+2025-05-18 22:38:45,552 - INFO - Subscribed to trade stream for BERAUSDT
+2025-05-18 22:38:45,552 - INFO - Subscribed to trade stream for BIOUSDT
+2025-05-18 22:38:45,553 - INFO - Subscribed to trade stream for BLURUSDT
+2025-05-18 22:38:45,553 - INFO - Subscribed to trade stream for BNBUSDT
+2025-05-18 22:38:45,553 - INFO - Subscribed to trade stream for BOMEUSDT
+2025-05-18 22:38:45,554 - INFO - Subscribed to trade stream for BRETTUSDT
+2025-05-18 22:38:45,554 - INFO - Subscribed to trade stream for BTCUSDT
+2025-05-18 22:38:45,555 - INFO - Subscribed to trade stream for BTCUSDT-06JUN25
+2025-05-18 22:38:45,555 - INFO - Subscribed to trade stream for BTCUSDT-23MAY25
+2025-05-18 22:38:45,555 - INFO - Subscribed to trade stream for BTCUSDT-25JUL25
+2025-05-18 22:38:45,555 - INFO - Subscribed to trade stream for BTCUSDT-26DEC25
+2025-05-18 22:38:45,555 - INFO - Subscribed to trade stream for BTCUSDT-26SEP25
+2025-05-18 22:38:45,557 - INFO - Subscribed to trade stream for BTCUSDT-27JUN25
+2025-05-18 22:38:45,558 - INFO - Subscribed to trade stream for BTCUSDT-27MAR26
+2025-05-18 22:38:45,558 - INFO - Subscribed to trade stream for BTCUSDT-30MAY25
+2025-05-18 22:38:45,559 - INFO - Subscribed to trade stream for CATIUSDT
+2025-05-18 22:38:45,559 - INFO - Subscribed to trade stream for CGPTUSDT
+2025-05-18 22:38:45,559 - INFO - Subscribed to trade stream for COOKIEUSDT
+2025-05-18 22:38:45,560 - INFO - Subscribed to trade stream for COWUSDT
+2025-05-18 22:38:45,560 - INFO - Subscribed to trade stream for CRVUSDT
+2025-05-18 22:38:45,560 - INFO - Subscribed to trade stream for DEXEUSDT
+2025-05-18 22:38:45,561 - INFO - Subscribed to trade stream for DOGEUSDT
+2025-05-18 22:38:45,561 - INFO - Subscribed to trade stream for DOGSUSDT
+2025-05-18 22:38:45,562 - INFO - Subscribed to trade stream for DOTUSDT
+2025-05-18 22:38:45,562 - INFO - Subscribed to trade stream for DYDXUSDT
+2025-05-18 22:38:45,562 - INFO - Subscribed to trade stream for EIGENUSDT
+2025-05-18 22:38:45,563 - INFO - Subscribed to trade stream for ENAUSDT
+2025-05-18 22:38:45,563 - INFO - Subscribed to trade stream for ENSUSDT
+2025-05-18 22:38:45,563 - INFO - Subscribed to trade stream for EOSUSDT
+2025-05-18 22:38:45,564 - INFO - Subscribed to trade stream for EPICUSDT
+2025-05-18 22:38:45,564 - INFO - Subscribed to trade stream for ETCUSDT
+2025-05-18 22:38:45,564 - INFO - Subscribed to trade stream for ETHUSDT
+2025-05-18 22:38:45,564 - INFO - Subscribed to trade stream for ETHUSDT-06JUN25
+2025-05-18 22:38:45,564 - INFO - Subscribed to trade stream for ETHUSDT-23MAY25
+2025-05-18 22:38:45,566 - INFO - Subscribed to trade stream for ETHUSDT-25JUL25
+2025-05-18 22:38:45,566 - INFO - Subscribed to trade stream for ETHUSDT-26DEC25
+2025-05-18 22:38:45,566 - INFO - Subscribed to trade stream for ETHUSDT-26SEP25
+2025-05-18 22:38:45,567 - INFO - Subscribed to trade stream for ETHUSDT-27JUN25
+2025-05-18 22:38:45,567 - INFO - Subscribed to trade stream for ETHUSDT-27MAR26
+2025-05-18 22:38:45,567 - INFO - Subscribed to trade stream for ETHUSDT-30MAY25
+2025-05-18 22:38:45,568 - INFO - Subscribed to trade stream for FARTCOINUSDT
+2025-05-18 22:38:45,568 - INFO - Subscribed to trade stream for FLOCKUSDT
+2025-05-18 22:38:45,568 - INFO - Subscribed to trade stream for FUSDT
+2025-05-18 22:38:45,569 - INFO - Subscribed to trade stream for GALAUSDT
+2025-05-18 22:38:45,569 - INFO - Subscribed to trade stream for GIGAUSDT
+2025-05-18 22:38:45,570 - INFO - Subscribed to trade stream for GMTUSDT
+2025-05-18 22:38:45,570 - INFO - Subscribed to trade stream for GOATUSDT
+2025-05-18 22:38:45,571 - INFO - Subscribed to trade stream for GRASSUSDT
+2025-05-18 22:38:45,571 - INFO - Subscribed to trade stream for GRIFFAINUSDT
+2025-05-18 22:38:45,572 - INFO - Subscribed to trade stream for HBARUSDT
+2025-05-18 22:38:45,572 - INFO - Subscribed to trade stream for HEIUSDT
+2025-05-18 22:38:45,572 - INFO - Subscribed to trade stream for HIVEUSDT
+2025-05-18 22:38:45,573 - INFO - Subscribed to trade stream for HMSTRUSDT
+2025-05-18 22:38:45,575 - INFO - Subscribed to trade stream for HYPERUSDT
+2025-05-18 22:38:45,576 - INFO - Subscribed to trade stream for HYPEUSDT
+2025-05-18 22:38:45,576 - INFO - Subscribed to trade stream for ICPUSDT
+2025-05-18 22:38:45,577 - INFO - Subscribed to trade stream for IMXUSDT
+2025-05-18 22:38:45,577 - INFO - Subscribed to trade stream for INITUSDT
+2025-05-18 22:38:45,577 - INFO - Subscribed to trade stream for INJUSDT
+2025-05-18 22:38:45,577 - INFO - Subscribed to trade stream for IPUSDT
+2025-05-18 22:38:45,578 - INFO - Subscribed to trade stream for JASMYUSDT
+2025-05-18 22:38:45,578 - INFO - Subscribed to trade stream for JTOUSDT
+2025-05-18 22:38:45,578 - INFO - Subscribed to trade stream for JUPUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for JUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for KAIAUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for KAITOUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for KASUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for KERNELUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for KOMAUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for LDOUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for LINKUSDT
+2025-05-18 22:38:45,579 - INFO - Subscribed to trade stream for LTCUSDT
+2025-05-18 22:38:45,582 - INFO - Subscribed to trade stream for LUMIAUSDT
+2025-05-18 22:38:45,582 - INFO - Subscribed to trade stream for MELANIAUSDT
+2025-05-18 22:38:45,582 - INFO - Subscribed to trade stream for MEMEUSDT
+2025-05-18 22:38:45,583 - INFO - Subscribed to trade stream for MEUSDT
+2025-05-18 22:38:45,583 - INFO - Subscribed to trade stream for MEWUSDT
+2025-05-18 22:38:45,584 - INFO - Subscribed to trade stream for MLNUSDT
+2025-05-18 22:38:45,584 - INFO - Subscribed to trade stream for MOODENGUSDT
+2025-05-18 22:38:45,584 - INFO - Subscribed to trade stream for MOVEUSDT
+2025-05-18 22:38:45,585 - INFO - Subscribed to trade stream for NCUSDT
+2025-05-18 22:38:45,585 - INFO - Subscribed to trade stream for NEARUSDT
+2025-05-18 22:38:45,585 - INFO - Subscribed to trade stream for NILUSDT
+2025-05-18 22:38:45,586 - INFO - Subscribed to trade stream for NOTUSDT
+2025-05-18 22:38:45,586 - INFO - Subscribed to trade stream for OMUSDT
+2025-05-18 22:38:45,587 - INFO - Subscribed to trade stream for ONDOUSDT
+2025-05-18 22:38:45,587 - INFO - Subscribed to trade stream for OPUSDT
+2025-05-18 22:38:45,588 - INFO - Subscribed to trade stream for ORDIUSDT
+2025-05-18 22:38:45,589 - INFO - Subscribed to trade stream for PARTIUSDT
+2025-05-18 22:38:45,589 - INFO - Subscribed to trade stream for PENGUUSDT
+2025-05-18 22:38:45,590 - INFO - Subscribed to trade stream for PEOPLEUSDT
+2025-05-18 22:38:45,591 - INFO - Subscribed to trade stream for PHAUSDT
+2025-05-18 22:38:45,591 - INFO - Subscribed to trade stream for PLUMEUSDT
+2025-05-18 22:38:45,591 - INFO - Subscribed to trade stream for PNUTUSDT
+2025-05-18 22:38:45,591 - INFO - Subscribed to trade stream for POLUSDT
+2025-05-18 22:38:45,594 - INFO - Subscribed to trade stream for POPCATUSDT
+2025-05-18 22:38:45,595 - INFO - Subscribed to trade stream for PYTHUSDT
+2025-05-18 22:38:45,595 - INFO - Subscribed to trade stream for REDUSDT
+2025-05-18 22:38:45,596 - INFO - Subscribed to trade stream for RENDERUSDT
+2025-05-18 22:38:45,597 - INFO - Subscribed to trade stream for RONINUSDT
+2025-05-18 22:38:45,597 - INFO - Subscribed to trade stream for ROSEUSDT
+2025-05-18 22:38:45,598 - INFO - Subscribed to trade stream for SANDUSDT
+2025-05-18 22:38:45,598 - INFO - Subscribed to trade stream for SEIUSDT
+2025-05-18 22:38:45,598 - INFO - Subscribed to trade stream for SENDUSDT
+2025-05-18 22:38:45,598 - INFO - Subscribed to trade stream for SHIB1000USDT
+2025-05-18 22:38:45,600 - INFO - Subscribed to trade stream for SIGNUSDT
+2025-05-18 22:38:45,600 - INFO - Subscribed to trade stream for SOLAYERUSDT
+2025-05-18 22:38:45,601 - INFO - Subscribed to trade stream for SOLUSDT
+2025-05-18 22:38:45,602 - INFO - Subscribed to trade stream for SOLUSDT-06JUN25
+2025-05-18 22:38:45,602 - INFO - Subscribed to trade stream for SOLUSDT-23MAY25
+2025-05-18 22:38:45,603 - INFO - Subscribed to trade stream for SOLUSDT-27JUN25
+2025-05-18 22:38:45,603 - INFO - Subscribed to trade stream for SOLUSDT-30MAY25
+2025-05-18 22:38:45,604 - INFO - Subscribed to trade stream for SOLVUSDT
+2025-05-18 22:38:45,605 - INFO - Subscribed to trade stream for SONICUSDT
+2025-05-18 22:38:45,605 - INFO - Subscribed to trade stream for SPXUSDT
+2025-05-18 22:38:45,605 - INFO - Subscribed to trade stream for STRKUSDT
+2025-05-18 22:38:45,607 - INFO - Subscribed to trade stream for STXUSDT
+2025-05-18 22:38:45,608 - INFO - Subscribed to trade stream for SUIUSDT
+2025-05-18 22:38:45,608 - INFO - Subscribed to trade stream for SUSDT
+2025-05-18 22:38:45,608 - INFO - Subscribed to trade stream for SWARMSUSDT
+2025-05-18 22:38:45,609 - INFO - Subscribed to trade stream for TAOUSDT
+2025-05-18 22:38:45,610 - INFO - Subscribed to 1m kline streams for all assets
+2025-05-18 22:38:45,611 - INFO - Data collector running, press Ctrl+C to exit
+2025-05-18 22:43:31,323 - INFO - Shutting down...
+2025-05-18 22:43:36,418 - INFO - Redis connection established
+2025-05-18 22:43:36,418 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 22:43:37,338 - INFO - Websocket connected
+2025-05-18 22:43:37,338 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 22:43:37,338 - INFO - Starting Bybit data collector
+2025-05-18 22:43:37,527 - INFO - Found 151 eligible assets
+2025-05-18 22:43:37,527 - INFO - Setting up data streams for 151 assets
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for 10000ELONUSDT
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for 1000BONKUSDT
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for 1000CATUSDT
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for 1000FLOKIUSDT
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for 1000NEIROCTOUSDT
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for 1000PEPEUSDT
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for 1000TOSHIUSDT
+2025-05-18 22:43:37,527 - INFO - Subscribed to trade stream for AAVEUSDT
+2025-05-18 22:43:37,534 - INFO - Subscribed to trade stream for ACXUSDT
+2025-05-18 22:43:37,534 - INFO - Subscribed to trade stream for ADAUSDT
+2025-05-18 22:43:37,535 - INFO - Subscribed to trade stream for AI16ZUSDT
+2025-05-18 22:43:37,536 - INFO - Subscribed to trade stream for AIXBTUSDT
+2025-05-18 22:43:37,536 - INFO - Subscribed to trade stream for ALCHUSDT
+2025-05-18 22:43:37,537 - INFO - Subscribed to trade stream for ALGOUSDT
+2025-05-18 22:43:37,538 - INFO - Subscribed to trade stream for ALUUSDT
+2025-05-18 22:43:37,538 - INFO - Subscribed to trade stream for ANIMEUSDT
+2025-05-18 22:43:37,539 - INFO - Subscribed to trade stream for APEUSDT
+2025-05-18 22:43:37,539 - INFO - Subscribed to trade stream for APTUSDT
+2025-05-18 22:43:37,540 - INFO - Subscribed to trade stream for ARBUSDT
+2025-05-18 22:43:37,540 - INFO - Subscribed to trade stream for ARCUSDT
+2025-05-18 22:43:37,541 - INFO - Subscribed to trade stream for ARKMUSDT
+2025-05-18 22:43:37,542 - INFO - Subscribed to trade stream for ATOMUSDT
+2025-05-18 22:43:37,542 - INFO - Subscribed to trade stream for AVAUSDT
+2025-05-18 22:43:37,542 - INFO - Subscribed to trade stream for AVAXUSDT
+2025-05-18 22:43:37,543 - INFO - Subscribed to trade stream for AXLUSDT
+2025-05-18 22:43:37,543 - INFO - Subscribed to trade stream for AXSUSDT
+2025-05-18 22:43:37,544 - INFO - Subscribed to trade stream for B3USDT
+2025-05-18 22:43:37,545 - INFO - Subscribed to trade stream for BABYUSDT
+2025-05-18 22:43:37,545 - INFO - Subscribed to trade stream for BANKUSDT
+2025-05-18 22:43:37,546 - INFO - Subscribed to trade stream for BCHUSDT
+2025-05-18 22:43:37,547 - INFO - Subscribed to trade stream for BERAUSDT
+2025-05-18 22:43:37,547 - INFO - Subscribed to trade stream for BIOUSDT
+2025-05-18 22:43:37,547 - INFO - Subscribed to trade stream for BLURUSDT
+2025-05-18 22:43:37,548 - INFO - Subscribed to trade stream for BNBUSDT
+2025-05-18 22:43:37,548 - INFO - Subscribed to trade stream for BOMEUSDT
+2025-05-18 22:43:37,548 - INFO - Subscribed to trade stream for BRETTUSDT
+2025-05-18 22:43:37,549 - INFO - Subscribed to trade stream for BTCUSDT
+2025-05-18 22:43:37,549 - INFO - Subscribed to trade stream for BTCUSDT-06JUN25
+2025-05-18 22:43:37,550 - INFO - Subscribed to trade stream for BTCUSDT-23MAY25
+2025-05-18 22:43:37,550 - INFO - Subscribed to trade stream for BTCUSDT-25JUL25
+2025-05-18 22:43:37,550 - INFO - Subscribed to trade stream for BTCUSDT-26DEC25
+2025-05-18 22:43:37,550 - INFO - Subscribed to trade stream for BTCUSDT-26SEP25
+2025-05-18 22:43:37,550 - INFO - Subscribed to trade stream for BTCUSDT-27JUN25
+2025-05-18 22:43:37,552 - INFO - Subscribed to trade stream for BTCUSDT-27MAR26
+2025-05-18 22:43:37,552 - INFO - Subscribed to trade stream for BTCUSDT-30MAY25
+2025-05-18 22:43:37,552 - INFO - Subscribed to trade stream for CATIUSDT
+2025-05-18 22:43:37,553 - INFO - Subscribed to trade stream for CGPTUSDT
+2025-05-18 22:43:37,553 - INFO - Subscribed to trade stream for COOKIEUSDT
+2025-05-18 22:43:37,553 - INFO - Subscribed to trade stream for COWUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for CRVUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for DEXEUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for DOGEUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for DOGSUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for DOTUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for DYDXUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for EIGENUSDT
+2025-05-18 22:43:37,554 - INFO - Subscribed to trade stream for ENAUSDT
+2025-05-18 22:43:37,557 - INFO - Subscribed to trade stream for ENSUSDT
+2025-05-18 22:43:37,557 - INFO - Subscribed to trade stream for EOSUSDT
+2025-05-18 22:43:37,557 - INFO - Subscribed to trade stream for EPICUSDT
+2025-05-18 22:43:37,557 - INFO - Subscribed to trade stream for ETCUSDT
+2025-05-18 22:43:37,557 - INFO - Subscribed to trade stream for ETHUSDT
+2025-05-18 22:43:37,559 - INFO - Subscribed to trade stream for ETHUSDT-06JUN25
+2025-05-18 22:43:37,559 - INFO - Subscribed to trade stream for ETHUSDT-23MAY25
+2025-05-18 22:43:37,559 - INFO - Subscribed to trade stream for ETHUSDT-25JUL25
+2025-05-18 22:43:37,560 - INFO - Subscribed to trade stream for ETHUSDT-26DEC25
+2025-05-18 22:43:37,561 - INFO - Subscribed to trade stream for ETHUSDT-26SEP25
+2025-05-18 22:43:37,561 - INFO - Subscribed to trade stream for ETHUSDT-27JUN25
+2025-05-18 22:43:37,561 - INFO - Subscribed to trade stream for ETHUSDT-27MAR26
+2025-05-18 22:43:37,562 - INFO - Subscribed to trade stream for ETHUSDT-30MAY25
+2025-05-18 22:43:37,563 - INFO - Subscribed to trade stream for FARTCOINUSDT
+2025-05-18 22:43:37,563 - INFO - Subscribed to trade stream for FLOCKUSDT
+2025-05-18 22:43:37,563 - INFO - Subscribed to trade stream for FUSDT
+2025-05-18 22:43:37,564 - INFO - Subscribed to trade stream for GALAUSDT
+2025-05-18 22:43:37,564 - INFO - Subscribed to trade stream for GIGAUSDT
+2025-05-18 22:43:37,565 - INFO - Subscribed to trade stream for GMTUSDT
+2025-05-18 22:43:37,565 - INFO - Subscribed to trade stream for GOATUSDT
+2025-05-18 22:43:37,566 - INFO - Subscribed to trade stream for GRASSUSDT
+2025-05-18 22:43:37,566 - INFO - Subscribed to trade stream for GRIFFAINUSDT
+2025-05-18 22:43:37,567 - INFO - Subscribed to trade stream for HBARUSDT
+2025-05-18 22:43:37,567 - INFO - Subscribed to trade stream for HEIUSDT
+2025-05-18 22:43:37,567 - INFO - Subscribed to trade stream for HIVEUSDT
+2025-05-18 22:43:37,567 - INFO - Subscribed to trade stream for HMSTRUSDT
+2025-05-18 22:43:37,567 - INFO - Subscribed to trade stream for HYPERUSDT
+2025-05-18 22:43:37,567 - INFO - Subscribed to trade stream for HYPEUSDT
+2025-05-18 22:43:37,567 - INFO - Subscribed to trade stream for ICPUSDT
+2025-05-18 22:43:37,570 - INFO - Subscribed to trade stream for IMXUSDT
+2025-05-18 22:43:37,570 - INFO - Subscribed to trade stream for INITUSDT
+2025-05-18 22:43:37,570 - INFO - Subscribed to trade stream for INJUSDT
+2025-05-18 22:43:37,571 - INFO - Subscribed to trade stream for IPUSDT
+2025-05-18 22:43:37,571 - INFO - Subscribed to trade stream for JASMYUSDT
+2025-05-18 22:43:37,571 - INFO - Subscribed to trade stream for JTOUSDT
+2025-05-18 22:43:37,572 - INFO - Subscribed to trade stream for JUPUSDT
+2025-05-18 22:43:37,572 - INFO - Subscribed to trade stream for JUSDT
+2025-05-18 22:43:37,572 - INFO - Subscribed to trade stream for KAIAUSDT
+2025-05-18 22:43:37,572 - INFO - Subscribed to trade stream for KAITOUSDT
+2025-05-18 22:43:37,573 - INFO - Subscribed to trade stream for KASUSDT
+2025-05-18 22:43:37,573 - INFO - Subscribed to trade stream for KERNELUSDT
+2025-05-18 22:43:37,573 - INFO - Subscribed to trade stream for KOMAUSDT
+2025-05-18 22:43:37,574 - INFO - Subscribed to trade stream for LDOUSDT
+2025-05-18 22:43:37,574 - INFO - Subscribed to trade stream for LINKUSDT
+2025-05-18 22:43:37,574 - INFO - Subscribed to trade stream for LTCUSDT
+2025-05-18 22:43:37,575 - INFO - Subscribed to trade stream for LUMIAUSDT
+2025-05-18 22:43:37,576 - INFO - Subscribed to trade stream for MELANIAUSDT
+2025-05-18 22:43:37,576 - INFO - Subscribed to trade stream for MEMEUSDT
+2025-05-18 22:43:37,577 - INFO - Subscribed to trade stream for MEUSDT
+2025-05-18 22:43:37,578 - INFO - Subscribed to trade stream for MEWUSDT
+2025-05-18 22:43:37,578 - INFO - Subscribed to trade stream for MLNUSDT
+2025-05-18 22:43:37,578 - INFO - Subscribed to trade stream for MOODENGUSDT
+2025-05-18 22:43:37,578 - INFO - Subscribed to trade stream for MOVEUSDT
+2025-05-18 22:43:37,578 - INFO - Subscribed to trade stream for NCUSDT
+2025-05-18 22:43:37,580 - INFO - Subscribed to trade stream for NEARUSDT
+2025-05-18 22:43:37,580 - INFO - Subscribed to trade stream for NILUSDT
+2025-05-18 22:43:37,581 - INFO - Subscribed to trade stream for NOTUSDT
+2025-05-18 22:43:37,581 - INFO - Subscribed to trade stream for OMUSDT
+2025-05-18 22:43:37,581 - INFO - Subscribed to trade stream for ONDOUSDT
+2025-05-18 22:43:37,582 - INFO - Subscribed to trade stream for OPUSDT
+2025-05-18 22:43:37,582 - INFO - Subscribed to trade stream for ORDIUSDT
+2025-05-18 22:43:37,583 - INFO - Subscribed to trade stream for PARTIUSDT
+2025-05-18 22:43:37,583 - INFO - Subscribed to trade stream for PENGUUSDT
+2025-05-18 22:43:37,584 - INFO - Subscribed to trade stream for PEOPLEUSDT
+2025-05-18 22:43:37,585 - INFO - Subscribed to trade stream for PHAUSDT
+2025-05-18 22:43:37,585 - INFO - Subscribed to trade stream for PLUMEUSDT
+2025-05-18 22:43:37,585 - INFO - Subscribed to trade stream for PNUTUSDT
+2025-05-18 22:43:37,586 - INFO - Subscribed to trade stream for POLUSDT
+2025-05-18 22:43:37,586 - INFO - Subscribed to trade stream for POPCATUSDT
+2025-05-18 22:43:37,588 - INFO - Subscribed to trade stream for PYTHUSDT
+2025-05-18 22:43:37,589 - INFO - Subscribed to trade stream for REDUSDT
+2025-05-18 22:43:37,589 - INFO - Subscribed to trade stream for RENDERUSDT
+2025-05-18 22:43:37,590 - INFO - Subscribed to trade stream for RONINUSDT
+2025-05-18 22:43:37,590 - INFO - Subscribed to trade stream for ROSEUSDT
+2025-05-18 22:43:37,590 - INFO - Subscribed to trade stream for SANDUSDT
+2025-05-18 22:43:37,591 - INFO - Subscribed to trade stream for SEIUSDT
+2025-05-18 22:43:37,592 - INFO - Subscribed to trade stream for SENDUSDT
+2025-05-18 22:43:37,592 - INFO - Subscribed to trade stream for SHIB1000USDT
+2025-05-18 22:43:37,592 - INFO - Subscribed to trade stream for SIGNUSDT
+2025-05-18 22:43:37,594 - INFO - Subscribed to trade stream for SOLAYERUSDT
+2025-05-18 22:43:37,595 - INFO - Subscribed to trade stream for SOLUSDT
+2025-05-18 22:43:37,595 - INFO - Subscribed to trade stream for SOLUSDT-06JUN25
+2025-05-18 22:43:37,596 - INFO - Subscribed to trade stream for SOLUSDT-23MAY25
+2025-05-18 22:43:37,597 - INFO - Subscribed to trade stream for SOLUSDT-27JUN25
+2025-05-18 22:43:37,597 - INFO - Subscribed to trade stream for SOLUSDT-30MAY25
+2025-05-18 22:43:37,597 - INFO - Subscribed to trade stream for SOLVUSDT
+2025-05-18 22:43:37,598 - INFO - Subscribed to trade stream for SONICUSDT
+2025-05-18 22:43:37,599 - INFO - Subscribed to trade stream for SPXUSDT
+2025-05-18 22:43:37,599 - INFO - Subscribed to trade stream for STRKUSDT
+2025-05-18 22:43:37,600 - INFO - Subscribed to trade stream for STXUSDT
+2025-05-18 22:43:37,600 - INFO - Subscribed to trade stream for SUIUSDT
+2025-05-18 22:43:37,601 - INFO - Subscribed to trade stream for SUSDT
+2025-05-18 22:43:37,601 - INFO - Subscribed to trade stream for SWARMSUSDT
+2025-05-18 22:43:37,601 - INFO - Subscribed to trade stream for TAOUSDT
+2025-05-18 22:43:37,601 - INFO - Subscribed to 1m kline streams for all assets
+2025-05-18 22:43:37,601 - INFO - Data collector running, press Ctrl+C to exit
+2025-05-18 22:50:01,347 - INFO - Shutting down...
+2025-05-18 22:50:05,125 - INFO - Redis connection established
+2025-05-18 22:50:05,125 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 22:50:06,067 - INFO - Websocket connected
+2025-05-18 22:50:06,067 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 22:50:06,067 - INFO - Starting Bybit data collector
+2025-05-18 22:50:06,207 - INFO - Shutting down...
+2025-05-18 22:52:31,466 - INFO - Redis connection established
+2025-05-18 22:52:31,467 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 22:52:31,817 - INFO - Websocket connected
+2025-05-18 22:52:31,817 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 22:52:31,818 - INFO - Starting Bybit data collector
+2025-05-18 22:52:32,017 - INFO - Found 151 eligible assets
+2025-05-18 22:52:32,018 - INFO - Setting up data streams for 151 assets
+2025-05-18 22:52:32,019 - INFO - Subscribed to trade stream for 10000ELONUSDT
+2025-05-18 22:52:32,020 - INFO - Subscribed to trade stream for 1000BONKUSDT
+2025-05-18 22:52:32,020 - INFO - Subscribed to trade stream for 1000CATUSDT
+2025-05-18 22:52:32,021 - INFO - Subscribed to trade stream for 1000FLOKIUSDT
+2025-05-18 22:52:32,022 - INFO - Subscribed to trade stream for 1000NEIROCTOUSDT
+2025-05-18 22:52:32,022 - INFO - Subscribed to trade stream for 1000PEPEUSDT
+2025-05-18 22:52:32,023 - INFO - Subscribed to trade stream for 1000TOSHIUSDT
+2025-05-18 22:52:32,023 - INFO - Subscribed to trade stream for AAVEUSDT
+2025-05-18 22:52:32,024 - INFO - Subscribed to trade stream for ACXUSDT
+2025-05-18 22:52:32,024 - INFO - Subscribed to trade stream for ADAUSDT
+2025-05-18 22:52:32,025 - INFO - Subscribed to trade stream for AI16ZUSDT
+2025-05-18 22:52:32,025 - INFO - Subscribed to trade stream for AIXBTUSDT
+2025-05-18 22:52:32,026 - INFO - Subscribed to trade stream for ALCHUSDT
+2025-05-18 22:52:32,026 - INFO - Subscribed to trade stream for ALGOUSDT
+2025-05-18 22:52:32,027 - INFO - Subscribed to trade stream for ALUUSDT
+2025-05-18 22:52:32,027 - INFO - Subscribed to trade stream for ANIMEUSDT
+2025-05-18 22:52:32,027 - INFO - Subscribed to trade stream for APEUSDT
+2025-05-18 22:52:32,028 - INFO - Subscribed to trade stream for APTUSDT
+2025-05-18 22:52:32,028 - INFO - Subscribed to trade stream for ARBUSDT
+2025-05-18 22:52:32,029 - INFO - Subscribed to trade stream for ARCUSDT
+2025-05-18 22:52:32,029 - INFO - Subscribed to trade stream for ARKMUSDT
+2025-05-18 22:52:32,030 - INFO - Subscribed to trade stream for ATOMUSDT
+2025-05-18 22:52:32,030 - INFO - Subscribed to trade stream for AVAUSDT
+2025-05-18 22:52:32,030 - INFO - Subscribed to trade stream for AVAXUSDT
+2025-05-18 22:52:32,031 - INFO - Subscribed to trade stream for AXLUSDT
+2025-05-18 22:52:32,031 - INFO - Subscribed to trade stream for AXSUSDT
+2025-05-18 22:52:32,031 - INFO - Subscribed to trade stream for B3USDT
+2025-05-18 22:52:32,031 - INFO - Subscribed to trade stream for BABYUSDT
+2025-05-18 22:52:32,032 - INFO - Subscribed to trade stream for BANKUSDT
+2025-05-18 22:52:32,032 - INFO - Subscribed to trade stream for BCHUSDT
+2025-05-18 22:52:32,033 - INFO - Subscribed to trade stream for BERAUSDT
+2025-05-18 22:52:32,033 - INFO - Subscribed to trade stream for BIOUSDT
+2025-05-18 22:52:32,034 - INFO - Subscribed to trade stream for BLURUSDT
+2025-05-18 22:52:32,034 - INFO - Subscribed to trade stream for BNBUSDT
+2025-05-18 22:52:32,034 - INFO - Subscribed to trade stream for BOMEUSDT
+2025-05-18 22:52:32,035 - INFO - Subscribed to trade stream for BRETTUSDT
+2025-05-18 22:52:32,035 - INFO - Subscribed to trade stream for BTCUSDT
+2025-05-18 22:52:32,036 - INFO - Subscribed to trade stream for BTCUSDT-06JUN25
+2025-05-18 22:52:32,036 - INFO - Subscribed to trade stream for BTCUSDT-23MAY25
+2025-05-18 22:52:32,036 - INFO - Subscribed to trade stream for BTCUSDT-25JUL25
+2025-05-18 22:52:32,037 - INFO - Subscribed to trade stream for BTCUSDT-26DEC25
+2025-05-18 22:52:32,037 - INFO - Subscribed to trade stream for BTCUSDT-26SEP25
+2025-05-18 22:52:32,037 - INFO - Subscribed to trade stream for BTCUSDT-27JUN25
+2025-05-18 22:52:32,038 - INFO - Subscribed to trade stream for BTCUSDT-27MAR26
+2025-05-18 22:52:32,038 - INFO - Subscribed to trade stream for BTCUSDT-30MAY25
+2025-05-18 22:52:32,038 - INFO - Subscribed to trade stream for CATIUSDT
+2025-05-18 22:52:32,039 - INFO - Subscribed to trade stream for CGPTUSDT
+2025-05-18 22:52:32,039 - INFO - Subscribed to trade stream for COOKIEUSDT
+2025-05-18 22:52:32,039 - INFO - Subscribed to trade stream for COWUSDT
+2025-05-18 22:52:32,040 - INFO - Subscribed to trade stream for CRVUSDT
+2025-05-18 22:52:32,040 - INFO - Subscribed to trade stream for DEXEUSDT
+2025-05-18 22:52:32,041 - INFO - Subscribed to trade stream for DOGEUSDT
+2025-05-18 22:52:32,041 - INFO - Subscribed to trade stream for DOGSUSDT
+2025-05-18 22:52:32,041 - INFO - Subscribed to trade stream for DOTUSDT
+2025-05-18 22:52:32,042 - INFO - Subscribed to trade stream for DYDXUSDT
+2025-05-18 22:52:32,042 - INFO - Subscribed to trade stream for EIGENUSDT
+2025-05-18 22:52:32,042 - INFO - Subscribed to trade stream for ENAUSDT
+2025-05-18 22:52:32,043 - INFO - Subscribed to trade stream for ENSUSDT
+2025-05-18 22:52:32,043 - INFO - Subscribed to trade stream for EOSUSDT
+2025-05-18 22:52:32,043 - INFO - Subscribed to trade stream for EPICUSDT
+2025-05-18 22:52:32,044 - INFO - Subscribed to trade stream for ETCUSDT
+2025-05-18 22:52:32,044 - INFO - Subscribed to trade stream for ETHUSDT
+2025-05-18 22:52:32,045 - INFO - Subscribed to trade stream for ETHUSDT-06JUN25
+2025-05-18 22:52:32,045 - INFO - Subscribed to trade stream for ETHUSDT-23MAY25
+2025-05-18 22:52:32,045 - INFO - Subscribed to trade stream for ETHUSDT-25JUL25
+2025-05-18 22:52:32,046 - INFO - Subscribed to trade stream for ETHUSDT-26DEC25
+2025-05-18 22:52:32,046 - INFO - Subscribed to trade stream for ETHUSDT-26SEP25
+2025-05-18 22:52:32,046 - INFO - Subscribed to trade stream for ETHUSDT-27JUN25
+2025-05-18 22:52:32,047 - INFO - Subscribed to trade stream for ETHUSDT-27MAR26
+2025-05-18 22:52:32,047 - INFO - Subscribed to trade stream for ETHUSDT-30MAY25
+2025-05-18 22:52:32,047 - INFO - Subscribed to trade stream for FARTCOINUSDT
+2025-05-18 22:52:32,047 - INFO - Subscribed to trade stream for FLOCKUSDT
+2025-05-18 22:52:32,048 - INFO - Subscribed to trade stream for FUSDT
+2025-05-18 22:52:32,048 - INFO - Subscribed to trade stream for GALAUSDT
+2025-05-18 22:52:32,049 - INFO - Subscribed to trade stream for GIGAUSDT
+2025-05-18 22:52:32,050 - INFO - Subscribed to trade stream for GMTUSDT
+2025-05-18 22:52:32,050 - INFO - Subscribed to trade stream for GOATUSDT
+2025-05-18 22:52:32,051 - INFO - Subscribed to trade stream for GRASSUSDT
+2025-05-18 22:52:32,051 - INFO - Subscribed to trade stream for GRIFFAINUSDT
+2025-05-18 22:52:32,052 - INFO - Subscribed to trade stream for HBARUSDT
+2025-05-18 22:52:32,052 - INFO - Subscribed to trade stream for HEIUSDT
+2025-05-18 22:52:32,053 - INFO - Subscribed to trade stream for HIVEUSDT
+2025-05-18 22:52:32,053 - INFO - Subscribed to trade stream for HMSTRUSDT
+2025-05-18 22:52:32,054 - INFO - Subscribed to trade stream for HYPERUSDT
+2025-05-18 22:52:32,054 - INFO - Subscribed to trade stream for HYPEUSDT
+2025-05-18 22:52:32,055 - INFO - Subscribed to trade stream for ICPUSDT
+2025-05-18 22:52:32,055 - INFO - Subscribed to trade stream for IMXUSDT
+2025-05-18 22:52:32,056 - INFO - Subscribed to trade stream for INITUSDT
+2025-05-18 22:52:32,056 - INFO - Subscribed to trade stream for INJUSDT
+2025-05-18 22:52:32,057 - INFO - Subscribed to trade stream for IPUSDT
+2025-05-18 22:52:32,057 - INFO - Subscribed to trade stream for JASMYUSDT
+2025-05-18 22:52:32,058 - INFO - Subscribed to trade stream for JTOUSDT
+2025-05-18 22:52:32,058 - INFO - Subscribed to trade stream for JUPUSDT
+2025-05-18 22:52:32,059 - INFO - Subscribed to trade stream for JUSDT
+2025-05-18 22:52:32,059 - INFO - Subscribed to trade stream for KAIAUSDT
+2025-05-18 22:52:32,060 - INFO - Subscribed to trade stream for KAITOUSDT
+2025-05-18 22:52:32,060 - INFO - Subscribed to trade stream for KASUSDT
+2025-05-18 22:52:32,060 - INFO - Subscribed to trade stream for KERNELUSDT
+2025-05-18 22:52:32,061 - INFO - Subscribed to trade stream for KOMAUSDT
+2025-05-18 22:52:32,061 - INFO - Subscribed to trade stream for LDOUSDT
+2025-05-18 22:52:32,061 - INFO - Subscribed to trade stream for LINKUSDT
+2025-05-18 22:52:32,061 - INFO - Subscribed to trade stream for LTCUSDT
+2025-05-18 22:52:32,062 - INFO - Subscribed to trade stream for LUMIAUSDT
+2025-05-18 22:52:32,062 - INFO - Subscribed to trade stream for MELANIAUSDT
+2025-05-18 22:52:32,062 - INFO - Subscribed to trade stream for MEMEUSDT
+2025-05-18 22:52:32,062 - INFO - Subscribed to trade stream for MEUSDT
+2025-05-18 22:52:32,063 - INFO - Subscribed to trade stream for MEWUSDT
+2025-05-18 22:52:32,063 - INFO - Subscribed to trade stream for MLNUSDT
+2025-05-18 22:52:32,063 - INFO - Subscribed to trade stream for MOODENGUSDT
+2025-05-18 22:52:32,063 - INFO - Subscribed to trade stream for MOVEUSDT
+2025-05-18 22:52:32,064 - INFO - Subscribed to trade stream for NCUSDT
+2025-05-18 22:52:32,064 - INFO - Subscribed to trade stream for NEARUSDT
+2025-05-18 22:52:32,064 - INFO - Subscribed to trade stream for NILUSDT
+2025-05-18 22:52:32,064 - INFO - Subscribed to trade stream for NOTUSDT
+2025-05-18 22:52:32,065 - INFO - Subscribed to trade stream for OMUSDT
+2025-05-18 22:52:32,065 - INFO - Subscribed to trade stream for ONDOUSDT
+2025-05-18 22:52:32,066 - INFO - Subscribed to trade stream for OPUSDT
+2025-05-18 22:52:32,066 - INFO - Subscribed to trade stream for ORDIUSDT
+2025-05-18 22:52:32,067 - INFO - Subscribed to trade stream for PARTIUSDT
+2025-05-18 22:52:32,067 - INFO - Subscribed to trade stream for PENGUUSDT
+2025-05-18 22:52:32,068 - INFO - Subscribed to trade stream for PEOPLEUSDT
+2025-05-18 22:52:32,068 - INFO - Subscribed to trade stream for PHAUSDT
+2025-05-18 22:52:32,069 - INFO - Subscribed to trade stream for PLUMEUSDT
+2025-05-18 22:52:32,069 - INFO - Subscribed to trade stream for PNUTUSDT
+2025-05-18 22:52:32,069 - INFO - Subscribed to trade stream for POLUSDT
+2025-05-18 22:52:32,070 - INFO - Subscribed to trade stream for POPCATUSDT
+2025-05-18 22:52:32,070 - INFO - Subscribed to trade stream for PYTHUSDT
+2025-05-18 22:52:32,070 - INFO - Subscribed to trade stream for REDUSDT
+2025-05-18 22:52:32,071 - INFO - Subscribed to trade stream for RENDERUSDT
+2025-05-18 22:52:32,071 - INFO - Subscribed to trade stream for RONINUSDT
+2025-05-18 22:52:32,071 - INFO - Subscribed to trade stream for ROSEUSDT
+2025-05-18 22:52:32,072 - INFO - Subscribed to trade stream for SANDUSDT
+2025-05-18 22:52:32,072 - INFO - Subscribed to trade stream for SEIUSDT
+2025-05-18 22:52:32,072 - INFO - Subscribed to trade stream for SENDUSDT
+2025-05-18 22:52:32,073 - INFO - Subscribed to trade stream for SHIB1000USDT
+2025-05-18 22:52:32,073 - INFO - Subscribed to trade stream for SIGNUSDT
+2025-05-18 22:52:32,073 - INFO - Subscribed to trade stream for SOLAYERUSDT
+2025-05-18 22:52:32,074 - INFO - Subscribed to trade stream for SOLUSDT
+2025-05-18 22:52:32,074 - INFO - Subscribed to trade stream for SOLUSDT-06JUN25
+2025-05-18 22:52:32,074 - INFO - Subscribed to trade stream for SOLUSDT-23MAY25
+2025-05-18 22:52:32,075 - INFO - Subscribed to trade stream for SOLUSDT-27JUN25
+2025-05-18 22:52:32,075 - INFO - Subscribed to trade stream for SOLUSDT-30MAY25
+2025-05-18 22:52:32,075 - INFO - Subscribed to trade stream for SOLVUSDT
+2025-05-18 22:52:32,077 - INFO - Subscribed to trade stream for SONICUSDT
+2025-05-18 22:52:32,079 - INFO - Subscribed to trade stream for SPXUSDT
+2025-05-18 22:52:32,080 - INFO - Subscribed to trade stream for STRKUSDT
+2025-05-18 22:52:32,081 - INFO - Subscribed to trade stream for STXUSDT
+2025-05-18 22:52:32,081 - INFO - Subscribed to trade stream for SUIUSDT
+2025-05-18 22:52:32,082 - INFO - Subscribed to trade stream for SUSDT
+2025-05-18 22:52:32,083 - INFO - Subscribed to trade stream for SWARMSUSDT
+2025-05-18 22:52:32,084 - INFO - Subscribed to trade stream for TAOUSDT
+2025-05-18 22:52:32,085 - INFO - Subscribed to 1m kline streams for all assets
+2025-05-18 22:52:34,091 - INFO - Data collector running, press Ctrl+C to exit
+2025-05-18 23:22:22,519 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 23:22:22,754 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 23:22:23,343 - INFO - Websocket connected
+2025-05-18 23:22:23,343 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 23:22:23,351 - ERROR - ping/pong timed out - goodbye
+2025-05-18 23:24:13,421 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 23:24:13,489 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 23:24:14,003 - INFO - Websocket connected
+2025-05-18 23:24:14,003 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 23:24:14,011 - ERROR - ping/pong timed out - goodbye
