@@ -2428,3 +2428,8 @@
 2025-05-18 23:24:14,003 - INFO - Websocket connected
 2025-05-18 23:24:14,003 - INFO - WebSocket Unified V5 (Auth) connected
 2025-05-18 23:24:14,011 - ERROR - ping/pong timed out - goodbye
+2025-05-18 23:39:04,301 - ERROR - WebSocket Unified V5 (Auth) (wss://stream.bybit.com/v5/public/linear) encountered error: ping/pong timed out.
+2025-05-18 23:39:04,360 - INFO - WebSocket Unified V5 (Auth) attempting connection...
+2025-05-18 23:39:05,232 - INFO - Websocket connected
+2025-05-18 23:39:05,232 - INFO - WebSocket Unified V5 (Auth) connected
+2025-05-18 23:39:05,239 - ERROR - ping/pong timed out - goodbye
