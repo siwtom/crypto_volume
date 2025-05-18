@@ -1,0 +1,1699 @@
+2025-05-18 00:26:21,094 - INFO - Redis connection established
+2025-05-18 00:26:21,095 - INFO - Starting Redis data analysis with Polars
+2025-05-18 00:26:21,096 - INFO - Retrieved 151 assets from Redis
+2025-05-18 00:26:21,230 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 00:26:21,347 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 00:26:21,462 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 00:26:21,573 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 00:26:21,591 - INFO - Retrieved 124 trades for ETHUSDT-26SEP25
+2025-05-18 00:26:21,639 - INFO - Retrieved 382 trades for RONINUSDT
+2025-05-18 00:26:21,754 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 00:26:21,875 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 00:26:21,879 - INFO - Retrieved 27 trades for SOLUSDT-27JUN25
+2025-05-18 00:26:22,011 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 00:26:22,133 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 00:26:22,144 - INFO - Retrieved 62 trades for ETHUSDT-26DEC25
+2025-05-18 00:26:22,293 - INFO - Retrieved 799 trades for AVAUSDT
+2025-05-18 00:26:22,427 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 00:26:22,546 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 00:26:22,663 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 00:26:22,796 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 00:26:22,928 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 00:26:23,039 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 00:26:23,152 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 00:26:23,238 - INFO - Retrieved 765 trades for AXLUSDT
+2025-05-18 00:26:23,356 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 00:26:23,468 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 00:26:23,582 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 00:26:23,698 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 00:26:23,819 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 00:26:23,941 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 00:26:23,942 - INFO - Retrieved 1 trades for BTCUSDT-25JUL25
+2025-05-18 00:26:24,062 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 00:26:24,063 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25
+2025-05-18 00:26:24,176 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 00:26:24,180 - INFO - Retrieved 29 trades for BTCUSDT-27MAR26
+2025-05-18 00:26:24,293 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 00:26:24,294 - INFO - Retrieved 6 trades for ETHUSDT-06JUN25
+2025-05-18 00:26:24,388 - INFO - Retrieved 812 trades for 10000ELONUSDT
+2025-05-18 00:26:24,499 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 00:26:24,614 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 00:26:24,729 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 00:26:24,859 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 00:26:24,977 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 00:26:25,093 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 00:26:25,193 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 00:26:25,310 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 00:26:25,426 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 00:26:25,544 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 00:26:25,544 - WARNING - No trades found for ETHUSDT-30MAY25
+2025-05-18 00:26:25,645 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 00:26:25,777 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 00:26:25,895 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 00:26:26,010 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 00:26:26,128 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 00:26:26,244 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 00:26:26,244 - INFO - Retrieved 8 trades for BTCUSDT-30MAY25
+2025-05-18 00:26:26,244 - INFO - Retrieved 14 trades for SOLUSDT-06JUN25
+2025-05-18 00:26:26,362 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 00:26:26,396 - INFO - Retrieved 183 trades for BTCUSDT-23MAY25
+2025-05-18 00:26:26,482 - INFO - Retrieved 741 trades for JUSDT
+2025-05-18 00:26:26,579 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 00:26:26,696 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 00:26:26,825 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 00:26:26,944 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 00:26:27,046 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 00:26:27,164 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 00:26:27,279 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 00:26:27,352 - INFO - Retrieved 614 trades for ACXUSDT
+2025-05-18 00:26:27,460 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 00:26:27,563 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 00:26:27,681 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 00:26:27,796 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 00:26:27,912 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 00:26:28,015 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 00:26:28,129 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 00:26:28,129 - INFO - Retrieved 2 trades for SOLUSDT-30MAY25
+2025-05-18 00:26:28,247 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 00:26:28,356 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 00:26:28,464 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 00:26:28,564 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 00:26:28,682 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 00:26:28,797 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 00:26:28,797 - INFO - Retrieved 31 trades for BTCUSDT-26DEC25
+2025-05-18 00:26:28,914 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 00:26:28,914 - INFO - Retrieved 9 trades for ETHUSDT-27MAR26
+2025-05-18 00:26:29,031 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 00:26:29,031 - INFO - Retrieved 31 trades for SOLUSDT-23MAY25
+2025-05-18 00:26:29,148 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 00:26:29,248 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 00:26:29,366 - INFO - Retrieved 930 trades for HEIUSDT
+2025-05-18 00:26:29,466 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 00:26:29,583 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 00:26:29,682 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 00:26:29,800 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 00:26:29,915 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 00:26:30,031 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 00:26:30,134 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 00:26:30,249 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 00:26:30,365 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 00:26:30,466 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 00:26:30,582 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 00:26:30,684 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 00:26:30,815 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 00:26:30,949 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 00:26:31,071 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 00:26:31,182 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 00:26:31,299 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 00:26:31,402 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 00:26:31,501 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 00:26:31,619 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 00:26:31,774 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 00:26:31,775 - INFO - Retrieved 3 trades for BTCUSDT-26SEP25
+2025-05-18 00:26:31,900 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 00:26:32,026 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 00:26:32,148 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 00:26:32,266 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 00:26:32,384 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 00:26:32,502 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 00:26:32,618 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 00:26:32,618 - INFO - Retrieved 5 trades for BTCUSDT-27JUN25
+2025-05-18 00:26:32,735 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 00:26:32,851 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 00:26:32,969 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 00:26:33,089 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 00:26:33,203 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 00:26:33,303 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 00:26:33,420 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 00:26:33,535 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 00:26:33,637 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 00:26:33,752 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 00:26:33,870 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 00:26:33,892 - INFO - Retrieved 241 trades for MLNUSDT
+2025-05-18 00:26:34,038 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 00:26:34,071 - INFO - Retrieved 245 trades for ETHUSDT-27JUN25
+2025-05-18 00:26:34,086 - INFO - Retrieved 92 trades for BTCUSDT-06JUN25
+2025-05-18 00:26:34,202 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 00:26:34,304 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 00:26:34,419 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 00:26:34,522 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 00:26:34,538 - INFO - Retrieved 36 trades for ETHUSDT-23MAY25
+2025-05-18 00:26:34,639 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 00:26:34,753 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 00:26:34,885 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 00:26:34,952 - INFO - Retrieved 479 trades for EPICUSDT
+2025-05-18 00:26:35,052 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 00:26:35,170 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 00:26:35,286 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 00:26:35,403 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 00:26:35,505 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 00:26:35,621 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 00:26:35,739 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 00:26:35,872 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 00:26:35,988 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 00:26:36,090 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 00:26:36,129 - ERROR - Error generating market snapshot: mul operation not supported for dtypes `str` and `str`
+2025-05-18 00:26:36,162 - ERROR - Failed to generate market snapshot
+2025-05-18 00:28:44,990 - INFO - Redis connection established
+2025-05-18 00:28:44,990 - INFO - Starting Redis data analysis with Polars
+2025-05-18 00:28:44,990 - INFO - Retrieved 151 assets from Redis
+2025-05-18 00:28:45,113 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 00:28:45,113 - INFO - Retrieved 16 trades for SOLUSDT-06JUN25
+2025-05-18 00:28:45,231 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 00:28:45,347 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 00:28:45,465 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 00:28:45,598 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 00:28:45,598 - INFO - Retrieved 1 trades for BTCUSDT-25JUL25
+2025-05-18 00:28:45,748 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 00:28:45,864 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 00:28:45,998 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 00:28:46,131 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 00:28:46,249 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 00:28:46,429 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 00:28:46,552 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 00:28:46,698 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 00:28:46,831 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 00:28:46,831 - INFO - Retrieved 29 trades for BTCUSDT-27MAR26
+2025-05-18 00:28:46,860 - INFO - Retrieved 125 trades for ETHUSDT-26SEP25
+2025-05-18 00:28:46,999 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 00:28:47,022 - INFO - Retrieved 184 trades for BTCUSDT-23MAY25
+2025-05-18 00:28:47,149 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 00:28:47,267 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 00:28:47,400 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 00:28:47,548 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 00:28:47,682 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 00:28:47,800 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 00:28:47,933 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 00:28:48,067 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 00:28:48,199 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 00:28:48,301 - INFO - Retrieved 816 trades for 10000ELONUSDT
+2025-05-18 00:28:48,336 - INFO - Retrieved 241 trades for MLNUSDT
+2025-05-18 00:28:48,496 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 00:28:48,647 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 00:28:48,751 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 00:28:48,884 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 00:28:48,987 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 00:28:49,118 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 00:28:49,118 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25
+2025-05-18 00:28:49,236 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 00:28:49,351 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 00:28:49,500 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 00:28:49,637 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 00:28:49,637 - INFO - Retrieved 3 trades for BTCUSDT-26SEP25
+2025-05-18 00:28:49,800 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 00:28:49,934 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 00:28:49,982 - INFO - Retrieved 388 trades for RONINUSDT
+2025-05-18 00:28:50,071 - INFO - Retrieved 814 trades for AVAUSDT
+2025-05-18 00:28:50,185 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 00:28:50,319 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 00:28:50,421 - INFO - Retrieved 944 trades for HEIUSDT
+2025-05-18 00:28:50,565 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 00:28:50,704 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 00:28:50,846 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 00:28:50,975 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 00:28:51,114 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 00:28:51,249 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 00:28:51,394 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 00:28:51,399 - INFO - Retrieved 31 trades for SOLUSDT-23MAY25
+2025-05-18 00:28:51,416 - INFO - Retrieved 92 trades for BTCUSDT-06JUN25
+2025-05-18 00:28:51,566 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 00:28:51,706 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 00:28:51,845 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 00:28:52,015 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 00:28:52,171 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 00:28:52,284 - INFO - Retrieved 775 trades for AXLUSDT
+2025-05-18 00:28:52,427 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 00:28:52,555 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 00:28:52,672 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 00:28:52,787 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 00:28:52,906 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 00:28:53,024 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 00:28:53,156 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 00:28:53,289 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 00:28:53,424 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 00:28:53,580 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 00:28:53,581 - INFO - Retrieved 1 trades for ETHUSDT-30MAY25
+2025-05-18 00:28:53,581 - INFO - Retrieved 3 trades for SOLUSDT-30MAY25
+2025-05-18 00:28:53,739 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 00:28:53,866 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 00:28:53,973 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 00:28:54,088 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 00:28:54,088 - INFO - Retrieved 11 trades for ETHUSDT-27MAR26
+2025-05-18 00:28:54,206 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 00:28:54,322 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 00:28:54,439 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 00:28:54,572 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 00:28:54,688 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 00:28:54,867 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 00:28:54,988 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 00:28:55,105 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 00:28:55,246 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 00:28:55,381 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 00:28:55,491 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 00:28:55,507 - INFO - Retrieved 33 trades for BTCUSDT-26DEC25
+2025-05-18 00:28:55,612 - INFO - Retrieved 747 trades for JUSDT
+2025-05-18 00:28:55,748 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 00:28:55,889 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 00:28:56,019 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 00:28:56,154 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 00:28:56,214 - INFO - Retrieved 482 trades for EPICUSDT
+2025-05-18 00:28:56,359 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 00:28:56,365 - INFO - Retrieved 36 trades for ETHUSDT-23MAY25
+2025-05-18 00:28:56,375 - INFO - Retrieved 62 trades for ETHUSDT-26DEC25
+2025-05-18 00:28:56,544 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 00:28:56,683 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 00:28:56,811 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 00:28:56,931 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 00:28:57,062 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 00:28:57,186 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 00:28:57,309 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 00:28:57,416 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 00:28:57,550 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 00:28:57,658 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 00:28:57,776 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 00:28:57,894 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 00:28:58,012 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 00:28:58,012 - INFO - Retrieved 7 trades for ETHUSDT-06JUN25
+2025-05-18 00:28:58,012 - INFO - Retrieved 8 trades for BTCUSDT-30MAY25
+2025-05-18 00:28:58,098 - INFO - Retrieved 620 trades for ACXUSDT
+2025-05-18 00:28:58,210 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 00:28:58,328 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 00:28:58,446 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 00:28:58,559 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 00:28:58,678 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 00:28:58,795 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 00:28:58,960 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 00:28:59,078 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 00:28:59,196 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 00:28:59,313 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 00:28:59,430 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 00:28:59,559 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 00:28:59,678 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 00:28:59,781 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 00:28:59,914 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 00:29:00,029 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 00:29:00,162 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 00:29:00,280 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 00:29:00,397 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 00:29:00,515 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 00:29:00,664 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 00:29:00,802 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 00:29:00,938 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 00:29:01,104 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 00:29:01,146 - INFO - Retrieved 250 trades for ETHUSDT-27JUN25
+2025-05-18 00:29:01,282 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 00:29:01,282 - INFO - Retrieved 27 trades for SOLUSDT-27JUN25
+2025-05-18 00:29:01,430 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 00:29:01,559 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 00:29:01,679 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 00:29:01,827 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 00:29:01,828 - INFO - Retrieved 5 trades for BTCUSDT-27JUN25
+2025-05-18 00:29:01,831 - ERROR - Error generating market snapshot: <traceback object at 0x000002922FCA9340>
+2025-05-18 00:29:01,854 - ERROR - Failed to generate market snapshot
+2025-05-18 00:32:23,813 - INFO - Redis connection established
+2025-05-18 00:32:23,813 - INFO - Starting Redis data analysis with Polars
+2025-05-18 00:32:23,813 - INFO - Retrieved 151 assets from Redis
+2025-05-18 00:32:23,922 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 00:32:24,045 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 00:32:24,171 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 00:32:24,272 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 00:32:24,390 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 00:32:24,507 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 00:32:24,622 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 00:32:24,738 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 00:32:24,856 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 00:32:24,973 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 00:32:25,091 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 00:32:25,107 - INFO - Retrieved 31 trades for SOLUSDT-23MAY25
+2025-05-18 00:32:25,129 - INFO - Retrieved 258 trades for MLNUSDT
+2025-05-18 00:32:25,258 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 00:32:25,335 - INFO - Retrieved 641 trades for ACXUSDT
+2025-05-18 00:32:25,440 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 00:32:25,557 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 00:32:25,668 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 00:32:25,785 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 00:32:25,891 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 00:32:25,991 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 00:32:26,109 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 00:32:26,109 - INFO - Retrieved 11 trades for ETHUSDT-27MAR26
+2025-05-18 00:32:26,226 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 00:32:26,226 - INFO - Retrieved 3 trades for BTCUSDT-26SEP25
+2025-05-18 00:32:26,358 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 00:32:26,358 - INFO - Retrieved 11 trades for BTCUSDT-27JUN25
+2025-05-18 00:32:26,394 - INFO - Retrieved 257 trades for ETHUSDT-27JUN25
+2025-05-18 00:32:26,394 - INFO - Retrieved 3 trades for SOLUSDT-30MAY25
+2025-05-18 00:32:26,525 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 00:32:26,625 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 00:32:26,756 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 00:32:26,874 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 00:32:26,991 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 00:32:27,094 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 00:32:27,209 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 00:32:27,327 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 00:32:27,444 - INFO - Retrieved 971 trades for HEIUSDT
+2025-05-18 00:32:27,559 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 00:32:27,669 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 00:32:27,775 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 00:32:27,897 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 00:32:27,899 - INFO - Retrieved 8 trades for BTCUSDT-30MAY25
+2025-05-18 00:32:28,010 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 00:32:28,121 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 00:32:28,226 - INFO - Retrieved 799 trades for AXLUSDT
+2025-05-18 00:32:28,344 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 00:32:28,458 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 00:32:28,458 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25
+2025-05-18 00:32:28,458 - INFO - Retrieved 7 trades for ETHUSDT-06JUN25
+2025-05-18 00:32:28,577 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 00:32:28,685 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 00:32:28,810 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 00:32:28,912 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 00:32:29,041 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 00:32:29,145 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 00:32:29,145 - INFO - Retrieved 27 trades for SOLUSDT-27JUN25
+2025-05-18 00:32:29,279 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 00:32:29,378 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 00:32:29,504 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 00:32:29,611 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 00:32:29,729 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 00:32:29,829 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 00:32:29,945 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 00:32:30,061 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 00:32:30,061 - INFO - Retrieved 16 trades for SOLUSDT-06JUN25
+2025-05-18 00:32:30,112 - INFO - Retrieved 485 trades for EPICUSDT
+2025-05-18 00:32:30,151 - INFO - Retrieved 186 trades for BTCUSDT-23MAY25
+2025-05-18 00:32:30,263 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 00:32:30,378 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 00:32:30,401 - INFO - Retrieved 92 trades for BTCUSDT-06JUN25
+2025-05-18 00:32:30,497 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 00:32:30,623 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 00:32:30,729 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 00:32:30,831 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 00:32:30,947 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 00:32:31,064 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 00:32:31,179 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 00:32:31,297 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 00:32:31,405 - INFO - Retrieved 831 trades for AVAUSDT
+2025-05-18 00:32:31,513 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 00:32:31,639 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 00:32:31,747 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 00:32:31,864 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 00:32:31,965 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 00:32:32,082 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 00:32:32,211 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 00:32:32,330 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 00:32:32,416 - INFO - Retrieved 833 trades for 10000ELONUSDT
+2025-05-18 00:32:32,532 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 00:32:32,661 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 00:32:32,765 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 00:32:32,881 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 00:32:32,999 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 00:32:33,115 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 00:32:33,231 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 00:32:33,349 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 00:32:33,481 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 00:32:33,598 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 00:32:33,735 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 00:32:33,818 - INFO - Retrieved 761 trades for JUSDT
+2025-05-18 00:32:33,943 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 00:32:34,046 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 00:32:34,046 - INFO - Retrieved 1 trades for ETHUSDT-30MAY25
+2025-05-18 00:32:34,167 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 00:32:34,282 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 00:32:34,384 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 00:32:34,500 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 00:32:34,534 - INFO - Retrieved 402 trades for RONINUSDT
+2025-05-18 00:32:34,672 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 00:32:34,769 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 00:32:34,883 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 00:32:35,001 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 00:32:35,117 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 00:32:35,235 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 00:32:35,349 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 00:32:35,349 - INFO - Retrieved 33 trades for BTCUSDT-26DEC25
+2025-05-18 00:32:35,468 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 00:32:35,631 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 00:32:35,751 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 00:32:35,852 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 00:32:35,969 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 00:32:36,085 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 00:32:36,223 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 00:32:36,368 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 00:32:36,386 - INFO - Retrieved 36 trades for ETHUSDT-23MAY25
+2025-05-18 00:32:36,487 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 00:32:36,620 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 00:32:36,620 - INFO - Retrieved 29 trades for BTCUSDT-27MAR26
+2025-05-18 00:32:36,637 - INFO - Retrieved 62 trades for ETHUSDT-26DEC25
+2025-05-18 00:32:36,753 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 00:32:36,853 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 00:32:36,971 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 00:32:37,085 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 00:32:37,202 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 00:32:37,320 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 00:32:37,437 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 00:32:37,554 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 00:32:37,670 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 00:32:37,786 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 00:32:37,786 - INFO - Retrieved 1 trades for BTCUSDT-25JUL25
+2025-05-18 00:32:37,899 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 00:32:38,002 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 00:32:38,119 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 00:32:38,237 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 00:32:38,355 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 00:32:38,377 - INFO - Retrieved 127 trades for ETHUSDT-26SEP25
+2025-05-18 00:32:38,489 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 00:32:38,604 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 00:32:38,722 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 00:32:38,838 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 00:32:39,588 - ERROR - Error generating market snapshot: mul operation not supported for dtypes `str` and `str`
+2025-05-18 00:32:39,623 - ERROR - Failed to generate market snapshot
+2025-05-18 00:34:08,463 - INFO - Redis connection established
+2025-05-18 00:34:08,463 - INFO - Starting Redis data analysis with Polars
+2025-05-18 00:34:08,463 - INFO - Retrieved 151 assets from Redis
+2025-05-18 00:34:08,587 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 00:34:08,760 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 00:34:08,869 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 00:34:08,987 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 00:34:09,105 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 00:34:09,105 - INFO - Retrieved 3 trades for BTCUSDT-26SEP25
+2025-05-18 00:34:09,231 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 00:34:09,371 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 00:34:09,520 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 00:34:09,638 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 00:34:09,754 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 00:34:09,771 - INFO - Retrieved 128 trades for ETHUSDT-26SEP25
+2025-05-18 00:34:09,873 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 00:34:10,005 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 00:34:10,123 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 00:34:10,238 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 00:34:10,340 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 00:34:10,451 - INFO - Retrieved 806 trades for AXLUSDT
+2025-05-18 00:34:10,555 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 00:34:10,673 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 00:34:10,790 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 00:34:10,809 - INFO - Retrieved 37 trades for ETHUSDT-23MAY25
+2025-05-18 00:34:10,924 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 00:34:11,024 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 00:34:11,141 - INFO - Retrieved 989 trades for HEIUSDT
+2025-05-18 00:34:11,157 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25
+2025-05-18 00:34:11,274 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 00:34:11,372 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 00:34:11,490 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 00:34:11,608 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 00:34:11,608 - INFO - Retrieved 16 trades for SOLUSDT-06JUN25
+2025-05-18 00:34:11,721 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 00:34:11,843 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 00:34:11,941 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 00:34:12,059 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 00:34:12,175 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 00:34:12,291 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 00:34:12,291 - INFO - Retrieved 33 trades for BTCUSDT-26DEC25
+2025-05-18 00:34:12,408 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 00:34:12,524 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 00:34:12,658 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 00:34:12,760 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 00:34:12,859 - INFO - Retrieved 838 trades for 10000ELONUSDT
+2025-05-18 00:34:12,976 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 00:34:13,076 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 00:34:13,076 - INFO - Retrieved 11 trades for BTCUSDT-27JUN25
+2025-05-18 00:34:13,206 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 00:34:13,310 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 00:34:13,310 - INFO - Retrieved 1 trades for BTCUSDT-25JUL25
+2025-05-18 00:34:13,444 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 00:34:13,559 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 00:34:13,692 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 00:34:13,826 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 00:34:13,944 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 00:34:14,061 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 00:34:14,176 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 00:34:14,278 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 00:34:14,394 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 00:34:14,527 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 00:34:14,659 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 00:34:14,659 - INFO - Retrieved 11 trades for ETHUSDT-27MAR26
+2025-05-18 00:34:14,698 - INFO - Retrieved 186 trades for BTCUSDT-23MAY25
+2025-05-18 00:34:14,794 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 00:34:14,913 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 00:34:15,040 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 00:34:15,145 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 00:34:15,261 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 00:34:15,320 - INFO - Retrieved 257 trades for ETHUSDT-27JUN25
+2025-05-18 00:34:15,459 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 00:34:15,593 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 00:34:15,710 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 00:34:15,828 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 00:34:15,930 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 00:34:15,980 - INFO - Retrieved 402 trades for RONINUSDT
+2025-05-18 00:34:16,064 - INFO - Retrieved 644 trades for ACXUSDT
+2025-05-18 00:34:16,179 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 00:34:16,295 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 00:34:16,413 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 00:34:16,413 - INFO - Retrieved 27 trades for SOLUSDT-27JUN25
+2025-05-18 00:34:16,531 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 00:34:16,692 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 00:34:16,811 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 00:34:16,928 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 00:34:16,928 - INFO - Retrieved 7 trades for ETHUSDT-06JUN25
+2025-05-18 00:34:17,048 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 00:34:17,165 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 00:34:17,278 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 00:34:17,395 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 00:34:17,513 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 00:34:17,631 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 00:34:17,740 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 00:34:17,847 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 00:34:17,965 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 00:34:18,080 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 00:34:18,197 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 00:34:18,315 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 00:34:18,415 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 00:34:18,482 - INFO - Retrieved 493 trades for EPICUSDT
+2025-05-18 00:34:18,613 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 00:34:18,724 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 00:34:18,832 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 00:34:18,832 - INFO - Retrieved 1 trades for ETHUSDT-30MAY25
+2025-05-18 00:34:18,950 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 00:34:18,950 - INFO - Retrieved 29 trades for BTCUSDT-27MAR26
+2025-05-18 00:34:19,069 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 00:34:19,182 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 00:34:19,282 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 00:34:19,399 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 00:34:19,515 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 00:34:19,633 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 00:34:19,740 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 00:34:19,848 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 00:34:19,950 - INFO - Retrieved 765 trades for JUSDT
+2025-05-18 00:34:20,050 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 00:34:20,168 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 00:34:20,283 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 00:34:20,384 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 00:34:20,429 - INFO - Retrieved 259 trades for MLNUSDT
+2025-05-18 00:34:20,434 - INFO - Retrieved 63 trades for ETHUSDT-26DEC25
+2025-05-18 00:34:20,551 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 00:34:20,667 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 00:34:20,769 - INFO - Retrieved 863 trades for AVAUSDT
+2025-05-18 00:34:20,876 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 00:34:20,877 - INFO - Retrieved 3 trades for SOLUSDT-30MAY25
+2025-05-18 00:34:20,986 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 00:34:21,101 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 00:34:21,203 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 00:34:21,317 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 00:34:21,434 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 00:34:21,551 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 00:34:21,669 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 00:34:21,785 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 00:34:21,887 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 00:34:21,887 - INFO - Retrieved 8 trades for BTCUSDT-30MAY25
+2025-05-18 00:34:22,016 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 00:34:22,150 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 00:34:22,270 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 00:34:22,385 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 00:34:22,486 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 00:34:22,603 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 00:34:22,726 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 00:34:22,820 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 00:34:22,938 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 00:34:23,071 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 00:34:23,186 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 00:34:23,304 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 00:34:23,453 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 00:34:23,600 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 00:34:23,600 - INFO - Retrieved 92 trades for BTCUSDT-06JUN25
+2025-05-18 00:34:23,741 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 00:34:23,741 - INFO - Retrieved 31 trades for SOLUSDT-23MAY25
+2025-05-18 00:34:24,628 - INFO - Retrieved 151 assets from Redis
+2025-05-18 00:34:24,742 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 00:34:24,871 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 00:34:24,989 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 00:34:25,112 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 00:34:25,220 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 00:34:25,220 - INFO - Retrieved 3 trades for BTCUSDT-26SEP25
+2025-05-18 00:34:25,338 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 00:34:25,440 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 00:34:25,557 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 00:34:25,686 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 00:34:25,789 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 00:34:25,805 - INFO - Retrieved 128 trades for ETHUSDT-26SEP25
+2025-05-18 00:34:25,922 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 00:34:26,025 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 00:34:26,139 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 00:34:26,240 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 00:34:26,356 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 00:34:26,458 - INFO - Retrieved 811 trades for AXLUSDT
+2025-05-18 00:34:26,573 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 00:34:26,708 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 00:34:26,808 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 00:34:26,823 - INFO - Retrieved 37 trades for ETHUSDT-23MAY25
+2025-05-18 00:34:26,926 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 00:34:27,041 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 00:34:27,157 - INFO - Retrieved 989 trades for HEIUSDT
+2025-05-18 00:34:27,157 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25
+2025-05-18 00:34:27,274 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 00:34:27,375 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 00:34:27,491 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 00:34:27,593 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 00:34:27,593 - INFO - Retrieved 16 trades for SOLUSDT-06JUN25
+2025-05-18 00:34:27,710 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 00:34:27,826 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 00:34:27,941 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 00:34:28,044 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 00:34:28,158 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 00:34:28,277 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 00:34:28,277 - INFO - Retrieved 33 trades for BTCUSDT-26DEC25
+2025-05-18 00:34:28,393 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 00:34:28,509 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 00:34:28,626 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 00:34:28,744 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 00:34:28,842 - INFO - Retrieved 838 trades for 10000ELONUSDT
+2025-05-18 00:34:28,959 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 00:34:29,061 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 00:34:29,061 - INFO - Retrieved 11 trades for BTCUSDT-27JUN25
+2025-05-18 00:34:29,178 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 00:34:29,294 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 00:34:29,294 - INFO - Retrieved 1 trades for BTCUSDT-25JUL25
+2025-05-18 00:34:29,411 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 00:34:29,542 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 00:34:29,660 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 00:34:29,778 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 00:34:29,894 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 00:34:30,010 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 00:34:30,112 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 00:34:30,227 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 00:34:30,329 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 00:34:30,459 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 00:34:30,576 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 00:34:30,576 - INFO - Retrieved 11 trades for ETHUSDT-27MAR26
+2025-05-18 00:34:30,597 - INFO - Retrieved 187 trades for BTCUSDT-23MAY25
+2025-05-18 00:34:30,712 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 00:34:30,829 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 00:34:30,945 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 00:34:31,045 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 00:34:31,162 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 00:34:31,197 - INFO - Retrieved 259 trades for ETHUSDT-27JUN25
+2025-05-18 00:34:31,296 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 00:34:31,414 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 00:34:31,527 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 00:34:31,645 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 00:34:31,763 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 00:34:31,814 - INFO - Retrieved 403 trades for RONINUSDT
+2025-05-18 00:34:31,902 - INFO - Retrieved 645 trades for ACXUSDT
+2025-05-18 00:34:32,013 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 00:34:32,131 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 00:34:32,246 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 00:34:32,246 - INFO - Retrieved 27 trades for SOLUSDT-27JUN25
+2025-05-18 00:34:32,365 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 00:34:32,480 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 00:34:32,582 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 00:34:32,697 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 00:34:32,697 - INFO - Retrieved 7 trades for ETHUSDT-06JUN25
+2025-05-18 00:34:32,824 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 00:34:32,930 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 00:34:33,032 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 00:34:33,148 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 00:34:33,264 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 00:34:33,366 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 00:34:33,482 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 00:34:33,611 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 00:34:33,730 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 00:34:33,832 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 00:34:33,948 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 00:34:34,087 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 00:34:34,230 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 00:34:34,300 - INFO - Retrieved 493 trades for EPICUSDT
+2025-05-18 00:34:34,399 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 00:34:34,533 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 00:34:34,650 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 00:34:34,651 - INFO - Retrieved 1 trades for ETHUSDT-30MAY25
+2025-05-18 00:34:34,767 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 00:34:34,767 - INFO - Retrieved 29 trades for BTCUSDT-27MAR26
+2025-05-18 00:34:34,883 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 00:34:35,000 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 00:34:35,100 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 00:34:35,214 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 00:34:35,316 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 00:34:35,434 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 00:34:35,550 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 00:34:35,668 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 00:34:35,752 - INFO - Retrieved 765 trades for JUSDT
+2025-05-18 00:34:35,882 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 00:34:35,984 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 00:34:36,100 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 00:34:36,202 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 00:34:36,236 - INFO - Retrieved 263 trades for MLNUSDT
+2025-05-18 00:34:36,258 - INFO - Retrieved 63 trades for ETHUSDT-26DEC25
+2025-05-18 00:34:36,368 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 00:34:36,468 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 00:34:36,585 - INFO - Retrieved 863 trades for AVAUSDT
+2025-05-18 00:34:36,716 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 00:34:36,716 - INFO - Retrieved 3 trades for SOLUSDT-30MAY25
+2025-05-18 00:34:36,832 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 00:34:36,951 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 00:34:37,053 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 00:34:37,169 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 00:34:37,286 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 00:34:37,386 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 00:34:37,504 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 00:34:37,620 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 00:34:37,732 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 00:34:37,732 - INFO - Retrieved 8 trades for BTCUSDT-30MAY25
+2025-05-18 00:34:37,852 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 00:34:37,969 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 00:34:38,087 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 00:34:38,187 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 00:34:38,305 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 00:34:38,402 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 00:34:38,527 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 00:34:38,621 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 00:34:38,739 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 00:34:38,854 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 00:34:38,972 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 00:34:39,119 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 00:34:39,237 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 00:34:39,354 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 00:34:39,354 - INFO - Retrieved 92 trades for BTCUSDT-06JUN25
+2025-05-18 00:34:39,483 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 00:34:39,487 - INFO - Retrieved 31 trades for SOLUSDT-23MAY25
+2025-05-18 00:34:39,488 - CRITICAL - Unhandled exception: mul operation not supported for dtypes `str` and `str`
+2025-05-18 00:36:06,772 - INFO - Redis connection established
+2025-05-18 00:36:06,772 - INFO - Starting Redis data analysis with Polars
+2025-05-18 00:36:06,772 - INFO - Retrieved 151 assets from Redis
+2025-05-18 00:36:06,900 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 00:36:07,018 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 00:36:07,167 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 00:36:07,301 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 00:36:07,432 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 00:36:07,567 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 00:36:07,699 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 00:36:07,853 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 00:36:07,984 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 00:36:08,021 - INFO - Retrieved 264 trades for MLNUSDT
+2025-05-18 00:36:08,047 - INFO - Retrieved 128 trades for ETHUSDT-26SEP25
+2025-05-18 00:36:08,168 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 00:36:08,216 - INFO - Retrieved 259 trades for ETHUSDT-27JUN25
+2025-05-18 00:36:08,351 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 00:36:08,467 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 00:36:08,601 - INFO - Retrieved 770 trades for JUSDT
+2025-05-18 00:36:08,719 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 00:36:08,859 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 00:36:08,970 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 00:36:09,103 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 00:36:09,252 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 00:36:09,395 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 00:36:09,529 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 00:36:09,674 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 00:36:09,826 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 00:36:10,052 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 00:36:10,170 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 00:36:10,170 - INFO - Retrieved 27 trades for SOLUSDT-27JUN25
+2025-05-18 00:36:10,304 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 00:36:10,420 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 00:36:10,555 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 00:36:10,555 - INFO - Retrieved 33 trades for BTCUSDT-26DEC25
+2025-05-18 00:36:10,606 - INFO - Retrieved 405 trades for RONINUSDT
+2025-05-18 00:36:10,721 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 00:36:10,823 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 00:36:10,974 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 00:36:10,978 - INFO - Retrieved 18 trades for SOLUSDT-06JUN25
+2025-05-18 00:36:11,112 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 00:36:11,251 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 00:36:11,376 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 00:36:11,504 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 00:36:11,632 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 00:36:11,633 - INFO - Retrieved 3 trades for SOLUSDT-30MAY25
+2025-05-18 00:36:11,764 - INFO - Retrieved 996 trades for HEIUSDT
+2025-05-18 00:36:11,882 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 00:36:12,004 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 00:36:12,005 - INFO - Retrieved 3 trades for BTCUSDT-26SEP25
+2025-05-18 00:36:12,159 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 00:36:12,317 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 00:36:12,439 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 00:36:12,572 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 00:36:12,572 - INFO - Retrieved 38 trades for ETHUSDT-23MAY25
+2025-05-18 00:36:12,572 - INFO - Retrieved 1 trades for BTCUSDT-25JUL25
+2025-05-18 00:36:12,690 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 00:36:12,764 - INFO - Retrieved 502 trades for EPICUSDT
+2025-05-18 00:36:12,888 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 00:36:12,990 - INFO - Retrieved 840 trades for 10000ELONUSDT
+2025-05-18 00:36:13,093 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 00:36:13,208 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 00:36:13,326 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 00:36:13,441 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 00:36:13,573 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 00:36:13,691 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 00:36:13,824 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 00:36:13,941 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 00:36:14,060 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 00:36:14,175 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 00:36:14,293 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 00:36:14,372 - INFO - Retrieved 653 trades for ACXUSDT
+2025-05-18 00:36:14,374 - INFO - Retrieved 11 trades for BTCUSDT-27JUN25
+2025-05-18 00:36:14,383 - INFO - Retrieved 63 trades for ETHUSDT-26DEC25
+2025-05-18 00:36:14,494 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 00:36:14,621 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 00:36:14,747 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 00:36:14,750 - INFO - Retrieved 29 trades for BTCUSDT-27MAR26
+2025-05-18 00:36:14,863 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 00:36:14,977 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 00:36:15,093 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 00:36:15,226 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 00:36:15,226 - INFO - Retrieved 93 trades for BTCUSDT-06JUN25
+2025-05-18 00:36:15,375 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 00:36:15,493 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 00:36:15,611 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 00:36:15,742 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 00:36:15,860 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 00:36:15,860 - INFO - Retrieved 1 trades for ETHUSDT-30MAY25
+2025-05-18 00:36:15,990 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 00:36:16,094 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 00:36:16,227 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 00:36:16,345 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 00:36:16,464 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 00:36:16,578 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 00:36:16,696 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 00:36:16,812 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 00:36:16,929 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 00:36:17,043 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 00:36:17,161 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 00:36:17,299 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 00:36:17,313 - INFO - Retrieved 31 trades for SOLUSDT-23MAY25
+2025-05-18 00:36:17,428 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 00:36:17,559 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 00:36:17,663 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 00:36:17,781 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 00:36:17,781 - INFO - Retrieved 11 trades for ETHUSDT-27MAR26
+2025-05-18 00:36:17,909 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 00:36:18,013 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 00:36:18,146 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 00:36:18,300 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 00:36:18,423 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 00:36:18,588 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 00:36:18,763 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 00:36:18,896 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 00:36:18,999 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 00:36:19,114 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 00:36:19,244 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 00:36:19,349 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 00:36:19,464 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 00:36:19,582 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 00:36:19,682 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 00:36:19,812 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 00:36:19,899 - INFO - Retrieved 822 trades for AXLUSDT
+2025-05-18 00:36:20,053 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 00:36:20,178 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 00:36:20,298 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 00:36:20,401 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 00:36:20,542 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 00:36:20,663 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 00:36:20,765 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 00:36:20,882 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 00:36:20,985 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 00:36:21,100 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 00:36:21,216 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 00:36:21,334 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 00:36:21,450 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 00:36:21,474 - INFO - Retrieved 188 trades for BTCUSDT-23MAY25
+2025-05-18 00:36:21,583 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 00:36:21,701 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 00:36:21,701 - INFO - Retrieved 8 trades for BTCUSDT-30MAY25
+2025-05-18 00:36:21,701 - INFO - Retrieved 7 trades for ETHUSDT-06JUN25
+2025-05-18 00:36:21,818 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 00:36:21,918 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 00:36:22,036 - INFO - Retrieved 873 trades for AVAUSDT
+2025-05-18 00:36:22,135 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 00:36:22,268 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 00:36:22,384 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 00:36:22,502 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 00:36:22,620 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 00:36:22,733 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 00:36:22,835 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 00:36:22,954 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 00:36:22,954 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25
+2025-05-18 00:36:23,759 - INFO - Retrieved 151 assets from Redis
+2025-05-18 00:36:23,866 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 00:36:23,986 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 00:36:24,103 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 00:36:24,219 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 00:36:24,353 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 00:36:24,471 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 00:36:24,586 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 00:36:24,703 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 00:36:24,830 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 00:36:24,855 - INFO - Retrieved 264 trades for MLNUSDT
+2025-05-18 00:36:24,877 - INFO - Retrieved 128 trades for ETHUSDT-26SEP25
+2025-05-18 00:36:24,988 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 00:36:25,022 - INFO - Retrieved 259 trades for ETHUSDT-27JUN25
+2025-05-18 00:36:25,137 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 00:36:25,258 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 00:36:25,356 - INFO - Retrieved 770 trades for JUSDT
+2025-05-18 00:36:25,472 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 00:36:25,584 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 00:36:25,690 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 00:36:25,822 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 00:36:25,923 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 00:36:26,037 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 00:36:26,153 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 00:36:26,269 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 00:36:26,386 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 00:36:26,504 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 00:36:26,637 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 00:36:26,637 - INFO - Retrieved 31 trades for SOLUSDT-27JUN25
+2025-05-18 00:36:26,771 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 00:36:26,888 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 00:36:27,003 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 00:36:27,003 - INFO - Retrieved 33 trades for BTCUSDT-26DEC25
+2025-05-18 00:36:27,056 - INFO - Retrieved 405 trades for RONINUSDT
+2025-05-18 00:36:27,155 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 00:36:27,287 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 00:36:27,390 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 00:36:27,406 - INFO - Retrieved 18 trades for SOLUSDT-06JUN25
+2025-05-18 00:36:27,507 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 00:36:27,622 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 00:36:27,740 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 00:36:27,858 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 00:36:27,989 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 00:36:27,989 - INFO - Retrieved 3 trades for SOLUSDT-30MAY25
+2025-05-18 00:36:28,108 - INFO - Retrieved 996 trades for HEIUSDT
+2025-05-18 00:36:28,208 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 00:36:28,341 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 00:36:28,341 - INFO - Retrieved 3 trades for BTCUSDT-26SEP25
+2025-05-18 00:36:28,441 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 00:36:28,557 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 00:36:28,674 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 00:36:28,791 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 00:36:28,800 - INFO - Retrieved 38 trades for ETHUSDT-23MAY25
+2025-05-18 00:36:28,800 - INFO - Retrieved 1 trades for BTCUSDT-25JUL25
+2025-05-18 00:36:28,909 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 00:36:28,976 - INFO - Retrieved 502 trades for EPICUSDT
+2025-05-18 00:36:29,085 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 00:36:29,176 - INFO - Retrieved 840 trades for 10000ELONUSDT
+2025-05-18 00:36:29,292 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 00:36:29,408 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 00:36:29,526 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 00:36:29,626 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 00:36:29,742 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 00:36:29,859 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 00:36:29,977 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 00:36:30,092 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 00:36:30,209 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 00:36:30,326 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 00:36:30,427 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 00:36:30,517 - INFO - Retrieved 653 trades for ACXUSDT
+2025-05-18 00:36:30,520 - INFO - Retrieved 11 trades for BTCUSDT-27JUN25
+2025-05-18 00:36:30,530 - INFO - Retrieved 63 trades for ETHUSDT-26DEC25
+2025-05-18 00:36:30,629 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 00:36:30,744 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 00:36:30,861 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 00:36:30,861 - INFO - Retrieved 29 trades for BTCUSDT-27MAR26
+2025-05-18 00:36:30,979 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 00:36:31,096 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 00:36:31,211 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 00:36:31,344 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 00:36:31,344 - INFO - Retrieved 93 trades for BTCUSDT-06JUN25
+2025-05-18 00:36:31,463 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 00:36:31,580 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 00:36:31,709 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 00:36:31,814 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 00:36:31,937 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 00:36:31,938 - INFO - Retrieved 1 trades for ETHUSDT-30MAY25
+2025-05-18 00:36:32,068 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 00:36:32,197 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 00:36:32,325 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 00:36:32,428 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 00:36:32,542 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 00:36:32,668 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 00:36:32,788 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 00:36:32,895 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 00:36:33,010 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 00:36:33,126 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 00:36:33,245 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 00:36:33,360 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 00:36:33,360 - INFO - Retrieved 31 trades for SOLUSDT-23MAY25
+2025-05-18 00:36:33,479 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 00:36:33,594 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 00:36:33,714 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 00:36:33,818 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 00:36:33,818 - INFO - Retrieved 11 trades for ETHUSDT-27MAR26
+2025-05-18 00:36:33,982 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 00:36:34,133 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 00:36:34,257 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 00:36:34,378 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 00:36:34,479 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 00:36:34,596 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 00:36:34,711 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 00:36:34,847 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 00:36:34,963 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 00:36:35,079 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 00:36:35,195 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 00:36:35,328 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 00:36:35,431 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 00:36:35,547 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 00:36:35,664 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 00:36:35,779 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 00:36:35,882 - INFO - Retrieved 822 trades for AXLUSDT
+2025-05-18 00:36:35,999 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 00:36:36,116 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 00:36:36,230 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 00:36:36,349 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 00:36:36,451 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 00:36:36,592 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 00:36:36,702 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 00:36:36,828 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 00:36:36,958 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 00:36:37,069 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 00:36:37,199 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 00:36:37,315 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 00:36:37,432 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 00:36:37,452 - INFO - Retrieved 188 trades for BTCUSDT-23MAY25
+2025-05-18 00:36:37,566 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 00:36:37,720 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 00:36:37,736 - INFO - Retrieved 8 trades for BTCUSDT-30MAY25
+2025-05-18 00:36:37,737 - INFO - Retrieved 7 trades for ETHUSDT-06JUN25
+2025-05-18 00:36:37,854 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 00:36:37,980 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 00:36:38,069 - INFO - Retrieved 873 trades for AVAUSDT
+2025-05-18 00:36:38,186 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 00:36:38,301 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 00:36:38,434 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 00:36:38,567 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 00:36:38,669 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 00:36:38,804 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 00:36:38,929 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 00:36:39,053 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 00:36:39,053 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25
+2025-05-18 00:36:41,286 - INFO - Analysis complete
+2025-05-18 00:36:41,319 - INFO - Results saved to JSON files
+2025-05-18 07:07:25,790 - INFO - Redis connection established
+2025-05-18 07:07:25,790 - INFO - Starting Redis data analysis with Polars
+2025-05-18 07:07:25,790 - INFO - Retrieved 151 assets from Redis
+2025-05-18 07:07:25,911 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 07:07:26,027 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 07:07:26,145 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 07:07:26,261 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 07:07:26,375 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 07:07:26,493 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 07:07:26,609 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 07:07:26,727 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 07:07:26,845 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 07:07:26,895 - INFO - Retrieved 290 trades for BTCUSDT-23MAY25
+2025-05-18 07:07:26,994 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 07:07:27,112 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 07:07:27,228 - INFO - Retrieved 1000 trades for EPICUSDT
+2025-05-18 07:07:27,346 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 07:07:27,383 - INFO - Retrieved 239 trades for ETHUSDT-26SEP25
+2025-05-18 07:07:27,496 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 07:07:27,634 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 07:07:27,641 - INFO - Retrieved 62 trades for ETHUSDT-30MAY25
+2025-05-18 07:07:27,649 - INFO - Retrieved 47 trades for ETHUSDT-06JUN25
+2025-05-18 07:07:27,768 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 07:07:27,886 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 07:07:28,010 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 07:07:28,132 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 07:07:28,253 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 07:07:28,364 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 07:07:28,478 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 07:07:28,596 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 07:07:28,714 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 07:07:28,830 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 07:07:28,946 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 07:07:28,946 - INFO - Retrieved 23 trades for BTCUSDT-30MAY25
+2025-05-18 07:07:28,963 - INFO - Retrieved 92 trades for ETHUSDT-23MAY25
+2025-05-18 07:07:29,082 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 07:07:29,228 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 07:07:29,341 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 07:07:29,463 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 07:07:29,580 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 07:07:29,698 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 07:07:29,814 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 07:07:29,933 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 07:07:30,049 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 07:07:30,165 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 07:07:30,282 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 07:07:30,382 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 07:07:30,499 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 07:07:30,615 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 07:07:30,733 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 07:07:30,851 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 07:07:30,873 - INFO - Retrieved 106 trades for ETHUSDT-27MAR26
+2025-05-18 07:07:30,983 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 07:07:31,101 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 07:07:31,231 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 07:07:31,249 - INFO - Retrieved 128 trades for ETHUSDT-26DEC25
+2025-05-18 07:07:31,361 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 07:07:31,466 - INFO - Retrieved 1000 trades for MLNUSDT
+2025-05-18 07:07:31,582 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 07:07:31,699 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 07:07:31,817 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 07:07:31,918 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 07:07:32,035 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 07:07:32,165 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 07:07:32,268 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 07:07:32,377 - INFO - Retrieved 1000 trades for JUSDT
+2025-05-18 07:07:32,532 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 07:07:32,650 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 07:07:32,752 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 07:07:32,870 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 07:07:32,985 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 07:07:32,985 - INFO - Retrieved 37 trades for SOLUSDT-23MAY25
+2025-05-18 07:07:33,103 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 07:07:33,103 - INFO - Retrieved 4 trades for BTCUSDT-25JUL25
+2025-05-18 07:07:33,220 - INFO - Retrieved 1000 trades for RONINUSDT
+2025-05-18 07:07:33,336 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 07:07:33,452 - INFO - Retrieved 1000 trades for ACXUSDT
+2025-05-18 07:07:33,569 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 07:07:33,585 - INFO - Retrieved 23 trades for ETHUSDT-25JUL25
+2025-05-18 07:07:33,686 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 07:07:33,803 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 07:07:33,919 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 07:07:33,919 - INFO - Retrieved 35 trades for BTCUSDT-26SEP25
+2025-05-18 07:07:34,038 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 07:07:34,152 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 07:07:34,270 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 07:07:34,378 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 07:07:34,470 - INFO - Retrieved 728 trades for ETHUSDT-27JUN25
+2025-05-18 07:07:34,586 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 07:07:34,602 - INFO - Retrieved 38 trades for SOLUSDT-06JUN25
+2025-05-18 07:07:34,704 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 07:07:34,822 - INFO - Retrieved 1000 trades for AVAUSDT
+2025-05-18 07:07:34,841 - INFO - Retrieved 58 trades for SOLUSDT-30MAY25
+2025-05-18 07:07:34,955 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 07:07:35,054 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 07:07:35,172 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 07:07:35,285 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 07:07:35,307 - INFO - Retrieved 138 trades for BTCUSDT-06JUN25
+2025-05-18 07:07:35,421 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 07:07:35,537 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 07:07:35,655 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 07:07:35,655 - INFO - Retrieved 52 trades for BTCUSDT-27MAR26
+2025-05-18 07:07:35,773 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 07:07:35,887 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 07:07:35,990 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 07:07:36,152 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 07:07:36,270 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 07:07:36,410 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 07:07:36,538 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 07:07:36,671 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 07:07:36,788 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 07:07:36,919 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 07:07:37,053 - INFO - Retrieved 1000 trades for 10000ELONUSDT
+2025-05-18 07:07:37,171 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 07:07:37,305 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 07:07:37,421 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 07:07:37,555 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 07:07:37,687 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 07:07:37,805 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 07:07:37,924 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 07:07:38,056 - INFO - Retrieved 1000 trades for HEIUSDT
+2025-05-18 07:07:38,192 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 07:07:38,322 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 07:07:38,442 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 07:07:38,558 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 07:07:38,692 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 07:07:38,807 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 07:07:38,940 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 07:07:39,060 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 07:07:39,190 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 07:07:39,307 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 07:07:39,440 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 07:07:39,578 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 07:07:39,730 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 07:07:39,862 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 07:07:39,993 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 07:07:40,130 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 07:07:40,199 - INFO - Retrieved 396 trades for SOLUSDT-27JUN25
+2025-05-18 07:07:40,370 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 07:07:40,379 - INFO - Retrieved 63 trades for BTCUSDT-26DEC25
+2025-05-18 07:07:40,510 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 07:07:40,627 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 07:07:40,790 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 07:07:40,935 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 07:07:41,128 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 07:07:41,263 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 07:07:41,263 - INFO - Retrieved 48 trades for BTCUSDT-27JUN25
+2025-05-18 07:07:41,413 - INFO - Retrieved 1000 trades for AXLUSDT
+2025-05-18 07:07:41,567 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 07:07:41,713 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 07:07:41,880 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 07:07:42,048 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 07:07:42,202 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 07:07:42,325 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 07:07:43,234 - INFO - Retrieved 151 assets from Redis
+2025-05-18 07:07:43,367 - INFO - Retrieved 1000 trades for BCHUSDT
+2025-05-18 07:07:43,533 - INFO - Retrieved 1000 trades for DEXEUSDT
+2025-05-18 07:07:43,676 - INFO - Retrieved 1000 trades for GIGAUSDT
+2025-05-18 07:07:43,822 - INFO - Retrieved 1000 trades for OPUSDT
+2025-05-18 07:07:43,959 - INFO - Retrieved 1000 trades for BTCUSDT
+2025-05-18 07:07:44,095 - INFO - Retrieved 1000 trades for ORDIUSDT
+2025-05-18 07:07:44,225 - INFO - Retrieved 1000 trades for HYPERUSDT
+2025-05-18 07:07:44,363 - INFO - Retrieved 1000 trades for ARBUSDT
+2025-05-18 07:07:44,479 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT
+2025-05-18 07:07:44,538 - INFO - Retrieved 290 trades for BTCUSDT-23MAY25
+2025-05-18 07:07:44,748 - INFO - Retrieved 1000 trades for TAOUSDT
+2025-05-18 07:07:44,865 - INFO - Retrieved 1000 trades for AAVEUSDT
+2025-05-18 07:07:44,979 - INFO - Retrieved 1000 trades for EPICUSDT
+2025-05-18 07:07:45,097 - INFO - Retrieved 1000 trades for SHIB1000USDT
+2025-05-18 07:07:45,135 - INFO - Retrieved 239 trades for ETHUSDT-26SEP25
+2025-05-18 07:07:45,280 - INFO - Retrieved 1000 trades for SENDUSDT
+2025-05-18 07:07:45,383 - INFO - Retrieved 1000 trades for CGPTUSDT
+2025-05-18 07:07:45,399 - INFO - Retrieved 62 trades for ETHUSDT-30MAY25
+2025-05-18 07:07:45,418 - INFO - Retrieved 47 trades for ETHUSDT-06JUN25
+2025-05-18 07:07:45,532 - INFO - Retrieved 1000 trades for SUIUSDT
+2025-05-18 07:07:45,648 - INFO - Retrieved 1000 trades for B3USDT
+2025-05-18 07:07:45,766 - INFO - Retrieved 1000 trades for SOLVUSDT
+2025-05-18 07:07:45,897 - INFO - Retrieved 1000 trades for PNUTUSDT
+2025-05-18 07:07:46,001 - INFO - Retrieved 1000 trades for IPUSDT
+2025-05-18 07:07:46,116 - INFO - Retrieved 1000 trades for ANIMEUSDT
+2025-05-18 07:07:46,233 - INFO - Retrieved 1000 trades for APEUSDT
+2025-05-18 07:07:46,351 - INFO - Retrieved 1000 trades for JTOUSDT
+2025-05-18 07:07:46,464 - INFO - Retrieved 1000 trades for SANDUSDT
+2025-05-18 07:07:46,582 - INFO - Retrieved 1000 trades for KASUSDT
+2025-05-18 07:07:46,723 - INFO - Retrieved 1000 trades for POPCATUSDT
+2025-05-18 07:07:46,726 - INFO - Retrieved 23 trades for BTCUSDT-30MAY25
+2025-05-18 07:07:46,740 - INFO - Retrieved 92 trades for ETHUSDT-23MAY25
+2025-05-18 07:07:46,863 - INFO - Retrieved 1000 trades for KAITOUSDT
+2025-05-18 07:07:46,990 - INFO - Retrieved 1000 trades for SEIUSDT
+2025-05-18 07:07:47,098 - INFO - Retrieved 1000 trades for ENAUSDT
+2025-05-18 07:07:47,216 - INFO - Retrieved 1000 trades for NCUSDT
+2025-05-18 07:07:47,356 - INFO - Retrieved 1000 trades for HMSTRUSDT
+2025-05-18 07:07:47,466 - INFO - Retrieved 1000 trades for REDUSDT
+2025-05-18 07:07:47,568 - INFO - Retrieved 1000 trades for BABYUSDT
+2025-05-18 07:07:47,732 - INFO - Retrieved 1000 trades for LDOUSDT
+2025-05-18 07:07:47,851 - INFO - Retrieved 1000 trades for KOMAUSDT
+2025-05-18 07:07:47,966 - INFO - Retrieved 1000 trades for GMTUSDT
+2025-05-18 07:07:48,099 - INFO - Retrieved 1000 trades for NOTUSDT
+2025-05-18 07:07:48,236 - INFO - Retrieved 1000 trades for LUMIAUSDT
+2025-05-18 07:07:48,367 - INFO - Retrieved 1000 trades for MELANIAUSDT
+2025-05-18 07:07:48,513 - INFO - Retrieved 1000 trades for HYPEUSDT
+2025-05-18 07:07:48,638 - INFO - Retrieved 1000 trades for SONICUSDT
+2025-05-18 07:07:48,773 - INFO - Retrieved 1000 trades for LINKUSDT
+2025-05-18 07:07:48,787 - INFO - Retrieved 106 trades for ETHUSDT-27MAR26
+2025-05-18 07:07:48,907 - INFO - Retrieved 1000 trades for COWUSDT
+2025-05-18 07:07:49,019 - INFO - Retrieved 1000 trades for ETCUSDT
+2025-05-18 07:07:49,136 - INFO - Retrieved 1000 trades for KAIAUSDT
+2025-05-18 07:07:49,153 - INFO - Retrieved 128 trades for ETHUSDT-26DEC25
+2025-05-18 07:07:49,270 - INFO - Retrieved 1000 trades for INJUSDT
+2025-05-18 07:07:49,385 - INFO - Retrieved 1000 trades for MLNUSDT
+2025-05-18 07:07:49,544 - INFO - Retrieved 1000 trades for CATIUSDT
+2025-05-18 07:07:49,741 - INFO - Retrieved 1000 trades for GOATUSDT
+2025-05-18 07:07:49,877 - INFO - Retrieved 1000 trades for ARCUSDT
+2025-05-18 07:07:50,009 - INFO - Retrieved 1000 trades for ONDOUSDT
+2025-05-18 07:07:50,136 - INFO - Retrieved 1000 trades for PLUMEUSDT
+2025-05-18 07:07:50,269 - INFO - Retrieved 1000 trades for GALAUSDT
+2025-05-18 07:07:50,421 - INFO - Retrieved 1000 trades for SPXUSDT
+2025-05-18 07:07:50,593 - INFO - Retrieved 1000 trades for JUSDT
+2025-05-18 07:07:50,747 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT
+2025-05-18 07:07:50,898 - INFO - Retrieved 1000 trades for AIXBTUSDT
+2025-05-18 07:07:51,021 - INFO - Retrieved 1000 trades for ATOMUSDT
+2025-05-18 07:07:51,183 - INFO - Retrieved 1000 trades for MEMEUSDT
+2025-05-18 07:07:51,317 - INFO - Retrieved 1000 trades for 1000CATUSDT
+2025-05-18 07:07:51,317 - INFO - Retrieved 37 trades for SOLUSDT-23MAY25
+2025-05-18 07:07:51,493 - INFO - Retrieved 1000 trades for STXUSDT
+2025-05-18 07:07:51,494 - INFO - Retrieved 4 trades for BTCUSDT-25JUL25
+2025-05-18 07:07:51,640 - INFO - Retrieved 1000 trades for RONINUSDT
+2025-05-18 07:07:51,789 - INFO - Retrieved 1000 trades for EOSUSDT
+2025-05-18 07:07:51,943 - INFO - Retrieved 1000 trades for ACXUSDT
+2025-05-18 07:07:52,059 - INFO - Retrieved 1000 trades for SOLAYERUSDT
+2025-05-18 07:07:52,062 - INFO - Retrieved 23 trades for ETHUSDT-25JUL25
+2025-05-18 07:07:52,171 - INFO - Retrieved 1000 trades for ALGOUSDT
+2025-05-18 07:07:52,287 - INFO - Retrieved 1000 trades for RENDERUSDT
+2025-05-18 07:07:52,418 - INFO - Retrieved 1000 trades for CRVUSDT
+2025-05-18 07:07:52,423 - INFO - Retrieved 35 trades for BTCUSDT-26SEP25
+2025-05-18 07:07:52,539 - INFO - Retrieved 1000 trades for ENSUSDT
+2025-05-18 07:07:52,654 - INFO - Retrieved 1000 trades for INITUSDT
+2025-05-18 07:07:52,770 - INFO - Retrieved 1000 trades for PEOPLEUSDT
+2025-05-18 07:07:52,887 - INFO - Retrieved 1000 trades for NEARUSDT
+2025-05-18 07:07:52,972 - INFO - Retrieved 728 trades for ETHUSDT-27JUN25
+2025-05-18 07:07:53,090 - INFO - Retrieved 1000 trades for FLOCKUSDT
+2025-05-18 07:07:53,090 - INFO - Retrieved 38 trades for SOLUSDT-06JUN25
+2025-05-18 07:07:53,206 - INFO - Retrieved 1000 trades for BANKUSDT
+2025-05-18 07:07:53,322 - INFO - Retrieved 1000 trades for AVAUSDT
+2025-05-18 07:07:53,340 - INFO - Retrieved 58 trades for SOLUSDT-30MAY25
+2025-05-18 07:07:53,455 - INFO - Retrieved 1000 trades for DYDXUSDT
+2025-05-18 07:07:53,588 - INFO - Retrieved 1000 trades for 1000BONKUSDT
+2025-05-18 07:07:53,704 - INFO - Retrieved 1000 trades for BLURUSDT
+2025-05-18 07:07:53,821 - INFO - Retrieved 1000 trades for PHAUSDT
+2025-05-18 07:07:53,843 - INFO - Retrieved 138 trades for BTCUSDT-06JUN25
+2025-05-18 07:07:53,957 - INFO - Retrieved 1000 trades for ADAUSDT
+2025-05-18 07:07:54,057 - INFO - Retrieved 1000 trades for AI16ZUSDT
+2025-05-18 07:07:54,184 - INFO - Retrieved 1000 trades for 1000PEPEUSDT
+2025-05-18 07:07:54,190 - INFO - Retrieved 52 trades for BTCUSDT-27MAR26
+2025-05-18 07:07:54,307 - INFO - Retrieved 1000 trades for ARKMUSDT
+2025-05-18 07:07:54,423 - INFO - Retrieved 1000 trades for MEUSDT
+2025-05-18 07:07:54,524 - INFO - Retrieved 1000 trades for SUSDT
+2025-05-18 07:07:54,655 - INFO - Retrieved 1000 trades for SIGNUSDT
+2025-05-18 07:07:54,757 - INFO - Retrieved 1000 trades for DOGEUSDT
+2025-05-18 07:07:54,873 - INFO - Retrieved 1000 trades for JUPUSDT
+2025-05-18 07:07:54,991 - INFO - Retrieved 1000 trades for AVAXUSDT
+2025-05-18 07:07:55,107 - INFO - Retrieved 1000 trades for PYTHUSDT
+2025-05-18 07:07:55,235 - INFO - Retrieved 1000 trades for STRKUSDT
+2025-05-18 07:07:55,341 - INFO - Retrieved 1000 trades for MOODENGUSDT
+2025-05-18 07:07:55,457 - INFO - Retrieved 1000 trades for 10000ELONUSDT
+2025-05-18 07:07:55,585 - INFO - Retrieved 1000 trades for BRETTUSDT
+2025-05-18 07:07:55,707 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT
+2025-05-18 07:07:55,808 - INFO - Retrieved 1000 trades for OMUSDT
+2025-05-18 07:07:55,927 - INFO - Retrieved 1000 trades for COOKIEUSDT
+2025-05-18 07:07:56,041 - INFO - Retrieved 1000 trades for NILUSDT
+2025-05-18 07:07:56,165 - INFO - Retrieved 1000 trades for DOTUSDT
+2025-05-18 07:07:56,274 - INFO - Retrieved 1000 trades for FUSDT
+2025-05-18 07:07:56,403 - INFO - Retrieved 1000 trades for HEIUSDT
+2025-05-18 07:07:56,525 - INFO - Retrieved 1000 trades for GRIFFAINUSDT
+2025-05-18 07:07:56,625 - INFO - Retrieved 1000 trades for AXSUSDT
+2025-05-18 07:07:56,742 - INFO - Retrieved 1000 trades for DOGSUSDT
+2025-05-18 07:07:56,861 - INFO - Retrieved 1000 trades for POLUSDT
+2025-05-18 07:07:56,976 - INFO - Retrieved 1000 trades for IMXUSDT
+2025-05-18 07:07:57,091 - INFO - Retrieved 1000 trades for PENGUUSDT
+2025-05-18 07:07:57,208 - INFO - Retrieved 1000 trades for BERAUSDT
+2025-05-18 07:07:57,309 - INFO - Retrieved 1000 trades for GRASSUSDT
+2025-05-18 07:07:57,438 - INFO - Retrieved 1000 trades for BOMEUSDT
+2025-05-18 07:07:57,544 - INFO - Retrieved 1000 trades for FARTCOINUSDT
+2025-05-18 07:07:57,677 - INFO - Retrieved 1000 trades for ROSEUSDT
+2025-05-18 07:07:57,823 - INFO - Retrieved 1000 trades for KERNELUSDT
+2025-05-18 07:07:57,961 - INFO - Retrieved 1000 trades for MEWUSDT
+2025-05-18 07:07:58,090 - INFO - Retrieved 1000 trades for SOLUSDT
+2025-05-18 07:07:58,228 - INFO - Retrieved 1000 trades for EIGENUSDT
+2025-05-18 07:07:58,344 - INFO - Retrieved 1000 trades for JASMYUSDT
+2025-05-18 07:07:58,399 - INFO - Retrieved 396 trades for SOLUSDT-27JUN25
+2025-05-18 07:07:58,533 - INFO - Retrieved 1000 trades for ICPUSDT
+2025-05-18 07:07:58,540 - INFO - Retrieved 63 trades for BTCUSDT-26DEC25
+2025-05-18 07:07:58,684 - INFO - Retrieved 1000 trades for PARTIUSDT
+2025-05-18 07:07:58,813 - INFO - Retrieved 1000 trades for APTUSDT
+2025-05-18 07:07:58,937 - INFO - Retrieved 1000 trades for LTCUSDT
+2025-05-18 07:07:59,058 - INFO - Retrieved 1000 trades for HIVEUSDT
+2025-05-18 07:07:59,182 - INFO - Retrieved 1000 trades for ALUUSDT
+2025-05-18 07:07:59,307 - INFO - Retrieved 1000 trades for HBARUSDT
+2025-05-18 07:07:59,314 - INFO - Retrieved 48 trades for BTCUSDT-27JUN25
+2025-05-18 07:07:59,432 - INFO - Retrieved 1000 trades for AXLUSDT
+2025-05-18 07:07:59,544 - INFO - Retrieved 1000 trades for SWARMSUSDT
+2025-05-18 07:07:59,662 - INFO - Retrieved 1000 trades for BNBUSDT
+2025-05-18 07:07:59,781 - INFO - Retrieved 1000 trades for ETHUSDT
+2025-05-18 07:07:59,899 - INFO - Retrieved 1000 trades for BIOUSDT
+2025-05-18 07:08:00,031 - INFO - Retrieved 1000 trades for ALCHUSDT
+2025-05-18 07:08:00,196 - INFO - Retrieved 1000 trades for MOVEUSDT
+2025-05-18 07:08:02,688 - INFO - Analysis complete
+2025-05-18 07:08:02,718 - INFO - Results saved to JSON files
+2025-05-18 09:08:50,303 - INFO - Redis connection established
+2025-05-18 09:08:50,304 - INFO - Starting Redis data analysis with Polars
+2025-05-18 09:08:50,305 - INFO - Retrieved 151 assets from Redis
+2025-05-18 09:08:50,431 - INFO - Retrieved 154 trades for NCUSDT from the last 30 minutes
+2025-05-18 09:08:50,557 - INFO - Retrieved 1000 trades for NOTUSDT from the last 30 minutes
+2025-05-18 09:08:50,673 - INFO - Retrieved 1000 trades for AI16ZUSDT from the last 30 minutes
+2025-05-18 09:08:50,794 - INFO - Retrieved 1000 trades for BCHUSDT from the last 30 minutes
+2025-05-18 09:08:50,912 - INFO - Retrieved 725 trades for ATOMUSDT from the last 30 minutes
+2025-05-18 09:08:51,028 - INFO - Retrieved 486 trades for COOKIEUSDT from the last 30 minutes
+2025-05-18 09:08:51,145 - INFO - Retrieved 1000 trades for GRASSUSDT from the last 30 minutes
+2025-05-18 09:08:51,290 - INFO - Retrieved 186 trades for AXLUSDT from the last 30 minutes
+2025-05-18 09:08:51,403 - INFO - Retrieved 1000 trades for HYPEUSDT from the last 30 minutes
+2025-05-18 09:08:51,455 - INFO - Retrieved 0 trades for SOLUSDT-27JUN25 from the last 30 minutes
+2025-05-18 09:08:51,579 - INFO - Retrieved 504 trades for KOMAUSDT from the last 30 minutes
+2025-05-18 09:08:51,699 - INFO - Retrieved 138 trades for 10000ELONUSDT from the last 30 minutes
+2025-05-18 09:08:51,815 - INFO - Retrieved 498 trades for 1000CATUSDT from the last 30 minutes
+2025-05-18 09:08:51,945 - INFO - Retrieved 957 trades for ARKMUSDT from the last 30 minutes
+2025-05-18 09:08:51,953 - INFO - Retrieved 0 trades for BTCUSDT-27JUN25 from the last 30 minutes
+2025-05-18 09:08:52,067 - INFO - Retrieved 1000 trades for DOTUSDT from the last 30 minutes
+2025-05-18 09:08:52,181 - INFO - Retrieved 885 trades for FLOCKUSDT from the last 30 minutes
+2025-05-18 09:08:52,296 - INFO - Retrieved 379 trades for MEMEUSDT from the last 30 minutes
+2025-05-18 09:08:52,409 - INFO - Retrieved 1000 trades for PEOPLEUSDT from the last 30 minutes
+2025-05-18 09:08:52,532 - INFO - Retrieved 1000 trades for SONICUSDT from the last 30 minutes
+2025-05-18 09:08:52,648 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT from the last 30 minutes
+2025-05-18 09:08:52,767 - INFO - Retrieved 1000 trades for RENDERUSDT from the last 30 minutes
+2025-05-18 09:08:52,880 - INFO - Retrieved 1000 trades for ADAUSDT from the last 30 minutes
+2025-05-18 09:08:52,997 - INFO - Retrieved 1000 trades for ENAUSDT from the last 30 minutes
+2025-05-18 09:08:53,112 - INFO - Retrieved 1000 trades for SOLUSDT from the last 30 minutes
+2025-05-18 09:08:53,226 - INFO - Retrieved 881 trades for EIGENUSDT from the last 30 minutes
+2025-05-18 09:08:53,345 - INFO - Retrieved 1000 trades for BRETTUSDT from the last 30 minutes
+2025-05-18 09:08:53,459 - INFO - Retrieved 1000 trades for INJUSDT from the last 30 minutes
+2025-05-18 09:08:53,583 - INFO - Retrieved 1000 trades for MOODENGUSDT from the last 30 minutes
+2025-05-18 09:08:53,697 - INFO - Retrieved 746 trades for MELANIAUSDT from the last 30 minutes
+2025-05-18 09:08:53,814 - INFO - Retrieved 928 trades for SUSDT from the last 30 minutes
+2025-05-18 09:08:53,927 - INFO - Retrieved 1000 trades for BNBUSDT from the last 30 minutes
+2025-05-18 09:08:54,043 - INFO - Retrieved 262 trades for B3USDT from the last 30 minutes
+2025-05-18 09:08:54,205 - INFO - Retrieved 303 trades for LUMIAUSDT from the last 30 minutes
+2025-05-18 09:08:54,324 - INFO - Retrieved 1000 trades for SHIB1000USDT from the last 30 minutes
+2025-05-18 09:08:54,443 - INFO - Retrieved 84 trades for RONINUSDT from the last 30 minutes
+2025-05-18 09:08:54,566 - INFO - Retrieved 273 trades for HYPERUSDT from the last 30 minutes
+2025-05-18 09:08:54,684 - INFO - Retrieved 1000 trades for LTCUSDT from the last 30 minutes
+2025-05-18 09:08:54,785 - INFO - Retrieved 1000 trades for SIGNUSDT from the last 30 minutes
+2025-05-18 09:08:54,901 - INFO - Retrieved 1000 trades for EOSUSDT from the last 30 minutes
+2025-05-18 09:08:54,916 - INFO - Retrieved 0 trades for SOLUSDT-23MAY25 from the last 30 minutes
+2025-05-18 09:08:55,018 - INFO - Retrieved 89 trades for SENDUSDT from the last 30 minutes
+2025-05-18 09:08:55,134 - INFO - Retrieved 1000 trades for KAITOUSDT from the last 30 minutes
+2025-05-18 09:08:55,266 - INFO - Retrieved 1000 trades for NEARUSDT from the last 30 minutes
+2025-05-18 09:08:55,383 - INFO - Retrieved 1000 trades for BERAUSDT from the last 30 minutes
+2025-05-18 09:08:55,501 - INFO - Retrieved 1000 trades for NILUSDT from the last 30 minutes
+2025-05-18 09:08:55,617 - INFO - Retrieved 1000 trades for IPUSDT from the last 30 minutes
+2025-05-18 09:08:55,617 - INFO - Retrieved 0 trades for ETHUSDT-06JUN25 from the last 30 minutes
+2025-05-18 09:08:55,736 - INFO - Retrieved 358 trades for KERNELUSDT from the last 30 minutes
+2025-05-18 09:08:55,852 - INFO - Retrieved 806 trades for APEUSDT from the last 30 minutes
+2025-05-18 09:08:55,970 - INFO - Retrieved 1000 trades for AAVEUSDT from the last 30 minutes
+2025-05-18 09:08:55,985 - INFO - Retrieved 0 trades for SOLUSDT-30MAY25 from the last 30 minutes
+2025-05-18 09:08:56,101 - INFO - Retrieved 686 trades for POLUSDT from the last 30 minutes
+2025-05-18 09:08:56,219 - INFO - Retrieved 204 trades for HEIUSDT from the last 30 minutes
+2025-05-18 09:08:56,333 - INFO - Retrieved 1000 trades for ARBUSDT from the last 30 minutes
+2025-05-18 09:08:56,364 - INFO - Retrieved 0 trades for BTCUSDT-06JUN25 from the last 30 minutes
+2025-05-18 09:08:56,370 - INFO - Retrieved 1 trades for ETHUSDT-27MAR26 from the last 30 minutes
+2025-05-18 09:08:56,501 - INFO - Retrieved 933 trades for SOLVUSDT from the last 30 minutes
+2025-05-18 09:08:56,619 - INFO - Retrieved 1000 trades for ETHUSDT from the last 30 minutes
+2025-05-18 09:08:56,735 - INFO - Retrieved 48 trades for ACXUSDT from the last 30 minutes
+2025-05-18 09:08:56,735 - INFO - Retrieved 0 trades for BTCUSDT-30MAY25 from the last 30 minutes
+2025-05-18 09:08:56,852 - INFO - Retrieved 1000 trades for POPCATUSDT from the last 30 minutes
+2025-05-18 09:08:56,969 - INFO - Retrieved 1000 trades for STXUSDT from the last 30 minutes
+2025-05-18 09:08:57,071 - INFO - Retrieved 18 trades for ETHUSDT-27JUN25 from the last 30 minutes
+2025-05-18 09:08:57,185 - INFO - Retrieved 1000 trades for LINKUSDT from the last 30 minutes
+2025-05-18 09:08:57,303 - INFO - Retrieved 1000 trades for HBARUSDT from the last 30 minutes
+2025-05-18 09:08:57,426 - INFO - Retrieved 936 trades for PLUMEUSDT from the last 30 minutes
+2025-05-18 09:08:57,551 - INFO - Retrieved 267 trades for DEXEUSDT from the last 30 minutes
+2025-05-18 09:08:57,669 - INFO - Retrieved 1000 trades for BANKUSDT from the last 30 minutes
+2025-05-18 09:08:57,771 - INFO - Retrieved 1000 trades for ARCUSDT from the last 30 minutes
+2025-05-18 09:08:57,886 - INFO - Retrieved 1000 trades for ALCHUSDT from the last 30 minutes
+2025-05-18 09:08:58,004 - INFO - Retrieved 1000 trades for GRIFFAINUSDT from the last 30 minutes
+2025-05-18 09:08:58,038 - INFO - Retrieved 0 trades for ETHUSDT-26SEP25 from the last 30 minutes
+2025-05-18 09:08:58,153 - INFO - Retrieved 1000 trades for HMSTRUSDT from the last 30 minutes
+2025-05-18 09:08:58,271 - INFO - Retrieved 171 trades for EPICUSDT from the last 30 minutes
+2025-05-18 09:08:58,387 - INFO - Retrieved 748 trades for HIVEUSDT from the last 30 minutes
+2025-05-18 09:08:58,520 - INFO - Retrieved 546 trades for MEUSDT from the last 30 minutes
+2025-05-18 09:08:58,659 - INFO - Retrieved 851 trades for PARTIUSDT from the last 30 minutes
+2025-05-18 09:08:58,780 - INFO - Retrieved 799 trades for FUSDT from the last 30 minutes
+2025-05-18 09:08:58,903 - INFO - Retrieved 1000 trades for SUIUSDT from the last 30 minutes
+2025-05-18 09:08:59,026 - INFO - Retrieved 236 trades for ALUUSDT from the last 30 minutes
+2025-05-18 09:08:59,143 - INFO - Retrieved 302 trades for PHAUSDT from the last 30 minutes
+2025-05-18 09:08:59,253 - INFO - Retrieved 1000 trades for KASUSDT from the last 30 minutes
+2025-05-18 09:08:59,371 - INFO - Retrieved 1000 trades for OPUSDT from the last 30 minutes
+2025-05-18 09:08:59,472 - INFO - Retrieved 975 trades for PYTHUSDT from the last 30 minutes
+2025-05-18 09:08:59,604 - INFO - Retrieved 1000 trades for ORDIUSDT from the last 30 minutes
+2025-05-18 09:08:59,721 - INFO - Retrieved 581 trades for SWARMSUSDT from the last 30 minutes
+2025-05-18 09:08:59,845 - INFO - Retrieved 1000 trades for GALAUSDT from the last 30 minutes
+2025-05-18 09:08:59,975 - INFO - Retrieved 452 trades for ROSEUSDT from the last 30 minutes
+2025-05-18 09:09:00,108 - INFO - Retrieved 855 trades for AXSUSDT from the last 30 minutes
+2025-05-18 09:09:00,108 - INFO - Retrieved 1 trades for BTCUSDT-26SEP25 from the last 30 minutes
+2025-05-18 09:09:00,243 - INFO - Retrieved 526 trades for IMXUSDT from the last 30 minutes
+2025-05-18 09:09:00,373 - INFO - Retrieved 194 trades for AVAUSDT from the last 30 minutes
+2025-05-18 09:09:00,395 - INFO - Retrieved 0 trades for BTCUSDT-27MAR26 from the last 30 minutes
+2025-05-18 09:09:00,524 - INFO - Retrieved 1000 trades for MOVEUSDT from the last 30 minutes
+2025-05-18 09:09:00,546 - INFO - Retrieved 3 trades for ETHUSDT-26DEC25 from the last 30 minutes
+2025-05-18 09:09:00,657 - INFO - Retrieved 708 trades for STRKUSDT from the last 30 minutes
+2025-05-18 09:09:00,708 - INFO - Retrieved 1 trades for BTCUSDT-23MAY25 from the last 30 minutes
+2025-05-18 09:09:00,858 - INFO - Retrieved 1000 trades for INITUSDT from the last 30 minutes
+2025-05-18 09:09:00,997 - INFO - Retrieved 1000 trades for LDOUSDT from the last 30 minutes
+2025-05-18 09:09:01,121 - INFO - Retrieved 351 trades for JTOUSDT from the last 30 minutes
+2025-05-18 09:09:01,240 - INFO - Retrieved 186 trades for KAIAUSDT from the last 30 minutes
+2025-05-18 09:09:01,358 - INFO - Retrieved 463 trades for CATIUSDT from the last 30 minutes
+2025-05-18 09:09:01,483 - INFO - Retrieved 1000 trades for ONDOUSDT from the last 30 minutes
+2025-05-18 09:09:01,610 - INFO - Retrieved 378 trades for CGPTUSDT from the last 30 minutes
+2025-05-18 09:09:01,732 - INFO - Retrieved 1000 trades for MEWUSDT from the last 30 minutes
+2025-05-18 09:09:01,734 - INFO - Retrieved 0 trades for BTCUSDT-25JUL25 from the last 30 minutes
+2025-05-18 09:09:01,869 - INFO - Retrieved 1000 trades for CRVUSDT from the last 30 minutes
+2025-05-18 09:09:01,872 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25 from the last 30 minutes
+2025-05-18 09:09:02,003 - INFO - Retrieved 1000 trades for AVAXUSDT from the last 30 minutes
+2025-05-18 09:09:02,122 - INFO - Retrieved 770 trades for DYDXUSDT from the last 30 minutes
+2025-05-18 09:09:02,248 - INFO - Retrieved 1000 trades for BOMEUSDT from the last 30 minutes
+2025-05-18 09:09:02,371 - INFO - Retrieved 62 trades for MLNUSDT from the last 30 minutes
+2025-05-18 09:09:02,490 - INFO - Retrieved 251 trades for REDUSDT from the last 30 minutes
+2025-05-18 09:09:02,608 - INFO - Retrieved 1000 trades for GMTUSDT from the last 30 minutes
+2025-05-18 09:09:02,726 - INFO - Retrieved 1000 trades for TAOUSDT from the last 30 minutes
+2025-05-18 09:09:02,857 - INFO - Retrieved 1000 trades for OMUSDT from the last 30 minutes
+2025-05-18 09:09:02,964 - INFO - Retrieved 1000 trades for PENGUUSDT from the last 30 minutes
+2025-05-18 09:09:03,075 - INFO - Retrieved 1000 trades for PNUTUSDT from the last 30 minutes
+2025-05-18 09:09:03,193 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT from the last 30 minutes
+2025-05-18 09:09:03,209 - INFO - Retrieved 0 trades for SOLUSDT-06JUN25 from the last 30 minutes
+2025-05-18 09:09:03,326 - INFO - Retrieved 1000 trades for ENSUSDT from the last 30 minutes
+2025-05-18 09:09:03,443 - INFO - Retrieved 1000 trades for BABYUSDT from the last 30 minutes
+2025-05-18 09:09:03,463 - INFO - Retrieved 0 trades for ETHUSDT-23MAY25 from the last 30 minutes
+2025-05-18 09:09:03,577 - INFO - Retrieved 602 trades for BIOUSDT from the last 30 minutes
+2025-05-18 09:09:03,693 - INFO - Retrieved 1000 trades for JUPUSDT from the last 30 minutes
+2025-05-18 09:09:03,810 - INFO - Retrieved 63 trades for JUSDT from the last 30 minutes
+2025-05-18 09:09:03,944 - INFO - Retrieved 1000 trades for SEIUSDT from the last 30 minutes
+2025-05-18 09:09:04,044 - INFO - Retrieved 1000 trades for DOGSUSDT from the last 30 minutes
+2025-05-18 09:09:04,060 - INFO - Retrieved 0 trades for ETHUSDT-30MAY25 from the last 30 minutes
+2025-05-18 09:09:04,176 - INFO - Retrieved 1000 trades for SOLAYERUSDT from the last 30 minutes
+2025-05-18 09:09:04,294 - INFO - Retrieved 228 trades for COWUSDT from the last 30 minutes
+2025-05-18 09:09:04,412 - INFO - Retrieved 1000 trades for DOGEUSDT from the last 30 minutes
+2025-05-18 09:09:04,433 - INFO - Retrieved 0 trades for BTCUSDT-26DEC25 from the last 30 minutes
+2025-05-18 09:09:04,591 - INFO - Retrieved 882 trades for ETCUSDT from the last 30 minutes
+2025-05-18 09:09:04,726 - INFO - Retrieved 410 trades for GIGAUSDT from the last 30 minutes
+2025-05-18 09:09:04,844 - INFO - Retrieved 471 trades for ICPUSDT from the last 30 minutes
+2025-05-18 09:09:04,962 - INFO - Retrieved 1000 trades for 1000BONKUSDT from the last 30 minutes
+2025-05-18 09:09:05,077 - INFO - Retrieved 1000 trades for ANIMEUSDT from the last 30 minutes
+2025-05-18 09:09:05,195 - INFO - Retrieved 730 trades for SANDUSDT from the last 30 minutes
+2025-05-18 09:09:05,315 - INFO - Retrieved 1000 trades for GOATUSDT from the last 30 minutes
+2025-05-18 09:09:05,428 - INFO - Retrieved 1000 trades for 1000PEPEUSDT from the last 30 minutes
+2025-05-18 09:09:05,545 - INFO - Retrieved 1000 trades for JASMYUSDT from the last 30 minutes
+2025-05-18 09:09:05,662 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT from the last 30 minutes
+2025-05-18 09:09:05,778 - INFO - Retrieved 1000 trades for APTUSDT from the last 30 minutes
+2025-05-18 09:09:05,912 - INFO - Retrieved 1000 trades for BTCUSDT from the last 30 minutes
+2025-05-18 09:09:06,029 - INFO - Retrieved 1000 trades for FARTCOINUSDT from the last 30 minutes
+2025-05-18 09:09:06,145 - INFO - Retrieved 1000 trades for AIXBTUSDT from the last 30 minutes
+2025-05-18 09:09:06,263 - INFO - Retrieved 528 trades for SPXUSDT from the last 30 minutes
+2025-05-18 09:09:06,378 - INFO - Retrieved 611 trades for ALGOUSDT from the last 30 minutes
+2025-05-18 09:09:06,496 - INFO - Retrieved 221 trades for BLURUSDT from the last 30 minutes
+2025-05-18 09:09:07,190 - INFO - Retrieved 151 assets from Redis
+2025-05-18 09:09:07,298 - INFO - Retrieved 151 trades for NCUSDT from the last 30 minutes
+2025-05-18 09:09:07,413 - INFO - Retrieved 1000 trades for NOTUSDT from the last 30 minutes
+2025-05-18 09:09:07,531 - INFO - Retrieved 1000 trades for AI16ZUSDT from the last 30 minutes
+2025-05-18 09:09:07,649 - INFO - Retrieved 1000 trades for BCHUSDT from the last 30 minutes
+2025-05-18 09:09:07,765 - INFO - Retrieved 727 trades for ATOMUSDT from the last 30 minutes
+2025-05-18 09:09:07,880 - INFO - Retrieved 489 trades for COOKIEUSDT from the last 30 minutes
+2025-05-18 09:09:07,998 - INFO - Retrieved 1000 trades for GRASSUSDT from the last 30 minutes
+2025-05-18 09:09:08,099 - INFO - Retrieved 189 trades for AXLUSDT from the last 30 minutes
+2025-05-18 09:09:08,227 - INFO - Retrieved 1000 trades for HYPEUSDT from the last 30 minutes
+2025-05-18 09:09:08,276 - INFO - Retrieved 0 trades for SOLUSDT-27JUN25 from the last 30 minutes
+2025-05-18 09:09:08,382 - INFO - Retrieved 510 trades for KOMAUSDT from the last 30 minutes
+2025-05-18 09:09:08,514 - INFO - Retrieved 138 trades for 10000ELONUSDT from the last 30 minutes
+2025-05-18 09:09:08,631 - INFO - Retrieved 498 trades for 1000CATUSDT from the last 30 minutes
+2025-05-18 09:09:08,749 - INFO - Retrieved 965 trades for ARKMUSDT from the last 30 minutes
+2025-05-18 09:09:08,766 - INFO - Retrieved 0 trades for BTCUSDT-27JUN25 from the last 30 minutes
+2025-05-18 09:09:08,883 - INFO - Retrieved 1000 trades for DOTUSDT from the last 30 minutes
+2025-05-18 09:09:08,998 - INFO - Retrieved 891 trades for FLOCKUSDT from the last 30 minutes
+2025-05-18 09:09:09,101 - INFO - Retrieved 386 trades for MEMEUSDT from the last 30 minutes
+2025-05-18 09:09:09,216 - INFO - Retrieved 1000 trades for PEOPLEUSDT from the last 30 minutes
+2025-05-18 09:09:09,333 - INFO - Retrieved 1000 trades for SONICUSDT from the last 30 minutes
+2025-05-18 09:09:09,450 - INFO - Retrieved 1000 trades for 1000NEIROCTOUSDT from the last 30 minutes
+2025-05-18 09:09:09,566 - INFO - Retrieved 1000 trades for RENDERUSDT from the last 30 minutes
+2025-05-18 09:09:09,684 - INFO - Retrieved 1000 trades for ADAUSDT from the last 30 minutes
+2025-05-18 09:09:09,799 - INFO - Retrieved 1000 trades for ENAUSDT from the last 30 minutes
+2025-05-18 09:09:09,917 - INFO - Retrieved 1000 trades for SOLUSDT from the last 30 minutes
+2025-05-18 09:09:10,033 - INFO - Retrieved 884 trades for EIGENUSDT from the last 30 minutes
+2025-05-18 09:09:10,135 - INFO - Retrieved 1000 trades for BRETTUSDT from the last 30 minutes
+2025-05-18 09:09:10,266 - INFO - Retrieved 1000 trades for INJUSDT from the last 30 minutes
+2025-05-18 09:09:10,381 - INFO - Retrieved 1000 trades for MOODENGUSDT from the last 30 minutes
+2025-05-18 09:09:10,485 - INFO - Retrieved 748 trades for MELANIAUSDT from the last 30 minutes
+2025-05-18 09:09:10,617 - INFO - Retrieved 927 trades for SUSDT from the last 30 minutes
+2025-05-18 09:09:10,735 - INFO - Retrieved 1000 trades for BNBUSDT from the last 30 minutes
+2025-05-18 09:09:10,835 - INFO - Retrieved 258 trades for B3USDT from the last 30 minutes
+2025-05-18 09:09:10,953 - INFO - Retrieved 306 trades for LUMIAUSDT from the last 30 minutes
+2025-05-18 09:09:11,067 - INFO - Retrieved 1000 trades for SHIB1000USDT from the last 30 minutes
+2025-05-18 09:09:11,185 - INFO - Retrieved 87 trades for RONINUSDT from the last 30 minutes
+2025-05-18 09:09:11,285 - INFO - Retrieved 279 trades for HYPERUSDT from the last 30 minutes
+2025-05-18 09:09:11,403 - INFO - Retrieved 1000 trades for LTCUSDT from the last 30 minutes
+2025-05-18 09:09:11,534 - INFO - Retrieved 1000 trades for SIGNUSDT from the last 30 minutes
+2025-05-18 09:09:11,636 - INFO - Retrieved 1000 trades for EOSUSDT from the last 30 minutes
+2025-05-18 09:09:11,651 - INFO - Retrieved 0 trades for SOLUSDT-23MAY25 from the last 30 minutes
+2025-05-18 09:09:11,769 - INFO - Retrieved 91 trades for SENDUSDT from the last 30 minutes
+2025-05-18 09:09:11,869 - INFO - Retrieved 1000 trades for KAITOUSDT from the last 30 minutes
+2025-05-18 09:09:12,033 - INFO - Retrieved 1000 trades for NEARUSDT from the last 30 minutes
+2025-05-18 09:09:12,166 - INFO - Retrieved 1000 trades for BERAUSDT from the last 30 minutes
+2025-05-18 09:09:12,284 - INFO - Retrieved 1000 trades for NILUSDT from the last 30 minutes
+2025-05-18 09:09:12,402 - INFO - Retrieved 1000 trades for IPUSDT from the last 30 minutes
+2025-05-18 09:09:12,402 - INFO - Retrieved 0 trades for ETHUSDT-06JUN25 from the last 30 minutes
+2025-05-18 09:09:12,535 - INFO - Retrieved 353 trades for KERNELUSDT from the last 30 minutes
+2025-05-18 09:09:12,637 - INFO - Retrieved 813 trades for APEUSDT from the last 30 minutes
+2025-05-18 09:09:12,755 - INFO - Retrieved 1000 trades for AAVEUSDT from the last 30 minutes
+2025-05-18 09:09:12,773 - INFO - Retrieved 0 trades for SOLUSDT-30MAY25 from the last 30 minutes
+2025-05-18 09:09:12,887 - INFO - Retrieved 688 trades for POLUSDT from the last 30 minutes
+2025-05-18 09:09:13,003 - INFO - Retrieved 204 trades for HEIUSDT from the last 30 minutes
+2025-05-18 09:09:13,105 - INFO - Retrieved 1000 trades for ARBUSDT from the last 30 minutes
+2025-05-18 09:09:13,136 - INFO - Retrieved 0 trades for BTCUSDT-06JUN25 from the last 30 minutes
+2025-05-18 09:09:13,153 - INFO - Retrieved 1 trades for ETHUSDT-27MAR26 from the last 30 minutes
+2025-05-18 09:09:13,254 - INFO - Retrieved 938 trades for SOLVUSDT from the last 30 minutes
+2025-05-18 09:09:13,372 - INFO - Retrieved 1000 trades for ETHUSDT from the last 30 minutes
+2025-05-18 09:09:13,488 - INFO - Retrieved 48 trades for ACXUSDT from the last 30 minutes
+2025-05-18 09:09:13,488 - INFO - Retrieved 0 trades for BTCUSDT-30MAY25 from the last 30 minutes
+2025-05-18 09:09:13,621 - INFO - Retrieved 1000 trades for POPCATUSDT from the last 30 minutes
+2025-05-18 09:09:13,721 - INFO - Retrieved 1000 trades for STXUSDT from the last 30 minutes
+2025-05-18 09:09:13,828 - INFO - Retrieved 18 trades for ETHUSDT-27JUN25 from the last 30 minutes
+2025-05-18 09:09:13,937 - INFO - Retrieved 1000 trades for LINKUSDT from the last 30 minutes
+2025-05-18 09:09:14,055 - INFO - Retrieved 1000 trades for HBARUSDT from the last 30 minutes
+2025-05-18 09:09:14,155 - INFO - Retrieved 942 trades for PLUMEUSDT from the last 30 minutes
+2025-05-18 09:09:14,273 - INFO - Retrieved 267 trades for DEXEUSDT from the last 30 minutes
+2025-05-18 09:09:14,388 - INFO - Retrieved 1000 trades for BANKUSDT from the last 30 minutes
+2025-05-18 09:09:14,509 - INFO - Retrieved 1000 trades for ARCUSDT from the last 30 minutes
+2025-05-18 09:09:14,620 - INFO - Retrieved 1000 trades for ALCHUSDT from the last 30 minutes
+2025-05-18 09:09:14,738 - INFO - Retrieved 1000 trades for GRIFFAINUSDT from the last 30 minutes
+2025-05-18 09:09:14,772 - INFO - Retrieved 0 trades for ETHUSDT-26SEP25 from the last 30 minutes
+2025-05-18 09:09:14,888 - INFO - Retrieved 1000 trades for HMSTRUSDT from the last 30 minutes
+2025-05-18 09:09:15,006 - INFO - Retrieved 172 trades for EPICUSDT from the last 30 minutes
+2025-05-18 09:09:15,106 - INFO - Retrieved 767 trades for HIVEUSDT from the last 30 minutes
+2025-05-18 09:09:15,224 - INFO - Retrieved 564 trades for MEUSDT from the last 30 minutes
+2025-05-18 09:09:15,339 - INFO - Retrieved 889 trades for PARTIUSDT from the last 30 minutes
+2025-05-18 09:09:15,456 - INFO - Retrieved 794 trades for FUSDT from the last 30 minutes
+2025-05-18 09:09:15,588 - INFO - Retrieved 1000 trades for SUIUSDT from the last 30 minutes
+2025-05-18 09:09:15,706 - INFO - Retrieved 235 trades for ALUUSDT from the last 30 minutes
+2025-05-18 09:09:15,808 - INFO - Retrieved 304 trades for PHAUSDT from the last 30 minutes
+2025-05-18 09:09:15,924 - INFO - Retrieved 1000 trades for KASUSDT from the last 30 minutes
+2025-05-18 09:09:16,039 - INFO - Retrieved 1000 trades for OPUSDT from the last 30 minutes
+2025-05-18 09:09:16,157 - INFO - Retrieved 978 trades for PYTHUSDT from the last 30 minutes
+2025-05-18 09:09:16,273 - INFO - Retrieved 1000 trades for ORDIUSDT from the last 30 minutes
+2025-05-18 09:09:16,375 - INFO - Retrieved 590 trades for SWARMSUSDT from the last 30 minutes
+2025-05-18 09:09:16,492 - INFO - Retrieved 1000 trades for GALAUSDT from the last 30 minutes
+2025-05-18 09:09:16,608 - INFO - Retrieved 452 trades for ROSEUSDT from the last 30 minutes
+2025-05-18 09:09:16,726 - INFO - Retrieved 856 trades for AXSUSDT from the last 30 minutes
+2025-05-18 09:09:16,726 - INFO - Retrieved 1 trades for BTCUSDT-26SEP25 from the last 30 minutes
+2025-05-18 09:09:16,841 - INFO - Retrieved 525 trades for IMXUSDT from the last 30 minutes
+2025-05-18 09:09:16,959 - INFO - Retrieved 195 trades for AVAUSDT from the last 30 minutes
+2025-05-18 09:09:16,975 - INFO - Retrieved 0 trades for BTCUSDT-27MAR26 from the last 30 minutes
+2025-05-18 09:09:17,092 - INFO - Retrieved 1000 trades for MOVEUSDT from the last 30 minutes
+2025-05-18 09:09:17,114 - INFO - Retrieved 3 trades for ETHUSDT-26DEC25 from the last 30 minutes
+2025-05-18 09:09:17,225 - INFO - Retrieved 704 trades for STRKUSDT from the last 30 minutes
+2025-05-18 09:09:17,276 - INFO - Retrieved 1 trades for BTCUSDT-23MAY25 from the last 30 minutes
+2025-05-18 09:09:17,390 - INFO - Retrieved 1000 trades for INITUSDT from the last 30 minutes
+2025-05-18 09:09:17,496 - INFO - Retrieved 1000 trades for LDOUSDT from the last 30 minutes
+2025-05-18 09:09:17,623 - INFO - Retrieved 355 trades for JTOUSDT from the last 30 minutes
+2025-05-18 09:09:17,726 - INFO - Retrieved 187 trades for KAIAUSDT from the last 30 minutes
+2025-05-18 09:09:17,843 - INFO - Retrieved 467 trades for CATIUSDT from the last 30 minutes
+2025-05-18 09:09:17,959 - INFO - Retrieved 1000 trades for ONDOUSDT from the last 30 minutes
+2025-05-18 09:09:18,075 - INFO - Retrieved 378 trades for CGPTUSDT from the last 30 minutes
+2025-05-18 09:09:18,193 - INFO - Retrieved 1000 trades for MEWUSDT from the last 30 minutes
+2025-05-18 09:09:18,193 - INFO - Retrieved 0 trades for BTCUSDT-25JUL25 from the last 30 minutes
+2025-05-18 09:09:18,310 - INFO - Retrieved 1000 trades for CRVUSDT from the last 30 minutes
+2025-05-18 09:09:18,310 - INFO - Retrieved 2 trades for ETHUSDT-25JUL25 from the last 30 minutes
+2025-05-18 09:09:18,434 - INFO - Retrieved 1000 trades for AVAXUSDT from the last 30 minutes
+2025-05-18 09:09:18,558 - INFO - Retrieved 775 trades for DYDXUSDT from the last 30 minutes
+2025-05-18 09:09:18,675 - INFO - Retrieved 1000 trades for BOMEUSDT from the last 30 minutes
+2025-05-18 09:09:18,777 - INFO - Retrieved 65 trades for MLNUSDT from the last 30 minutes
+2025-05-18 09:09:18,895 - INFO - Retrieved 250 trades for REDUSDT from the last 30 minutes
+2025-05-18 09:09:19,009 - INFO - Retrieved 1000 trades for GMTUSDT from the last 30 minutes
+2025-05-18 09:09:19,127 - INFO - Retrieved 1000 trades for TAOUSDT from the last 30 minutes
+2025-05-18 09:09:19,243 - INFO - Retrieved 1000 trades for OMUSDT from the last 30 minutes
+2025-05-18 09:09:19,345 - INFO - Retrieved 1000 trades for PENGUUSDT from the last 30 minutes
+2025-05-18 09:09:19,461 - INFO - Retrieved 1000 trades for PNUTUSDT from the last 30 minutes
+2025-05-18 09:09:19,595 - INFO - Retrieved 1000 trades for 1000FLOKIUSDT from the last 30 minutes
+2025-05-18 09:09:19,595 - INFO - Retrieved 0 trades for SOLUSDT-06JUN25 from the last 30 minutes
+2025-05-18 09:09:19,711 - INFO - Retrieved 1000 trades for ENSUSDT from the last 30 minutes
+2025-05-18 09:09:19,827 - INFO - Retrieved 1000 trades for BABYUSDT from the last 30 minutes
+2025-05-18 09:09:19,848 - INFO - Retrieved 0 trades for ETHUSDT-23MAY25 from the last 30 minutes
+2025-05-18 09:09:19,968 - INFO - Retrieved 605 trades for BIOUSDT from the last 30 minutes
+2025-05-18 09:09:20,076 - INFO - Retrieved 1000 trades for JUPUSDT from the last 30 minutes
+2025-05-18 09:09:20,193 - INFO - Retrieved 63 trades for JUSDT from the last 30 minutes
+2025-05-18 09:09:20,310 - INFO - Retrieved 1000 trades for SEIUSDT from the last 30 minutes
+2025-05-18 09:09:20,412 - INFO - Retrieved 1000 trades for DOGSUSDT from the last 30 minutes
+2025-05-18 09:09:20,435 - INFO - Retrieved 0 trades for ETHUSDT-30MAY25 from the last 30 minutes
+2025-05-18 09:09:20,544 - INFO - Retrieved 1000 trades for SOLAYERUSDT from the last 30 minutes
+2025-05-18 09:09:20,662 - INFO - Retrieved 230 trades for COWUSDT from the last 30 minutes
+2025-05-18 09:09:20,780 - INFO - Retrieved 1000 trades for DOGEUSDT from the last 30 minutes
+2025-05-18 09:09:20,800 - INFO - Retrieved 0 trades for BTCUSDT-26DEC25 from the last 30 minutes
+2025-05-18 09:09:20,913 - INFO - Retrieved 887 trades for ETCUSDT from the last 30 minutes
+2025-05-18 09:09:21,028 - INFO - Retrieved 412 trades for GIGAUSDT from the last 30 minutes
+2025-05-18 09:09:21,130 - INFO - Retrieved 468 trades for ICPUSDT from the last 30 minutes
+2025-05-18 09:09:21,247 - INFO - Retrieved 1000 trades for 1000BONKUSDT from the last 30 minutes
+2025-05-18 09:09:21,379 - INFO - Retrieved 1000 trades for ANIMEUSDT from the last 30 minutes
+2025-05-18 09:09:21,496 - INFO - Retrieved 732 trades for SANDUSDT from the last 30 minutes
+2025-05-18 09:09:21,612 - INFO - Retrieved 1000 trades for GOATUSDT from the last 30 minutes
+2025-05-18 09:09:21,714 - INFO - Retrieved 1000 trades for 1000PEPEUSDT from the last 30 minutes
+2025-05-18 09:09:21,830 - INFO - Retrieved 1000 trades for JASMYUSDT from the last 30 minutes
+2025-05-18 09:09:21,946 - INFO - Retrieved 1000 trades for 1000TOSHIUSDT from the last 30 minutes
+2025-05-18 09:09:22,064 - INFO - Retrieved 1000 trades for APTUSDT from the last 30 minutes
+2025-05-18 09:09:22,180 - INFO - Retrieved 1000 trades for BTCUSDT from the last 30 minutes
+2025-05-18 09:09:22,282 - INFO - Retrieved 1000 trades for FARTCOINUSDT from the last 30 minutes
+2025-05-18 09:09:22,398 - INFO - Retrieved 1000 trades for AIXBTUSDT from the last 30 minutes
+2025-05-18 09:09:22,514 - INFO - Retrieved 534 trades for SPXUSDT from the last 30 minutes
+2025-05-18 09:09:22,647 - INFO - Retrieved 611 trades for ALGOUSDT from the last 30 minutes
+2025-05-18 09:09:22,778 - INFO - Retrieved 216 trades for BLURUSDT from the last 30 minutes
+2025-05-18 09:09:24,774 - INFO - Analysis complete
+2025-05-18 09:09:24,803 - INFO - Results saved to JSON files

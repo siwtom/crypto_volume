@@ -16,54 +16,92 @@
 import time
 import redis
 import datetime
-from pybit import usdt_perpetual
+from pybit.unified_trading import HTTP, WebSocket
 from config import interval, redis_host, redis_port, redis_db, redis_trade_ttl, redis_kline_ttl, endpoint, domain
-
-
-
+# Your API credentials
+API_KEY = "VQpBubtPJY1kG9Ic2Y"
+API_SECRET = "cSBDXfMkv63CsGHobxz33PEVpt4QzfQ3PJlS"
 r = redis.Redis(host=redis_host,port=redis_port,db=redis_db)
-ws = usdt_perpetual.WebSocket(test=False, domain=domain)
-session_unauth = usdt_perpetual.HTTP(endpoint=endpoint)
-max_leverage = session_unauth.query_symbol()
+ws = WebSocket(
+    testnet=False, 
+    api_key=API_KEY,
+    api_secret=API_SECRET,
+    channel_type="linear"
+)
+
+session_unauth = HTTP(testnet=False)
+max_leverage = session_unauth.get_instruments_info(category="linear")
 
 assets = []
 
-for leverage in max_leverage['result']:
-    symbol = leverage['name']
-    leverage = leverage['leverage_filter']['max_leverage']
-    if leverage >= 50 and 'USDT' in symbol:
-        #print(symbol)
+for leverage in max_leverage['result']['list']:
+    symbol = leverage['symbol']
+    leverage_value = float(leverage['leverageFilter']['maxLeverage'])
+    if leverage_value >= 50 and 'USDT' in symbol:
         assets.append(symbol)
-
-# print(assets)
+    print('----------- List Assets ---------------\n')
+    print(assets)
 
 def get_trades(trades):
-    # print(trades)
-    symbol= trades['data'][0]['symbol']
-    price = trades['data'][0]['price']
-    side = trades['data'][0]['side']
-    size = trades['data'][0]['size']
-
-    r.hset(str(symbol), 'price', price)
-    r.hset(str(symbol), 'side', side)
-    r.hset(str(symbol), 'size', size)
-    r.execute_command('expire',str(symbol), redis_trade_ttl)
-    
-    print(' Trade:',symbol,price)
+    """Process and store trade data in Redis"""
+    try:
+        data = trades.get('data')
+        if not data:
+            return
+            
+        # Handle both single trade and trade arrays
+        trade_list = data if isinstance(data, list) else [data]
+        
+        for trade in trade_list:
+            symbol = trade['s']  # symbol
+            price = float(trade['p'])  # price
+            side = trade['S']  # side (Buy/Sell)
+            size = float(trade['v'])  # volume/quantity
+            timestamp = int(trade['T'])  # timestamp
+            
+            # Create a more comprehensive trade key with timestamp
+            trade_key = f"{symbol}:trade:{timestamp}"
+            
+            # Store latest trade data
+            r.hset(str(symbol), mapping={
+                'price': price,
+                'side': side,
+                'size': size,
+                'timestamp': timestamp
+            })
+            r.expire(str(symbol), redis_trade_ttl)
+            
+            # Store detailed trade
+            r.hset(trade_key, mapping={
+                'symbol': symbol,
+                'price': price,
+                'side': side,
+                'size': size,
+                'timestamp': timestamp,
+                'liquidity': trade['L']  # liquidity type
+            })
+            r.expire(trade_key, redis_trade_ttl)
+            
+            # Add to time-series list (most recent 1000 trades)
+            r.lpush(f"{symbol}:trades", trade_key)
+            r.ltrim(f"{symbol}:trades", 0, 999)
+            
+            print(f"Trade: {symbol} {price} {side} {size}")
+    except Exception as e:
+        print(f"Error processing trade: {e}")
+        print(f"Trade data: {trades}")
 
 for asset in assets:
-    # print(asset)
-    ws.trade_stream(get_trades, asset)
-
+    ws.trade_stream(
+        callback=get_trades,
+        symbol=asset
+    )
 
 def get_ohcl(ohcl):
-    
-    symbol = ohcl['topic'].replace('candle.1.','')
-    # print(symbol)
+    symbol = ohcl['topic'].replace('kline.1.','')
     kline_data = ohcl['data'][0]
-    # print(kline_data)
     timestamp_ms = kline_data['start']
-    timestamp_ms = datetime.datetime.fromtimestamp(timestamp_ms)
+    timestamp_ms = datetime.datetime.fromtimestamp(timestamp_ms/1000)
     timestamp_ms = timestamp_ms.strftime('%Y-%m-%d %H:%M:00') 
     
     r.hset(symbol+'-'+timestamp_ms, 'symbol', symbol)
@@ -77,8 +115,11 @@ def get_ohcl(ohcl):
     
     print(' Kline:',symbol,timestamp_ms)
 
-ws.kline_stream(get_ohcl, assets, interval)
+ws.kline_stream(
+    callback=get_ohcl,
+    symbol=assets,
+    interval=interval
+)
 
 while True:
-          
     time.sleep(1)

@@ -1,0 +1,3701 @@
+{
+  "NCUSDT": {
+    "5min": {
+      "current_volume": 1341.58539,
+      "average_volume": 2483.196618,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "NOTUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "AI16ZUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BCHUSDT": {
+    "5min": {
+      "current_volume": 41365.44300000001,
+      "average_volume": 58129.371200000016,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ATOMUSDT": {
+    "5min": {
+      "current_volume": 49667.64369999998,
+      "average_volume": 29640.898799999984,
+      "trend": "Strong Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "COOKIEUSDT": {
+    "5min": {
+      "current_volume": 12146.603500000005,
+      "average_volume": 7434.406340000004,
+      "trend": "Strong Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "GRASSUSDT": {
+    "5min": {
+      "current_volume": 4239.672700000005,
+      "average_volume": 17802.762680000003,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "AXLUSDT": {
+    "5min": {
+      "current_volume": 334.4423999999999,
+      "average_volume": 1990.5466200000003,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "HYPEUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "KOMAUSDT": {
+    "5min": {
+      "current_volume": 1641.49063,
+      "average_volume": 3016.568003999999,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "10000ELONUSDT": {
+    "5min": {
+      "current_volume": 3.4872,
+      "average_volume": 3329.67316,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "1000CATUSDT": {
+    "5min": {
+      "current_volume": 5089.331516,
+      "average_volume": 3095.3902618,
+      "trend": "Strong Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ARKMUSDT": {
+    "5min": {
+      "current_volume": 6081.6925,
+      "average_volume": 12315.22459999999,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "DOTUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "FLOCKUSDT": {
+    "5min": {
+      "current_volume": 1445.7960100000005,
+      "average_volume": 9324.657736000005,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "MEMEUSDT": {
+    "5min": {
+      "current_volume": 437.71004999999997,
+      "average_volume": 3172.2650399999993,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "PEOPLEUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SONICUSDT": {
+    "5min": {
+      "current_volume": 7753.049300000007,
+      "average_volume": 31543.298339999998,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "1000NEIROCTOUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "RENDERUSDT": {
+    "5min": {
+      "current_volume": 17448.510200000008,
+      "average_volume": 35914.05032000002,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ADAUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ENAUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SOLUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "EIGENUSDT": {
+    "5min": {
+      "current_volume": 14484.131800000006,
+      "average_volume": 18343.577559999998,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BRETTUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "INJUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "MOODENGUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "MELANIAUSDT": {
+    "5min": {
+      "current_volume": 1665.3108399999999,
+      "average_volume": 13040.449216000005,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SUSDT": {
+    "5min": {
+      "current_volume": 18166.03530000001,
+      "average_volume": 30714.30404000001,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BNBUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "B3USDT": {
+    "5min": {
+      "current_volume": 441.90940000000006,
+      "average_volume": 4436.488080000002,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "LUMIAUSDT": {
+    "5min": {
+      "current_volume": 1359.5509700000007,
+      "average_volume": 3617.2913500000004,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SHIB1000USDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "RONINUSDT": {
+    "5min": {
+      "current_volume": 673.03445,
+      "average_volume": 637.669272,
+      "trend": "Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "HYPERUSDT": {
+    "5min": {
+      "current_volume": 2849.8062000000004,
+      "average_volume": 6960.048300000002,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "LTCUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SIGNUSDT": {
+    "5min": {
+      "current_volume": 8567.497499999998,
+      "average_volume": 11005.012019999998,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "EOSUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SENDUSDT": {
+    "5min": {
+      "current_volume": 364.3164,
+      "average_volume": 743.41392,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "KAITOUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "NEARUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BERAUSDT": {
+    "5min": {
+      "current_volume": 10675.451999999996,
+      "average_volume": 49971.1476,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "NILUSDT": {
+    "5min": {
+      "current_volume": 2435.8119999999994,
+      "average_volume": 9969.140360000001,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "IPUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "KERNELUSDT": {
+    "5min": {
+      "current_volume": 1418.4499999999998,
+      "average_volume": 6013.188500000001,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "APEUSDT": {
+    "5min": {
+      "current_volume": 6448.280959999996,
+      "average_volume": 14516.51433000001,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "AAVEUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "POLUSDT": {
+    "5min": {
+      "current_volume": 15388.775399999995,
+      "average_volume": 25168.366699999984,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "HEIUSDT": {
+    "5min": {
+      "current_volume": 812.8851100000004,
+      "average_volume": 818.5670539999999,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ARBUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ETHUSDT-27MAR26": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SOLVUSDT": {
+    "5min": {
+      "current_volume": 2381.378460000001,
+      "average_volume": 6958.615427999997,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ETHUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ACXUSDT": {
+    "5min": {
+      "current_volume": 8.7578,
+      "average_volume": 529.38848,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "POPCATUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "STXUSDT": {
+    "5min": {
+      "current_volume": 26929.71033999999,
+      "average_volume": 16679.336,
+      "trend": "Strong Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ETHUSDT-27JUN25": {
+    "5min": {
+      "current_volume": 24.9866,
+      "average_volume": 74.88116,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "LINKUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "HBARUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "PLUMEUSDT": {
+    "5min": {
+      "current_volume": 381.8368300000001,
+      "average_volume": 43946.94370000001,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "DEXEUSDT": {
+    "5min": {
+      "current_volume": 2175.623000000001,
+      "average_volume": 1430.6469800000002,
+      "trend": "Strong Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BANKUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ARCUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ALCHUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "GRIFFAINUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "HMSTRUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "EPICUSDT": {
+    "5min": {
+      "current_volume": 80.7792,
+      "average_volume": 2905.2851,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "HIVEUSDT": {
+    "5min": {
+      "current_volume": 6036.442500000003,
+      "average_volume": 20406.406499999997,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "MEUSDT": {
+    "5min": {
+      "current_volume": 6325.443200000003,
+      "average_volume": 6087.457319999999,
+      "trend": "Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "PARTIUSDT": {
+    "5min": {
+      "current_volume": 17550.134499999996,
+      "average_volume": 23483.772539999998,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "FUSDT": {
+    "5min": {
+      "current_volume": 2602.471590000002,
+      "average_volume": 8705.348172000005,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SUIUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ALUUSDT": {
+    "5min": {
+      "current_volume": 1390.6607800000002,
+      "average_volume": 1583.3526199999992,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "PHAUSDT": {
+    "5min": {
+      "current_volume": 377.07755999999995,
+      "average_volume": 826.1684139999998,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "KASUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "OPUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "PYTHUSDT": {
+    "5min": {
+      "current_volume": 4962.119799999999,
+      "average_volume": 21511.846359999963,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ORDIUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SWARMSUSDT": {
+    "5min": {
+      "current_volume": 18543.184479999996,
+      "average_volume": 10011.797624000003,
+      "trend": "Strong Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "GALAUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ROSEUSDT": {
+    "5min": {
+      "current_volume": 333.48091000000005,
+      "average_volume": 4974.469238,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "AXSUSDT": {
+    "5min": {
+      "current_volume": 11061.262899999998,
+      "average_volume": 32216.284340000024,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BTCUSDT-26SEP25": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "IMXUSDT": {
+    "5min": {
+      "current_volume": 1777.3025399999997,
+      "average_volume": 15139.169344,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "AVAUSDT": {
+    "5min": {
+      "current_volume": 244.81084999999996,
+      "average_volume": 934.8853219999999,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "MOVEUSDT": {
+    "5min": {
+      "current_volume": 40847.90230000003,
+      "average_volume": 46898.040540000016,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ETHUSDT-26DEC25": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "STRKUSDT": {
+    "5min": {
+      "current_volume": 12729.567090000004,
+      "average_volume": 34691.90353,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BTCUSDT-23MAY25": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "INITUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "LDOUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "JTOUSDT": {
+    "5min": {
+      "current_volume": 2695.341,
+      "average_volume": 8798.073,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "KAIAUSDT": {
+    "5min": {
+      "current_volume": 584.3537,
+      "average_volume": 2545.19978,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "CATIUSDT": {
+    "5min": {
+      "current_volume": 7937.8537000000015,
+      "average_volume": 9564.5243,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ONDOUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "CGPTUSDT": {
+    "5min": {
+      "current_volume": 1346.9362300000007,
+      "average_volume": 1983.9442919999997,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "MEWUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "CRVUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ETHUSDT-25JUL25": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "AVAXUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "DYDXUSDT": {
+    "5min": {
+      "current_volume": 11406.626709999993,
+      "average_volume": 13783.42909999999,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BOMEUSDT": {
+    "5min": {
+      "current_volume": 12236.622299999994,
+      "average_volume": 26304.43237999999,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "MLNUSDT": {
+    "5min": {
+      "current_volume": 1032.1177999999998,
+      "average_volume": 441.58236,
+      "trend": "Strong Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "REDUSDT": {
+    "5min": {
+      "current_volume": 5964.649700000002,
+      "average_volume": 4245.700000000001,
+      "trend": "Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "GMTUSDT": {
+    "5min": {
+      "current_volume": 12702.816729999997,
+      "average_volume": 20194.615418,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "TAOUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "OMUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "PENGUUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "PNUTUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "1000FLOKIUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ENSUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BABYUSDT": {
+    "5min": {
+      "current_volume": 4903.082200000002,
+      "average_volume": 9792.130480000002,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BIOUSDT": {
+    "5min": {
+      "current_volume": 3452.767370000002,
+      "average_volume": 4644.859896,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "JUPUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "JUSDT": {
+    "5min": {
+      "current_volume": 502.13502,
+      "average_volume": 353.712084,
+      "trend": "Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SEIUSDT": {
+    "5min": {
+      "current_volume": 67876.51009999997,
+      "average_volume": 48469.55247999998,
+      "trend": "Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "DOGSUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SOLAYERUSDT": {
+    "5min": {
+      "current_volume": 22192.45760000001,
+      "average_volume": 29092.43929999999,
+      "trend": "Below Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "COWUSDT": {
+    "5min": {
+      "current_volume": 3820.6097999999984,
+      "average_volume": 3601.85156,
+      "trend": "Above Average"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "DOGEUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ETCUSDT": {
+    "5min": {
+      "current_volume": 21479.650199999996,
+      "average_volume": 34426.14848,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "GIGAUSDT": {
+    "5min": {
+      "current_volume": 6241.102200000005,
+      "average_volume": 13465.256599999999,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ICPUSDT": {
+    "5min": {
+      "current_volume": 3724.9257999999995,
+      "average_volume": 21700.76375999999,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "1000BONKUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ANIMEUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SANDUSDT": {
+    "5min": {
+      "current_volume": 20018.22919999999,
+      "average_volume": 47278.68598000008,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "GOATUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "1000PEPEUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "JASMYUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "1000TOSHIUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "APTUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BTCUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "FARTCOINUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "AIXBTUSDT": {
+    "5min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "SPXUSDT": {
+    "5min": {
+      "current_volume": 4360.370600000001,
+      "average_volume": 6800.803640000004,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "ALGOUSDT": {
+    "5min": {
+      "current_volume": 1234.9374500000001,
+      "average_volume": 12733.252298000001,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  },
+  "BLURUSDT": {
+    "5min": {
+      "current_volume": 1796.1802,
+      "average_volume": 4182.00158,
+      "trend": "Low Volume"
+    },
+    "15min": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "4H": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    },
+    "1D": {
+      "current_volume": 0,
+      "average_volume": 0,
+      "trend": "Insufficient Data"
+    }
+  }
+}
